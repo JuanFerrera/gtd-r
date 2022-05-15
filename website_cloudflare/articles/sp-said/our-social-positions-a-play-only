@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Our social positions - a play only
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=2">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-said?page=5">Śrīla Prabhupāda said</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Our social positions - a play only</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/61_5e6b18790297cb14-Prabhupada12-800x250.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">06 May 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">When Srila Prabhupada said on February 19, 1976 in Mayapur &quot;Father, mother.. it&#39;s just a play...&quot; He certainly wasn&#39;t rejecting our social duties and positions. But from the ultimate, spiritual point of view, these are finally situations generated from our temporary bodily existence. He also mentioned Lord Caitanya&#39;s intimate discourse with Ramanda Roy, where Ramananda describes the different situations of the soul explained in the Vedas progressively. Any time he makes a statement, Lord Caitanya doesn&#39;t reject it, but cautions him to go higher. By the time starting with varnasrama dharma and arriving at rasa lila, Lord Caitanya finally stops Ramananda, confirming that there is nothing more to be said.</p>
+
+<p style="text-align: justify;">And so regarding our social positions &ldquo;it is a play only&rdquo;, as many of us experienced in our lifetime. Those who didn&#39;t yet&hellip; they will!</p>
+
+<p style="text-align: justify;">One can be only a friend when one&acute;s friendship is accepted, one can only be a husband or a wife when one is accepted in this way, one can only be a parent when one is accepted by once child to be so, one can finally only be a devotee when one is recognized by Krsna via His pure devotee.</p>
+
+<p style="text-align: justify;">To DESIGNATE oneself to the particular position is not only frustrating, but also dangerous. Krsna doesn&#39;t bless the designated ones, but the real ones, as He is specifically stressing in the third chapter of Bhagavad-gita (Bg. 3/6, Bg. 3/8, Bg. 3/33, Bg. 3/35, and finally Bg. 18/47).</p>
+
+<p style="text-align: justify;">To be simply designated makes one into a dysfunctional entity at best, or a hypocrite at worst.</p>
+
+<p style="text-align: justify;">And so in order to function in particular position, one needs the cooperation or the blessing of the other one.</p>
+
+<p style="text-align: justify;">In terms of our social position, the society is in total chaos where nobody knows anymore how to act to faciliate the other. In terms of our spiritual position, Srila Prabhupada defined it as &quot;..disciple attacks the spiritual master. This is Kali Yuga.&quot;</p>
+
+<p style="text-align: justify;">And so often the only safe and secured position for a devotee is his given right to be the eternal servant of the Lord. Nothing can take this away from him, and even obstructed, let&#39;s say institutionally. (Yes, I am not alone who can document that even in spiritually motivated society such obstructing elements do exist. Even Srila Prabhupada had the unfortunate experience to be obstructed by envy of His godbrothers.) Finally a devotee has his constitutional right to serve the Lord to the best of his capacity.</p>
+
+<p style="text-align: justify;">When I joined Srila Prabhupada&#39;s movement in 1972, one of the &quot;senior vaisnavas&quot;, the one who joined six months earlier than me:-), told me a most inspiring news: &rdquo;Krsna doesn&#39;t see what you are giving. He sees what you are hiding.&rdquo; And so, even it wasn&#39;t much, I tried to give everything. I knew it&#39;s never enough, afterall everything belongs to Krsna. But even more so overwhelming was Srila Prabhupada&#39;s and Krsna&#39;s gratitude for my mediocre attempts to satisfy Them.</p>
+
+<p style="text-align: justify;">And so there is no need to seek a DESIGNATED position in times we are not socially able to act the way we may think we have to. Such &quot;call of duty&quot; can be ignored, as much Arjuna was encouraged to give up his social considerations. In his case the choice was easy. Those he desired to worship and serve to, stood on the other side of a battle field, ready to kill him. Things may not always be so clear. But we can only be what we try to be, when our attempts are accepted.</p>
+
+<p style="text-align: justify;">Even Srila Prabhupada after lifelong service had to admit that &quot;as grhasta I was defeated&quot;. Finally he had to face the situation that it was the money his family members desired, not Him. Once there was no money, He couldn&#39;t be a father or even a husband.</p>
+
+<p style="text-align: justify;">Besides that Krsna called for Him to save the world :-) &nbsp;And so He did. All glories to His Divine Grace Srila Prabhupada!</p>
+
+<p style="text-align: justify;">Even we may not save the world, we may face the same dilemma, not to be able to be what we are supposed to be, once not followed or accepted. Every introspective guru certainly could document this by examples of his disobedient disciples. And so the world is full of desperate parents, desperate husbands, desperate wives, and desperate gurus. A perfect situation to develop a sincere desire to go back home, back to Godhead.<br />
+&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/sp-said/our-social-positions-a-play-only" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="61">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-said?page=5"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Can Krsna make jokes?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=8">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Can Krsna make jokes?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">11 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">Certainly, the jokes of the Supreme Personality of Godhead as recorded in Nectar of Devotion are of such genius nature that since He made them thousands of sages analyze their dimensions, geniality and wit.</p>
+
+<p style="text-align: justify;">Such is the humor of Krsna. Reflected in Srila Prabhupada, devotees truly enjoyed His wit and spontaneously inspired &quot;jokes&quot; which always carried a lesson to be learned and wisdom to be remembered.</p>
+
+<p style="text-align: justify;">There are two classes of beings who don&rsquo;t understand humor: demons and kanistha adhikaris. Both have one on common; they are totally obsessed with their false egos. One truthfully atheistic and the other hypocritically theistic. Both are materially motivated and so they depend on designations which define their existence in this world.</p>
+
+<p style="text-align: justify;">A real devotee doesn&rsquo;t care. He doesn&rsquo;t care about his social acceptance, knowing well that to be admired by fools is truly embarrassing. A real devotee cares only for the mercy of the Lord and so he appears in mundane peoples view to be asocial, emotionally dissatisfying or even arrogant.</p>
+
+<p style="text-align: justify;">But he is not. He knows that his loyalty belongs to the Supreme Lord and not to those who are fascinated by this illusory world. That makes him to a true revolutionary.</p>
+
+<p style="text-align: justify;">History is filled with names of those who are initially of revolutionary nature, but then, being molded by &quot;success&ldquo;, they are subdued by name fame and glory, becoming simply puppets in the hands of their audience. Some may be called social leaders, some may be called spiritual leaders, and some may be called &quot;gurus&quot;. They all &quot;change&quot; in due course of time from revolutionary idealists to autocratic despotic fools who are victimized by their own narcissism.</p>
+
+<p style="text-align: justify;">Then there are those who are intelligent enough to be suspicious about maya&rsquo;s tricks offering them prominent positions in this world. Essentially they are of brahminical nature, but of course, not being under the protection of guru parampara, they still are conditioned by the fact that they thinking themselves to be the cause of their intellect. To feel &quot;distinct&quot; is very subtle trap where maya upgrades to the level of intelligence of that particular &quot;thinker&quot;. Nevertheless such &quot;distinct&quot; humans may be enough introspective to guess that they are limited and by empiric knowledge they learn to understand that they are conditioned. As Srila Prabhupada pointed out, by empiric knowledge we may even learn to understand that we are not this body. On basis of their previous pious activities such &quot;jnanis&quot; are given the opportunity to have glimpses beyond the limits of the general conditioning of others, but without shelter of a bona fide spiritual master they nevertheless cannot get the glimpse of the spiritual world.</p>
+
+<p style="text-align: justify;">Nevertheless, as demonstrated in the book &quot;Spiritual Dialectism&quot; which is by some considered &quot;controversial&quot; due to the rather unprofessional presentation of the individual &quot;thinkers&quot;, Srila Prabhupada did approve this book and imitated its publication. It is simply amazing how Srila Prabhupada despite the uncompleted presentation of the individual thinkers, starting in the time of the Greeks and ending up in the &quot;Modern Times&quot;, understood the essence of the teachings of these individuals and commented on them from vedic point of view very accurately.</p>
+
+<p style="text-align: justify;">Srila Prabhupada didn&rsquo;t hesitate to give credit to those who deserved it, devotees or not. He knew that only by the blessings of the Supreme a person can &quot;get an idea&quot; and so he appreciated a person according the level of &quot;his ideas&quot;. Even the receiver was not aware that everything comes from Krsna, Srila Prabhupada was. And so Srila Prabhupada&rsquo;s appreciation goes actually to Krsna and not to the individual author who is actually only a medium.</p>
+
+<p style="text-align: justify;">Being uttama adhikari Srila Prabhupada saw everybody being essentially engaged in Krsna&rsquo;s service. But for the sake of preaching He taught us to discriminate so we don&rsquo;t become &quot;pseudo-uttama adhikaris&quot;, in other words... mayavadis.</p>
+
+<p style="text-align: justify;">On this basis I do dare to quote a man whose wit and humor was entirely incompatible with the time period he lived in. Those who are actually gifted by knowledge which doesn&rsquo;t confirm the values of a particular time are usually prosecuted by general public, sometimes even declared to be madmen.</p>
+
+<p style="text-align: justify;">As one of these &quot;victims of their time&quot; said: &ldquo;The proof that you are saying the truth is that they are trying to kill you for that.&rdquo; Srila Prabhupada said the same: &ldquo;If the leaders of the society really would understand what I am writing, they would kill me&rdquo;.</p>
+
+<p style="text-align: justify;">But Krsna is so kind that he either covers the vision of the demons, making them to think devotees are of primitive and harmless nature, or devotee gets the gift to pass by the demons due to their inability to understand the message transmitted by the media of humor. Any book distributor, spending his time on the street, knows that art of humor in order to neutralize the false ego of the conditioned soul.</p>
+
+<p style="text-align: justify;">Real humor, the one powered by intelligence and not the simple urge to laugh about the misery of others, (slap stick comedy), is able to tranquilize the false ego of fools and deliver the message for those who are more intelligent.</p>
+
+<p style="text-align: justify;">And so Srila Prabhupada&rsquo;s wit was absolutely satisfying , enlightening and invigorating, even He used the word &quot;rascal&quot; many times. When Srila Prabhupada saw Charlie Chaplin movie, He didn&rsquo;t take into consideration that Chaplin was a highly troubled womanizer. He saw that this man got the gift to expose stupidity via humor when it was needed. How easily Charlie Chaplains &quot;Modern Times&quot; do illustrate Srila Prabhupada&rsquo;s absolute aversion to &quot;industrial revolution&quot;. How easily Charlie Chaplin could illustrate the irony of dogmatism in his movie &quot;The Dictator&quot;.</p>
+
+<p style="text-align: justify;">Even such &quot;revolutionary thinkers&quot; end usually being stacked in some sort of social-humanistic dreams, something Srila Prabhupada didn&rsquo;t agreed with, their initial impetus to demonstrate the idiotism of others via humor was appreciated.</p>
+
+<p style="text-align: justify;">Here is another man, an Irish, who certainly entirely surpassed his time. His name was Bernard Shaw and he truly honored the Irish tradition: he was a revolutionary all the way through. Born 1856 in Victorian England, filled with imperialistic arrogance and strict rules dominating the social life in most hypocritical way, he instinctively opposed.</p>
+
+<p style="text-align: justify;">I can only imagine that if being able to meet Srila Prabhupada, who arrived in the West more as hundred years later, going on a morning walk, they would have good time.</p>
+
+<p style="text-align: justify;">Just the fact that Bernard Shaw was almost a militant vegetarian, must have made him to a total outlaw in the circles he moved around.</p>
+
+<p style="text-align: justify;">Here are some of his quotations, which of course can only be verified by his interpreters, but still carry very humorous and very witty points which a devotee can easily assimilate in his preaching. Almost every of the quotes mentioned could be easily complemented with a Vedic purport.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">About many people can be said that they contributed to the humanity more by their death as when they were alive.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">There is no more honest love as love to eat.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">The worst sin towards another being is not to hate him, but to be disconcerted with his very existence.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">Where there is no religion hypocrisy stands for good manners. Where there is no knowledge, foolishness proclaims itself automatically to be science.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">The one who is most afraid in jail is the chief.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">To be &quot;cultured&quot; is like being covered with paint which can be easily dissolved in alcohol.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">Freedom brings responsibility. This is the reason most people are afraid of it.</p>
+
+<p style="text-align: justify;">*</p>
+
+<p style="text-align: justify;">Beware of those for whom God is dead.</p>
+
+<p style="text-align: justify;">The advantage of most books is that you can live without them.</p>
+
+<p style="text-align: justify;">Truth is the only thing nobody wants to believe.</p>
+
+<p style="text-align: justify;">To buy oneself a dog is the only way how to get love by paying for it.</p>
+
+<p style="text-align: justify;">The wisdom of my enemies never harmed me that much as the stupidity of my friends.</p>
+
+<p style="text-align: justify;">Marriage is not like lottery. In lottery you can sometimes win.</p>
+
+<p style="text-align: justify;">Those who know women are rarely optimist.</p>
+
+<p style="text-align: justify;">There used to be platonic loves. Now there are platonic marriages.</p>
+
+<p style="text-align: justify;">From a man we get information what he thinks by opposing him. From a woman we get information what she thinks by agreeing with her.</p>
+
+<p style="text-align: justify;">People who have nothing to say always find words to say it.</p>
+
+<p style="text-align: justify;">Most people appear in this world with an assistance of a doctor. And they leave this world in the same way.</p>
+
+<p style="text-align: justify;">Few times I exchanged my views with an idiot. And it seems to be that I became stupidities.</p>
+
+<p style="text-align: justify;">Marriage: three weeks admiration, three years of conflicts and thirty years of tolerance.</p>
+
+<p style="text-align: justify;">Experience is teaching us that people never learn anything from experience.</p>
+
+<p style="text-align: justify;">If a man wants to kill a tiger he calls it sport. If the tiger wants to kill the man, he calls it an act of rage.</p>
+
+<p style="text-align: justify;">Democracy is the last trick of tyranny.</p>
+
+<p style="text-align: justify;">Women can never be temporary guests. They don&rsquo;t know how to do it. In their hidden ways they keep on constructing homes even in midst of floods, wars, dawns of invasions, in times where whole nations face their destruction.</p>
+
+<p style="text-align: justify;">The specialists know more and more about smaller things. One day they will know everything about nothing.</p>
+
+<p style="text-align: justify;">How many fools, realizing that the girl has beautiful eyes and legs, get married to the rest.</p>
+
+<p style="text-align: justify;">Injury caused by words is always deeper as the injury caused by a sword.</p>
+
+<p style="text-align: justify;">God who cannot answer my questions is good for nothing.</p>
+
+<p style="text-align: justify;">For a women dress is only a compromise between stated desire to be dressed and the unstated desire to be undressed.</p>
+
+<p style="text-align: justify;">Science never solves one problem without creating ten others.</p>
+
+<p style="text-align: justify;">Women want not less as everything and never later as now.</p>
+
+<p style="text-align: justify;">The &quot;man of wisdom&quot; is nobody else as lazy man killing his time with academic studies. Beware of false &quot;knowledge&quot;, it is more dangerous as ignorance.</p>
+
+<p style="text-align: justify;">There is nothing worse for a man as admiration of fools.</p>
+
+<p style="text-align: justify;">The character of some humans is like teeth. The more rotten they are the more they hurt if you touch them.</p>
+
+<p style="text-align: justify;">Communism is dilettante form of Catholicism. I reality it&rsquo;s the same. There is never lack of preachers.</p>
+
+<p style="text-align: justify;">If English can survive what they eat, they can survive anything.</p>
+
+<p style="text-align: justify;">A woman who searchers a husband is the most dangerous beast.</p>
+
+<p style="text-align: justify;">&quot;In a healthy body is a healthy spirit&quot;. This is the most absurd statement. Healthy body is a product of&hellip; healthy body.</p>
+
+<p style="text-align: justify;">The more decent is a man, the more is he ashamed.</p>
+
+<p style="text-align: justify;">All big truth are considered in the beginning a blasphemy.</p>
+
+<p style="text-align: justify;">Thieves finally found their revenge when Marx proved the capitalists to be guilty of theft.</p>
+
+<p style="text-align: justify;">Operating doctors are different from others in that sense that they wash their hands even before the operation.</p>
+
+<p style="text-align: justify;">I assume that you think very rarely. Only very few think actually three or four times a year. I became famous because I think once or twice a week.</p>
+
+<p style="text-align: justify;">My marriage started like passion and ended like a habit. So did most of others.</p>
+
+<p style="text-align: justify;">You don&rsquo;t have to believe what you hear, but alas, you can repeat it.</p>
+
+<p style="text-align: justify;">Everybody complains that his memory is failing him. But nobody complains about failing intelligence.</p>
+
+<p style="text-align: justify;">Animals are my friends. And I don&rsquo;t eat my friends.</p>
+
+<p style="text-align: justify;">I cannot imagine that my body should become a grave yard for others.</p>
+
+<p style="text-align: justify;">(Receiving 1925 a Nobel Price) I can forgive Nobel for inventing dynamite. But only devil in human form can invent Nobel Price.</p>
+
+<p style="text-align: justify;">A debate becomes always heated when at least one of the speakers has no idea what he talks about.</p>
+
+<p style="text-align: justify;">Englishmen are not very spiritual people. They therefore invented cricket so it may give them some idea about eternity.</p>
+
+<p style="text-align: justify;">The brain of an idiot changes philosophy into foolishness, science into mere faith and art into mediocrity. Academic education serves this purpose.</p>
+
+<p style="text-align: justify;">The only reasonable man is my tailor. He measures me every time I visit him.</p>
+
+<p style="text-align: justify;">Compliments are de-evaluating every conversation.</p>
+
+<p style="text-align: justify;">Titles are elevating mediocre people, embarrass the extraordinary ones and are made worthless by people without any value.</p>
+
+<p style="text-align: justify;">No man who does something of value in this world has enough time and money for such expensive and time consuming hunting excursions as is hunting women.</p>
+
+<p style="text-align: justify;">From the fact that I became a writer cannot be deducted that I never tried to do something respectable.&nbsp;</p>
+
+<p style="text-align: justify;">Democracy means replacing the assignment of few corrupt ones with the election of the incompetent ones.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/can-krsna-make-jokes" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="180">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=8"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

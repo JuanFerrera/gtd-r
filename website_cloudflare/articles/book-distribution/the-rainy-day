@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            The rainy day
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=3">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/book-distribution?page=4">Book distribution kī&nbsp;jaya!</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>The rainy day</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/54_pexels-photo.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">22 Mar 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">I still remember that small town in middle of Germany where we parked our car. The town was indeed very small and on top of that we had already days and days of rain pouring down on our water soaked books and bodies.</p>
+
+<p style="text-align: justify;">Getting sick, I chanted in the hotel my rounds in a dizzy type of condition, trying to get my feverish mind under control. finally arriving in the middle of the town I watched the devotees getting out of the car, with great roar and determination once again ready to push Srila Prabhupada&rsquo;s books into the laps of the stubborn and obstinate (German:-) conditioned souls. I decided to stay back for little while, hoping that the fever will somewhat be reduced during the day. But after few minutes sitting in an empty cold van, I could see the first karmis passing by the condensate water covered windows of the car I was imprisoned in. The sight became intolerable.</p>
+
+<p style="text-align: justify;">I decided to get some books into my sankirtan bag and &quot;try it out at least for few minutes&quot;. Maybe it was possible to overcome my mind which indicated to me that I am indeed a sick man.</p>
+
+<p style="text-align: justify;">I got out of the van and felt truly weak. &nbsp;Women passed by and I just turned around, not taking even one step and whispered: &ldquo;Hello&rdquo;. She stopped instantly. Caught by surprise by such instant response following such a little action, I kept on whispering my distribution mantra, not believing that she can hear me at all. She looked seriously at me and then at the book, took out her money bag and bought it. I thought, &ldquo;Well at least one book I sold today&rdquo;.</p>
+
+<p style="text-align: justify;">Then I took few steps, turning to a man passing by. He stopped also instantly, but not being able to hear me, came very close. I simply whispered again my mantra, thinking how wonderful Srila Prabhupada is that He allows me to be here. My voice chocked at the memory of Srila Prabhupada&rsquo;s gratitude towards His disciples He so wonderfully demonstrated in one of His Vyasa-puja lectures. I lost the contact to the man standing in front of me, but somehow he didn&rsquo;t lost contact to me. He asked me how much the book did cost and&hellip; bought it.</p>
+
+<p style="text-align: justify;">Next person passed me by, but stopped and came back. Almost like in a silent slow motion movie, I passed over the book and like in some sort of dream returned to the car to fill up my bag again. Whole day passed by and I started to cry, not believing that I could still walk and whisper. It was getting dark and so I returned to the car where already the rest of the sankirtan party was sitting, counting the laksmi and exchanging their ecstatic sankirtan stories.</p>
+
+<p style="text-align: justify;">Seeing me, soaked wet from the rain, dragging my feet along, practically popping into the car with only one ability left, to start it, the bhaktas compassionately looked upon me and asked: &ldquo;How many books did you do?&rdquo; I whispered again: &quot;I don&rsquo;t know I have to count them&quot;.</p>
+
+<p style="text-align: justify;">This was the first day in my life I did 108 books in one day. This was at that time the ISKCON record. And it was the day I felt weakest, most desperate and most dependent on Srila Prabhupada&rsquo;s mercy.</p>
+
+<p style="text-align: justify;">Next day I woke up, more refreshed, felt much better, and chanted my rounds in much more concentrated spirit and full of passionate enthusiasm jumped on the street with another load of Srila Prabhupada&rsquo;s books. I laughed at the first approaching man and pushed the book into his hand. He looked angrily at me and said loudly: &ldquo;Get lost!&rdquo;&hellip; I struggled the whole day.</p>
+
+<h3 style="text-align: center;"><strong>MORAL</strong></h3>
+
+<p style="text-align: justify;">Krsna&rsquo;s mercy cannot be attracted by our pathetic heroism, youthful passion or heavy duty sadhana. It&rsquo;s our pride Krsna sees and He is not impressed. After all, He is the Supreme Person and can clearly see what our true motivation is. To impress the world with our heroic deeds puts us in comparison with Krsna&rsquo;s gigantic display of His energies into the category of fools and comedians.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/book-distribution/the-rainy-day" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="54">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/book-distribution?page=4"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

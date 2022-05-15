@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            More sankirtan stories
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=3">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/book-distribution?page=8">Book distribution kī&nbsp;jaya!</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>More sankirtan stories</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">10 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">As mentioned before, distributing books for fifteen years in Germany gave us plenty of opportunities to study the psychology of a German police man. Not all of these specimens were of arrogant or abusive nature, After all even in a body of a police man dwells a wonderful soul.</p>
+
+<p style="text-align: justify;">Here two stories demonstrating this fact:</p>
+
+<p style="text-align: justify;">Once I drove with my car alone to a very remote little town in midst of the Black Forest area in South Germany. I knew the place to be &quot;nectar&quot; as it provided a very personal and intimate atmosphere. Well, maybe &quot;too intimate&quot;. The town consisted of one main market place and few side streets only. After parking the car outside, I started to distribute. I knew, place like this has to be dealt with very gently. There was no way, &quot;to mix with the crowd, as there was no crowd. Approaching the single household wives going shopping in the morning, I found myself soon to be observed intensely by a lonely police man standing at the corner.</p>
+
+<p style="text-align: justify;">&quot;Alas&quot;, I thought, such a nice town and now my day is ruined. I tried to escape into some smaller side streets, but the little fat man followed me instantly, still watching from a distance. This game was going on for almost half an hour before I gave up and walked out straight towards him, trying to pass him by. He stopped me instantly. &ldquo;Hey, you are Hare Krsna, right?&rdquo; There was nowhere to hide and so I answered smilingly: &ldquo;Yes, what can I do for you?&rdquo; He asked quickly: &ldquo;Where is the car?&rdquo; I was prepared and not ready to surrender my car to him so easily so it can be searched at the local police station. I said: &ldquo;I came by train, there is no car&rdquo;. He looked annoyed and said: &ldquo;don&rsquo;t be foolish, I know that you came by a car. It&rsquo;s probably standing in the small parking lot at the edge of the town.&quot; He was right. Somehow I saw something in his eyes which was rather uncommon. He wasn&rsquo;t challenging at all, rather curious. I told him, still smiling: &ldquo;You really want to see the car?&rdquo; He eagerly said: &ldquo;Yes&rdquo;.</p>
+
+<p style="text-align: justify;">And so I went to the car with the little man following me all the way. As soon we reached the car and I opened it&hellip; he jumped in. I couldn&rsquo;t believe it. Suddenly I had that little police man sitting comfortably in my sankirtan van, asking a simple question: &ldquo;Where are the books?&rdquo; I opened the back and showed him the whole supply I had with me. He went eagerly through the books, saying repeatedly. &ldquo;Oh, I have this one, I have that one, this I read already&rdquo;.</p>
+
+<p style="text-align: justify;">I relaxed. This never happened before. After a while the man finally found a book he didn&rsquo;t read yet. Collecting two books more, he paid for them and while sitting still in the back seat of the car, he looked very satisfied. I sit down as well and we had a very relaxed talk. He asked for prasadam and I gave him a banana. Chewing happily on the banana, he explained to me how he is chanting since three years. He saw that I am slightly skeptical and so he pulled out of his uniform a rather worn out bead bag. He said proudly: &ldquo;I chant finally sixteen rounds a day!&rdquo; I asked him where he met the devotees first time&hellip; but he didn&rsquo;t. As matter of fact I was the first devotee he spoke to. All the other books he ordered from the temple per mail. As we talked happily, suddenly he crashed down on the floor of the sankirtan van while quickly taking of his police hat. I was surprised. But soon I could understand as a police car slowly passed by, that the little man is hiding from his colleagues. When they disappeared my friend came up again, set down and said smilingly, &quot;They are looking for the Hare Krsna&rsquo;s&quot;.</p>
+
+<p style="text-align: justify;">And so he finally exited the van, telling me that I should be careful next time I come, since &quot;the police chief is not so friendly&quot;. I met this &quot;police bhakta&quot; several times more as I regularly stopped in this little town. He always knew when I come as he heard it on the police radio, took over the task to find the Hare Krsna&rsquo;s, got our latest published books and reported back to the chief that there are no Hare Krsna&rsquo;s monks in the town.</p>
+
+<p style="text-align: justify;">After some years suddenly our contact broke. Through various tricks I found out that he quit his police service and moved on. I never saw him again.</p>
+
+<p style="text-align: justify;">Here another one:</p>
+
+<p style="text-align: justify;">Being so absorbed into book distribution we were hesitant to return to the temple even for the weekends. To stay on Sunday out provided a special challenge as until today Sunday is a day where hardly any shops are open, everything freezes to the sounds of bells being rung in empty churches and the Germans retreat to their flats and gardens to cut once again their loans so precisely that no blade of grass can grow without the permission of its well organized owner. Competing with the neighbors who has the latest gardening machinery and who has the best polished car, they cannot wait until they again pile up on the highways on Monday, heading for their assigned places, eagerly to work hard for the increase of the German national product. The signs above the entrances of the concentration camps heralded to the incoming Jews &quot;Arbeit Macht Frei&quot;. &quot;The work liberates you&quot;.</p>
+
+<p style="text-align: justify;">And so on such days, looking at the empty streets, we decided with my godbrother Haraka das to park our car in front of the concrete block living area and go door to door. Being well trained, we started our distribution at the top level, knowing that the house keeper of the facility usually lives at the bottom, ready to throw us out. To get into such a living complex wasn&rsquo;t easy, as all the doors were locked and guarded by intercom. My godbrother developed for this purpose amazing &quot;mantras&quot;. He was expert to get in by any means.</p>
+
+<p style="text-align: justify;">(When asked at the loudspeaker that he is, he boldly replied: &quot;Post&quot;, meaning that the postman arrived. People opened instantly and when catching the sight of him, he introduced himself with a big smile: &quot;Hello, my name is &quot;Post&quot;. By that time the surprised residents couldn&rsquo;t help but laugh and they forgot how he made his way to their flat.)</p>
+
+<p style="text-align: justify;">And so we went door to door, giving out quite some number of books. When we arrived at the exit door again, we suddenly saw a police car parking in front of the entrance. There was no way to escape, they spotted us already. And so we went out, just to be stopped by them instantly. &quot;What are you doing here&quot;, they asked. &quot;Oh, we just visited a friend, &quot;was our answer. They didn&rsquo;t believe us at all. To our amazement suddenly many of the windows of the large building went open and the local inhabitant waved at the police with the same books in their hands we distributed to them few minutes ago while calling in a vicious manner: &quot;Yes, they were here! They were here!&quot;</p>
+
+<p style="text-align: justify;">The police officer looked at us and said calmly: &quot;Get into the car&quot;. We knew that from now on it&rsquo;s going to be complicated. To be driven to a police station always meant lots of paperwork, followed up possibly by some court case. This wasn&rsquo;t After all just a routine ID-card control.</p>
+
+<p style="text-align: justify;">We drove for quite a while. We started to wonder where the police is taking us as it was not customary to be driven for such a long distance. Nobody spoke to us one word. Finally we arrived at the small police station and we walked in. As soon the three police men closed the door, they turned to us and said: &quot;Show us all the books&quot;. We emptied our sankirtan bags and they started to go through one book after another. Then the chief turned to us and asked: &quot;How much do you want for all this&quot;.</p>
+
+<p style="text-align: justify;">We relaxed. We sold to them practically all the books we had. Finally they told us that they heard on the police scanner that some people called, complaining about our Sunday sales. Pretending to be close by and &quot;go there and check it out&quot;, they drove all that distance just to get to the house we distributed in, take us in custody and get to the books. They were very happy to get them all, drove us back and wished us the best for further book distribution. The only advice they gave us on the way was: &quot;don&rsquo;t go to the same building again&quot;. We surely followed that instruction :-)</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><strong>THE MAN WITH THE BELT</strong></p>
+
+<p style="text-align: justify;">Once, in a city in Germany called Freiburg, while distributing I heard screams of various men and women in neighboring shopping streets. The screams became louder and soon I saw the cause of the whole turmoil. A half necked man raged through the streets, a leather belt in his hand, beating whomever he could reach. The heavily built lunatic attacked various pedestrians, roaring like a beast.</p>
+
+<p style="text-align: justify;">Assuming that a contact with such a man wouldn&rsquo;t be exactly beneficial for my book distribution I moved to a side street. Being dressed in dhoti didn&rsquo;t make me exactly anonymous and so I tried to stay out of his view. But alas, soon the same monster appeared even in that small street and as I moved to the main market place, hoping that his full exposure to public would prevent him to do what he obviously liked to do, he noticed me and started to follow.</p>
+
+<p style="text-align: justify;">Reaching the center of the city, I could see that his eyes were focused on me. Somehow I decided not to run anymore, turned my back to him and addressed a lady passing by, reaching out with the book for her. The man almost jumped on me from behind, the eyes of that woman went wide open, and I fell to the ground. Lying on my back I saw the man standing above me with raised hand, ready to hit me with his belt.</p>
+
+<p style="text-align: justify;">I yelled out the only and last prayer I could remember: &quot;Namaste Narasimhaya&hellip; . . !Chanting Lord Nrsimhadevas name as loud I could I saw the man standing above me suddenly not being able to move his raised hand. As if paralyzed, he was unable to move. He yelled even louder as me: &ldquo;Stop it! Stop it!&rdquo;, hoping that I end my prayers.</p>
+
+<p style="text-align: justify;">This lasted for almost a minute until suddenly a Volkswagen bus full of police men arrived at the scene in full speed. At least five police men jumped out of the van and grabbed the monster. They pulled him into the car, pressed his head on the floor and kept on beating him with all the strength they had. Lying on the street, the last thing I saw was the departing van with side door open with the one leg of the culprit still sticking out as the rest of his body was covered by the police men sitting on him.</p>
+
+<p style="text-align: justify;">The car left and I got up, finding myself surrounded by a modest crowd of amazed spectators. I smiled and addressed the crowd: &ldquo;Ladies and gentlemen, the performance is over and as a bonus here we have few wonderful books from ancient India for you to see.&rdquo; One younger man laughed and bought a book.</p>
+
+<p style="text-align: justify;">I never forgot that image of the paralyzed surprised lunatic who couldn&rsquo;t understand why his hand suddenly couldn&rsquo;t any move as much I couldn&rsquo;t understand why Lord Nrsimhadeva so wonderfully protects his fallen sankirtan devotee.</p>
+
+<p style="text-align: justify;">Nrsimhadeva Bhagavan ki jaya!</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><strong>THE EVER YOUTHFULL DEVOTEE</strong></p>
+
+<p style="text-align: justify;">Once, in a small town in midst of Sweden I distributed Srila Prabhupada&rsquo;s books with a young devotee. The main challenge while distributing books in Sweden was not to distribute them, not to find people who could take them&hellip; but to find people at all! After all, only few million of Swedish citizens are spread over waist area of thousands of kilometers, populated mainly by trees and moose.</p>
+
+<p style="text-align: justify;">In middle of the day I met finally a group of young girls returning from the school. Seeing nobody else present, I took my chance, said my very simple &quot;mantra&quot;, &ldquo;Hello I am coming from there and going over here&hellip; with these amazing books :-)&ldquo;, smiled and the giggling girls took two books, their teenager laughter changing into real transcendental happiness.</p>
+
+<p style="text-align: justify;">Walking around the corner, they met my bhakta friend who, desperate for customers, also offered them a book again. Still laughing, they told him: &ldquo;No, we already got books from the young man standing around the corner!&rdquo;</p>
+
+<p style="text-align: justify;">The bhakta got confused. After all, we were the only two devotees in town and he knew that I am by no means that &quot;young&quot; anymore. He came around the corner and seeing me standing there, asked innocently: &ldquo;Are there more devotees in town?&rdquo; I told him: &ldquo;No, why?&rdquo; &ldquo;Well, there was this group of young girls and they said they got the books from some &quot;young man&rdquo;. I laughed and told him: &ldquo;That was me. Don&rsquo;t you understand, on sankirtan one gets younger and younger?&rdquo; He wasn&rsquo;t so sure if I am making a philosophical point or if I am just joking. I kept on walking and while turning back I said: &ldquo;It&rsquo;s just a joke, you know&rdquo;. He was relieved.</p>
+
+<p style="text-align: justify;">This is quite some years ago, but now, occasionally going out with books, I still say the same &quot;mantra&quot;, I still meet giggling school girls in the age of my daughter and they still take sometimes books. Looking into some reflecting surface while standing in the shopping street I wonder, &ldquo;Do I have to change my approach? Doesn&rsquo;t it look weird, a man in this age still smiling at girls?&rdquo; Then I think: &ldquo;Why should I change anything when they still take books?&rdquo;:-)</p>
+
+<p style="text-align: justify;">Sankirtan is not about sophisticated or updated approach. Sankirtan is about enjoying the wonderful service one got from Srila Prabhupada and deeply appreciating the unique mercy emanating from His lotus feet. The rest is simply not so important. Even I am reaching age of sixty; I have no inspiration to appear as a &quot;senior&quot; man on the street, the embodiment of maturity and wisdom, ready to bestow my lifelong transcendental experience upon the conditioned souls. Aging in maturity, as a rotten old cheese, here I come, the savior of mankind!</p>
+
+<p style="text-align: justify;">I know that nobody would take a book from such an egocentric, narcissistic and seniority complex inflicted fool. And so I joke and make little girls giggle and old man laugh, as sankirtan has nothing to do with &quot;seniority&quot;, or &quot;merit of institutional titles&quot;, or other designations relating to the age and state of destruction of this decomposing body.</p>
+
+<p style="text-align: justify;">This wonderful service of sankirtan book distribution is keeping us young as Srila Prabhupada always is, in our position as eternal servants of the Lord, hopefully life after life. A young sankirtan devotee, his body of an age of my potential son, can be far more inspiring to the conditioned souls as a &quot;senior vaisnava&quot; surrounded by a cloud of melancholy which rose from the pit filled with his frustrated expectations.</p>
+
+<p style="text-align: justify;">As Krsna is ever fresh, so is His sankirtan movement along with His pure devotee who opens the doors to this ocean of bliss for us. We can enter and enjoy our eternal youth or we can be stamped into the ground by the all-destructive time. The choice is ours. The mercy too&hellip; if we want it.<br />
+&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/book-distribution/more-sankirtan-stories" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="177">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/book-distribution?page=8"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

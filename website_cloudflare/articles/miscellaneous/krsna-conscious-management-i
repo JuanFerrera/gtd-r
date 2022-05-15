@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Krsna Conscious Management I
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=14">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Krsna Conscious Management I</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/242_1396057-10151995516685420-1271103593-n.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">08 Aug 2021</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">When the voice of the Supersoul dwelling in everybody&#39;s heart cannot be heard, management in this world is imminent. If we all live in absolute harmony and the Supersoul would be recognized as the ultimate and all-pervading manager, no other management would be needed as everybody would be in tune with the Supreme Will of God. Once we are too dull to hear such divine guidance, management in this confusing world of dualities is needed.</span></p>
+
+<p style="text-align: justify;"><br />
+<span style="font-size:16px;">Management in the mode of ignorance can be hardly called management, as the one who tries to manage is for certain of destructive nature in regards to himself and to others as well. </span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Management in the mode of passion can take initially very impressive dimensions, however, since it is materially motivated and powered by greed and bodily ambition, it surely leads to a collapse, which is generally followed by the mode of ignorance. </span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Management in the mode of goodness is rare to be seen, and in these rapidly advancing Kali Yuga days practically invisible. Such management is concerned with maintenance of values and systems, which proved to be practical and useful for generations, and ignores any &bdquo;innovative&ldquo; ideas of those who simply want to make money by dint of worthless inventions, or for fame to look &bdquo;very innovative&ldquo;.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">In ISKCON we saw both, passion and ignorance, and those who for fifty years observed the creative and destructive periods of this movement can testify how impressively destructive can be a management in the mode of passion, and how rare in Srila Prabhupada&acute;s movement is to find management in the mode of goodness.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Srila Prabhupada started His movement in America, the heartland of passionate expansive ways of management. Country, which like none other before had developed into an industrially organized nation powered by mighty corporations and industrial tycoons of the known and unknown kind. </span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Srila Prabhuda was aware of the &bdquo;expanding and colonizing American policy&ldquo; and made the best out if it: He engaged it in the preaching, expanding the mission of Lord Caitanya Mahaprabhu. But He also issued the first warnings in regards to His explosively growing movement by pointing out to the tendencies of His business-minded disciples to make a &bdquo;quick fortune&quot;&hellip; and lose it again.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">He even said that &bdquo;You Americans, you know how to make money, but you think that any problem can be covered by money. You don&#39;t solve problems, you simply paste them over with money.&quot;<br />
+This is clearly visible today, when the value of money was reduced to mere paper, abandoning the gold backed currency, resulting in a monopolized status of a very few, the owners of the ultimate money printing machine, individuals who are ready to colonize the whole world with their worthless paper currency.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Srila Prabhupada wanted devotees to have nothing to do with this. He quoted often Bhavagavad-gita where for his own maintenance a devotee is satisfied with &bdquo;what comes on its own accord&ldquo;, not seeing any use in increasing his personal material necessities.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">This is the power of a devotee. He can survive on very simple means while the materialist is more and more dependant not only on worthless, but also harmful articles and substances, endangering herewith his life and lives of others as well.<br />
+What does it matter when landscapes are covered with ghastly appearing propellers in the name of &bdquo;ecological energy&ldquo;. What does it matter when we drive our cars on more &bdquo;ecological fuel&ldquo;. The ever increasing greed and shopping frenzy of the never satisfied consumers is only welcomed by the ruthless sellers of those products, which basically nobody needs. With our planet being covered with intense radiation, we get to hear the broadcast of news nobody needs to know, we get socially extorted by those of demoniac nature who want us to believe that if we don&#39;t act the way the neighbor does, we may be dangerous to society as such.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">These intelligent demoniac leaders know how to create a global social pressures so people end up buying what they don&#39;t need and act suitable to the purpose of such ruthless deviants.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Devotees rigidly stand up against the &bdquo;mainstream&ldquo; and oppose such brainwashing propaganda. They depend entirely on Krsna&acute;s mercy. The Supreme Lord promises that those who meditate about Him and serve Him uninterruptedly, He will take care of them. My personal life is one single document to this wonderful statement of the most merciful Supreme Lord.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Demons, by nature envious, want to remove God as the primal supplier, and instal themselves in His place instead. And so Srila Prabhupada repeatedly cautioned us to be economically enthusiastic in terms of spreading Krsna Consciousness, but be simple when it comes to our own needs. </span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Unfortunately, in this movement originating from the USA, the mentality of &bdquo;money is honey&ldquo; became more and more prominent. Some became immensely rich, some immensely poor. Such imbalance is only a sign of management in the mode of passion, which cares little about the long term results but is only concerned with the immediate profit.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Seeing grand temples coming about... and then falling apart, I could easily testify with practical evidence how the mode of passion works. After collecting hundreds of thousands of dollars as a book distributor for seventeen years, and as temple president for more than fifteen years, operating with a budget that many temples today can only dream of, I purposefully didn&#39;t take part in the consequent stealing and opportunism, which always take place when a great leader for whatever reason departs.<br />
+The periods of plain survival which followed were most instructive. Since I was beginning to lose enthusiasm to work simply for the maintenance of my body, Krsna almost forcefully sent amazing helpers to convince me otherwise.</span></p>
+
+<p style="text-align: justify;"><br />
+<span style="font-size:16px;">Even today, when &quot;high grade of faith comanding high grade contributions&quot; are practically unknown, still the level of piety experienced specialy from the Indian and Russian congregation commands absolute transparency on the side of those who receive such contributions in Krsna&#39;s name. &bdquo;If even one penny is misused for one&#39;s own sense gratification, the spiritual progress of such devotee will be stopped&ldquo; is the firm warning Srila Prabhupada issues.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Whenever somebody contributes any funds to this movement, he MUST get the exact report for what purpose these funds were used. The financial non-transparency of many ISKCON leaders who live from public support provokes suspicion and accusations, that they may derive such material benefits on the basis of faith of the innocent pious souls.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">The reactions for such thieves are severe. Srila Prabhupada envisioned devotees be so pure, that they will receive contribution&nbsp;due to their purity. Freely, voluntarily and automatically, as confirmed in Srila Prabhupada&acute;s lecture on March 12, 1976 in Mayapur.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">And so, only management in the mode of goodness at worse, and a transcendental management at the best, can provide the growth of what Srila Prabhupada gave to us. A Krsna conscious manager doesn&#39;t indulge in some megalomaniac scenarios, grand visions without instant value and application. He rather serves modestly in a loyal mood to Srila Prabhupada&#39;s instructions and is alert for moments, manifesting when Krsna opens another opportunity to enlarge the scope of preaching.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">This may appear to some that such a manager is lenient and doesn&#39;t instantly jump into action, &bdquo;taking risks for Krsna&ldquo;. But with Srila Prabhupada&#39;s warning on his mind &bdquo;enthusiasm is good, but also some brain is required&ldquo;, such manager proceeds carefully along the opportunities Krsna provides. There are allurements and traps on the way as well, like in time when some &bdquo;supporter&ldquo; tries to &bdquo;buy himself into Krsna Consciousness&quot; by supplying money with hidden motivations. All these allurements will be shown to the one who serves seriously with pure motives to glorify Srila Prabhupada and the mission He entrusted to us.</span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Everything is based on preaching, and management follows preaching like a shadow.<br />
+Once the purity of preaching is compromised then the management is also polluted.<br />
+No wonder that many, if not most of devotees of today, living in grhasta asramas, are not so willing to contribute to some congregational project as they used to be.<br />
+Faith is like a Chinese precious vase. Once broken, one can collect the pieces and glue them together again, but it will never be the same. The only way to restore a faith is the absolute transparency and absolute loyalty to Srila Prabhupada&#39;s words on the side of the preacher and leader.</span></p>
+
+<p>&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/krsna-conscious-management-i" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="242">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=14"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

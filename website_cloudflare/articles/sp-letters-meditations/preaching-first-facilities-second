@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            PREACHING FIRST, FACILITIES SECOND
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=1">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-letters-meditations?page=10">Śrīla Prabhupāda’s letters meditations</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>PREACHING FIRST, FACILITIES SECOND</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">25 May 2019</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">In the following letter and many others Srila Prabhupada is cautioning His managers not to allow themselves to be removed from the preaching field by acquiring huge facilities, which may turn out to be so burdensome that the rest of the devotees ends up simply collecting&nbsp;&nbsp;money (by any means).</p>
+
+<p style="text-align: justify;">In this way, devotees get disabled to dedicate their time and energy to the care of the conditioned souls.</p>
+
+<p style="text-align: justify;">In ISKCON this was largely ignored with devastating effect; not only were acquired unproportional buildings, which later on filled with mostly those, who shouldn&rsquo;t live in them, turning out to be nightmares for anybody who tried to maintain them.</p>
+
+<p style="text-align: justify;">As much ANY temple has its challenges, specially on the level we preach (very openly and often indiscriminately), and besides those countries, where people are naturally driven by their inherent piety, others mostly don&rsquo;t support such large facilities. And so it is only wise to keep the maintenance of properties facilitating preaching minimal. Temples populated by more Deities&nbsp;than devotees or even worse, temples populated by those who shouldn&rsquo;t live there, are just sad testimonies of our inability to maintain, what was given to us.</p>
+
+<p style="text-align: justify;">Fortunately in these days of preaching poverty (speaking for Europe), nobody would get an idea to embark on such ambitious projects as it was done during the days of charismatic and absolute authority commanding leaders.</p>
+
+<p style="text-align: justify;">The temples in Europe, with few exceptions, are barely maintained, as those who inspired them are not present anymore, and the congregational field is hardly inspired to support&nbsp;- what to speak about to join such troublesome operations. Those countries, who have Russian or Indian congregations, are lucky, the rest is barely surviving.</p>
+
+<p style="text-align: justify;">Looking back all the years I myself distributed Srila Prabhupada&rsquo;s books, our book distribution ecstasy was often interrupted by &ldquo;collection marathons&rdquo; of various sort in order to pay off the already then unproportionally growing temples. Less bhaktas joined, more buildings were bought. Our GBC, gradually leaving the preaching spirit, came to a deadly conclusion that the more facilities we have to offer, the more people will join. Yes, they will join&hellip; but what kind of people!</p>
+
+<p style="text-align: justify;">There are those amongst us who are ready to misuse these facilities as visit cards of their own false egos, a kanistha adhikari class, which strives on temples, they see it&nbsp;as a source of their income. Or even worse, there are those who would like to turn these temples into some sort of &ldquo;yoga-hodge-podge-body-improvement-money-making machines&rdquo;.&nbsp;&nbsp;I had to see in this lifetime how fat women are stretching back parts of their bodies towards the Deities while using the temple room&nbsp;during one of such &ldquo;yoga seminars&rdquo;.</p>
+
+<p style="text-align: justify;">At least in days we used to distribute Srila Prabhupada&rsquo;s books, we were told that such money collection &ldquo;marathons&rdquo; are only temporary, lasting only&nbsp;for limited period of time in order to achieve certain goal.. and then we will keep on preaching. Actually it never happened, one marathon followed the other and more buildings were bought. We were ordered to turn to all kinds of &ldquo;paraphernalia&rdquo; distribution, worthless items that turned out to be profitable.</p>
+
+<p style="text-align: justify;">We, in Europe, who distributed occasionally candles, oil paintings of lowest quality, and vinyl records, something what Srila Prabhupada forbade entirely, we were lucky. Those going on &ldquo;sankirtan&rdquo; in USA, the heartland of all degradation, ended up selling paraphernalia not to be mentioned in this text.</p>
+
+<p style="text-align: justify;">Finally, as it was the case in New Vrndavana, the money collection ended up being so fierce, that devotes were engaged in plain criminal activities. Already in the early days of His movement, Srila Prabhupada said very clearly that such collection of money is not worth of it. He even mentioned that we should inquire where the money comes from before accepting it, as it may involve us with other&#39;s sinful activity.</p>
+
+<p style="text-align: justify;">Of course, those who go out on sankirtan know, that giving somebody Srila Prabhupada&rsquo;s books and accepting a donation for it is the best way to purify not only the conditioned soul, but the distributor as well. Sankirtan, book distribution, is purifying this entire planet, preventing its citizens from the rapid fall down into the hellish regions.</p>
+
+<p style="text-align: justify;">As much any grhasta is encouraged to increase his business and be eventually charitable, as much sannyasis and brahmacaries being motivated by money only, are a Kali Yuga anomaly, which unfortunately is common.</p>
+
+<p style="text-align: justify;">And so Srila Prabhupada warns His manager:</p>
+
+<p style="text-align: justify;">&ldquo;Sofar the repayment of the loan, we are not very much for big big houses, especially if they become burdensome. Our first program is for preaching, and if we have to simply work for paying money for a house, that is not very desirable. So you pay the loan at your convenience.</p>
+
+<p style="text-align: justify;">Better to concentrate on preaching and not so much on making money for repaying the loan quickly. Even if it takes some years to pay, at least you will not be always in anxiety where to get money in that way&hellip;&rdquo;</p>
+
+<p style="text-align: justify;">Letter to Nityananda das, Los Angeles, 16th&nbsp;of August 1972</p>
+
+<p style="text-align: justify;">This text may being seen as irrelevant to many, as in these days devotees are mostly living highly privatized lives, a way of living which comes naturally along the grhasta asrama. To create communities consisting of grhastas is highly demanding, as most of us are very &ldquo;opiniated&rdquo;, as Srila Prabhupada used to call it. To unite even small group of grhastas, who may strive to fight for the principles Srila Prabhupada established, is not easy. Every grhasta may finally face two questions: where will I get my financial needs and... where my children will go to school.</p>
+
+<p style="text-align: justify;">If these two essential needs are not covered, every community will fall apart.</p>
+
+<p style="text-align: justify;">And so &ldquo;living in the temple&rdquo; became a rather rare type of existence. For myself I can only thank again and again those devotees, who pushed me by their own example to live in the temple, who forced me to go out and distribute daily Srila Prabhupada&rsquo;s books, and who didn&rsquo;t allow me to turn back&nbsp;to my karmic destiny. To see what I would have become without their mercy is not difficult, my genetically designed body is still here and the offer to become an old fool is still available by maya&rsquo;s mercy. It is never too late to welcome maya&rsquo;s embrace, it is never too late to become a &ldquo;senior idiot&rdquo;.</p>
+
+<p style="text-align: justify;">Being drowned in sankirtan ecstasy, I had no chance to cultivate my imaginary &ldquo;needs&rdquo;. I didn&rsquo;t have the chance to become what I was destined to be by law of karma. Instead I&nbsp;got a real life, the life of a sankirtan street man, a most wonderful training, which allows to manifest the real nature of the soul.</p>
+
+<p style="text-align: justify;">Only in this way I can challenge today ANYBODY who claims to have some knowledge by confronting him with the undefeatable wisdom of Srila Prabhupada.</p>
+
+<p style="text-align: justify;">And so where there is preaching, there is life. In times where others seemingly feel the need to increase the number of imaginary titles being delivered to them in ISKCON of today, while the numbers of these hollow designations only increase, the numbers of those becoming active preachers are only diminished. This is something Srila Prabhupada warned us about already during His vapu presence. Along title-driven bureaucracy, the preaching may suffer.</p>
+
+<p style="text-align: justify;">This creates a deadly spiral downwards, leading to a total extinction of the missionary activities.</p>
+
+<p style="text-align: justify;">Such development is only contradicted by those few brave souls who always kindle the fire of sankirtan yajna, distribute Srila Prabhupada&rsquo;s books, distribute Srila Prabhupada&rsquo;s prasadam and distribute the Holy Name by daily hare nama processions. They are the saviors of Srila Prabhupada&rsquo;s movement, not the bureaucrats and office dwellers, who often unlawfully claim to have authority over those, who preach.</p>
+
+<p style="margin-bottom: 0cm; text-align: center;"><font color="#000000" face="Helvetica" size="3">&nbsp;<img alt="" src="/domains/manidharadas.com/www/images/kcfinder/articles/images/Senior%20devotee%20II%281%29.jpg" style="width: 270px; height: 357px" /></font></p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/sp-letters-meditations/preaching-first-facilities-second" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="194">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-letters-meditations?page=10"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

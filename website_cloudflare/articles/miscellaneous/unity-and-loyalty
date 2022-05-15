@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            UNITY AND LOYALTY
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=11">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>UNITY AND LOYALTY</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">27 Nov 2019</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">&nbsp;</p>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Unity and Loyalty are wonderful words. They originate from the spiritual world where unity and loyalty of all the residents is naturally present due to the unconditioned love of all the devotees for the most wonderful Person, the Supreme Personality of Godhead, Lord Krsna.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">We can hear the same words here in material world as well. But they usually don&#39;t advocate diversity in unity, as the way of preservation of the eternal individual personality of each single individual soul, as it can be finally demonstrated only on spiritual platform. The leaders may impress upon us the need of absolute unity and loyalty in a relative world, and they establish themselves to be the ultimate guarantors&nbsp;of such unity.</div>
+
+<div style="text-align: justify;">In other words, unity in this world is powered by personal cultism where the charisma of the individual leader attracts others, and not by what is actually established by GURU-SASTRA-and SADHU.</div>
+
+<div style="text-align: justify;">When the call for institutionally established loyalty and unity covers up the original siddhanta and the orginal mission of a guru parampara, then&nbsp;exactly the opposite occurs&nbsp;- in the presence of&nbsp; the fanatically opposing parties only anarchy prevails. There is no difference between the individual parties, as none of them accepts the original spirit of the Founder Acharya finally.&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">The call for unconditional loyalty and unity is to be heard over and over&nbsp; from any established materialistic leadership. Opponents are banned and the loyal ones rewarded. Growing up in a communistic country, I had first hand opportunity to observe such mentality initiating the degradation&nbsp;of originally noble ideas starting from idealism, over rigid autocratism up to the opportunism, and the final loss of all the ideals, which were originally established. This pattern can be observed anywhere where the natural inclination of the conditioned soul to cheat, lie and be illusioned is given free way. Here in the material world we are all opportunists, taking advantage of all the facilities Krsna supplied without regret.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Srila Prabhupada never denied anybody his personal indentity. As matter of fact when informed that devotees are in conflict again, His comment was: &bdquo;Just see it is not all one and the same.&ldquo; But of course He expected that after&nbsp;a thorough presentation of all the parties a sastric discussion on BRAHMINICAL level a conclusion will be reached, and it must be reached. It is for this reason He expected the GBC body to be a purely brahminical body, free of any duplicity, monetary involvement,&nbsp;and political vice. The individual emotional perception, so common for the sudra community, can be taken into consideration, but to the end can bring discussion the purely brahminical verdict. In Srila Prabhupada&#39;s presence we enjoyed the luxury of His veto, His final word. In His absence naturally confusion may appear.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Arrogance is deadly. Of course, in the eyes of fools anybody who is rigidly presenting the sastric conclusion will be deemed fanatic.</div>
+
+<div style="text-align: justify;">Even Srila Prabhupada was occasionally accused to be a fanatic, &bdquo;lacking the sama darshina&ldquo; vision.&nbsp;The ones desiring the same what they criticize, derive strength from attacking those who have what they lack.</div>
+
+<div style="text-align: justify;">In this way such kind of men become in name of &bdquo;loyalty&ldquo; and &bdquo;love&ldquo; the final autocrats. The king is dead, long live the king. This is a history of mankind over and over again.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">All this is ongoing&nbsp;and will go on, unless the words of the Acharya become accepted.&nbsp;This is only on these basis one can be united. As in the marriage a union can only survive with the blessing of the Lord, so ANY kind of union can only survive by Krsna&#39;s kind approval..&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Everybody can ask the blessings of the Lord, the deviant and those, who seek the Truth. Who may finally get them? Material nature will have an answer to that. After all she is not &bdquo;democratic&ldquo;.&nbsp;In this my short life time I already&nbsp;saw great numbers of &bdquo;paradigm shift&ldquo; announcers proclaiming new times arriving, charismatic leaders shaking the keys for the doors of Vaikuntha in their hands, inviting everybody for a swift and smooth ride.&nbsp;</div>
+
+<div style="text-align: justify;">I saw lovers of mankind (especially the female mankind :-), gathering large numbers of followers, only to&nbsp;disappear finally in course of time.</div>
+
+<div style="text-align: justify;">I saw wonderful devotees turning into psychic individuals when being forced to compromise their consciense by the call for &bdquo;institutionally imposed unity&ldquo;. They were&nbsp;subdued finally by the force of their karma, and the karma of their followers, only to be replaced by those who follow in their path.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Srila Prabhupada didn&#39;t demand absolute loyalty or unity regarding His person. Once He even said: &ldquo;You don&#39;t have to trust me, but you must trust the Vedas.&ldquo; He preached that authority should be followed &bdquo;in principle&ldquo;, not blindly or dogmatically.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Like a transparent media for the Ultimate Truth He simply transmitted what was given to Him in a most wonderful and personal way.</div>
+
+<div style="text-align: justify;">Uncompromising in principle but never loosing personal approach. By saying &bdquo;ladies and gentlemen, I don&#39;t criticize, I simply analyse&ldquo;,&nbsp;&nbsp;He could attract even those who didn&#39;t plan to be attracted. Purity of purpose is the force, not institutional dogmatism. The institution&nbsp;Srila Prabhupada started was dedicated to one purpose only: to enable those who suffer from maya&#39;s anarchy to come together and HEAR and CHANT about Krsna by DISTRIBUTING the same message to others. &bdquo;Manage only as far as necessary&ldquo; was His policy. He knew well that other may come who will use the growth of His mission for economical, political, and other mundane purposes.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">This privatization of areas and properties, which were created by congregational service of others, proved to be deadly to the individual &bdquo;ISKCON owners&ldquo;, as well to the purpose of the society Srila Prabhupada started. Whenever large numbers of people congregate, those with&nbsp;</div>
+
+<div style="text-align: justify;">intentions for monetary profit and self aggrandization enter. That is natural in this world of cheaters and cheated. In absence of purely brahminical guardians, such elements prevail, before they vanish along with their money and foolish followers.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Then there are those who scream that &bdquo;it is all Krsna and Krsna is for everybody, and herewith all this here it&#39;s also mine!&ldquo; Due to their envy such frustrated&nbsp;&bdquo;like to be owners&ldquo; create havoc by notoriously undermining any system of authority so they can establish their own authority.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">There is a great variety of ill-motivated individuals coming to Krsna Consciousness. Even those who came simply to destroy whatever was established, will join. Srila Prabhupada clearly pointed this fact out.&nbsp;This is&nbsp;a battle of desires -&nbsp;those which are pure, and those which are impure, which constitutes the ongoing challenge of the day. What do we really want? Why did we join the association of devotees? These are the questions everybody has to answer for himself with clear understanding that Krsna cannot be cheated. He is dwelling in our hearts as anumanta and upadrasta,&nbsp;the observer and the permission giver.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">And so finally those who don&#39;t command but demand absolute loyalty and unity with hidden unpurified desires can be called atheists, as they don&#39;t obviously accept Krsna to be present in their hearts. No doubt, they will be removed by time and by the stringent law of karma. But it is&nbsp;a duty of any sincere follower of Srila Prabhupada to protect from such unscrupulous individuals those, who may be innocent and still ignorant in their ways. Indeed, it is so easy to cheat, especially on pseudo-spiritual premises.&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">There is a remedy for unpurified material desires, and there is an evident proof for the ongoing process of purificiation. It is the intense engagement in the essential missionary activities of Krsna Consciousness Srila Prabhupada gave us:</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Book publication</div>
+
+<div style="text-align: justify;">Book distribution</div>
+
+<div style="text-align: justify;">Hare nama sankirtana</div>
+
+<div style="text-align: justify;">Prasadam distribution.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">As we saw even prasadam distribution can be compromised for comercial or altruistic purposes. Hare nama can be conducted even by the sahajiya class of men. Book production can be privatized for the benefit of another class of &bdquo;owners&ldquo;, who derive personal benefit from hard work of others.&nbsp;</div>
+
+<div style="text-align: justify;">But book distribution is hardly welcomed by those who seek personal profit. It is the most pure and wonderful activity purifying both -&nbsp;the one who delivers Srila Prabhupada&#39;s books, and&nbsp; the one who receives them.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Those who engage themselves in this service become very quickly purified...or have to abandon this service due to the unwillingness&nbsp;to become purified further.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Book distribution includes automatically the need to be a morally situated person, the need of sadhana, the need of sincere chanting of the Holy Name, the need of READING these books, the need to become a sincere introspective devotee, free of duplicity and pretence.</div>
+
+<div style="text-align: justify;">Book distribution attracts the mercy of the Lord, which manifests by dint of intelligence being given even to a very simple devotee; an intelligence needed to be able to discriminate right from wrong. Equipped with such intelligence&nbsp;this blessed devotee may understand the real meaning of unity and loyalty by obstaining from the false designations being imposed upon him, and embrasing the real meaning of such noble words.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Srila Prabhupada never encouraged blind following. As history of mankind teaches us: any sort of blind leadership demanding blind following is doomed to vanish, however initially impressive and powerful it may have appeared. The final prove is in the spiritual taste, which again is demonstrated by the absence of material desires.</div>
+
+<div style="text-align: justify;">In this way we can judge where to be loyal and where not, where to follow and where not. The general mass of people desires to be cheated as lies come so easy and on their own. Truth has to be worked for, fought for, and finally deserved. First tapasya, then knowledge -&nbsp;is the vedic formula.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Truth is worth to fight for&nbsp;and the reward is real spiritual ecstasy. Being united on the level of spiritual ecstasy is the&nbsp;method for real unity, and such taste comands real loyalty. To follow miserable leaders filled with fear to be&nbsp;discovered as being false, is best way to become miserable as well. There is one gift such fearful leaders can deliver: fear.&nbsp;</div>
+
+<div style="text-align: justify;">Nobody becomes happy by dint of fear. Srila Prabhupada made us to join Him by dint of genuine spiritual ecstasy. By His uncompromised and fearless preaching He showed us that we can find the Truth in this world, and be ecstatic. He Himself shared with us that He was always a &bdquo;freedom lover&ldquo;, and He showed us what real freedom means.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As the Vedas say: OM TAT SAT</div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Truth will ultimately prevail.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/unity-and-loyalty" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="206">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=11"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

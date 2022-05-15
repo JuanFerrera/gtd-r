@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            One and simultaneously different
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=12">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>One and simultaneously different</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">29 Dec 2020</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="margin-bottom: 0cm; text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;As Krsna states in His Bhagavad-gita 15.7, the living entities are His eternal parts, one with Him and simultaneously different. Qualitatively one, of the same spiritual nature, but quantitatively very different.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Most religious systems ignore this fact and engage in sectarian quarrels of various sorts, believing that God belongs to a particular nation or geographical locality. What to speak of atheists who boast that most violent conflicts are generated from different religious beliefs, without of course supplying any proper definition who God actually is.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Most established religions fail miserably to describe the personal nature of God, so it is no wonder religion became identical with blindly fanatical believe. Generated from inherent fear of personal identity, again and again, those who suspect that personal identity brings personal responsibility, trying to make everything one and the same, as the concept of one and the same is more controllable and understandable to them than to be eternally different.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Trying to imitate God they again in multiple ways attempt to de-personalize the living entity either in name of secure social co-existence, &bdquo;peace and love&ldquo; or in the name of the religion which assumes the same demagogic totalitarian features as any atheistic &bdquo;democratic&ldquo; system does. Both, those who claim to be religious and those who defy any sort of religion, have one thing in common... there are always enough preachers to deliver this illusory message of oneness.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Anywhere we look the attempt is made to make us all one and the same. Social pressure is a powerful tool to control the masses, and the present strategy of those for whom we are just plain numbers only demonstrates how they use means of massive control under the pretense of &bdquo;protection of the citizens&ldquo;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Now, thanks to the scientific community, they have means of control the dictators of the past couldn&#39;t even dream about.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Boasting with scientific achievements, which are mostly dedicated to military warfare and means of destruction (not creation!), the general mass of people is victimized by false propaganda of freedom. There is no freedom in a society, which has sensual pursuit as its base, a society which follows the consumption-greed ruthless industrialists established as a definition of &bdquo;good living&ldquo;. Little they all know that, as Krsna is establishing in the Bhagavad-gita, the senses can never be satisfied. Rather opposite, being addicted to all kind<span lang="en-US">s</span> of advanced ways of eating, sleeping, mating and defending, the &bdquo;shopping mall junkies&ldquo;, the victimized mass of people, leaving any sort of morality behind, heads only for its own destruction.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Even those who are inclined to spiritual message will be welcomed by cheaters who came to understand that they are the owners of the keys of the<span lang="en-US"> </span>gates to the<span lang="en-US"> </span>kingdom of God, something they often fail to describe or define. Selling invisible goods, relying on people&#39;s blind faith, such impersonalists sometimes even dress as devotees of the Lord and block the way for those who understood the basis of Krsna Consciousness, the meaning of to be simultaneously one and different from God. It is here all the mundane religions fail when they declare to be &bdquo;the only way&ldquo;, meaning are<span lang="en-US"> </span>being the owners of the way, charging custom fees for everybody who comes their way.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Then there are those mayavadis, or impersonalists who declare everything to be love and same, fellows who end up being confused where so much evil a hatred comes from. They start on the right note, explaining everything to be &bdquo;Krsna&#39;s property&ldquo;, but then they proceed to ignore the rules and regulations He established for us to follow. Kingdom of God, they want... without God in the real sense. Such rascals are of the same quality as any &bdquo;it is all one and the same&ldquo;-fool who is trying to make us believe that we can reach God directly without following &bdquo;the principles leading to freedom.&ldquo; Bg. 2.64</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Such anarchists would like us to believe that there is no need of any authority and we can approach God directly by our &bdquo;love&ldquo;. Srila Prabhupada answered sternly such foolish assumption by quoting, &bdquo;first serve and then deserve&ldquo;. Krsna Himself is establishing that He cannot be reached directly but only via the medium of the<span lang="en-US"> </span>spiritual master. Then, of course, He also describes the qualification of <span lang="en-US">a </span>spiritual master. When studying such qualification in detail, we find that there may be not many of such pure devotees who can indeed guide us to God by their example and the way they uncompromisingly and absolutely accurately represent Krsna&#39;s words.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">( Studying S.B. 11.7.44 and the texts to follow, gives one clear idea who a real spiritual master may be.)</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">And so to agree that&nbsp; we are one and different simultaneously requires courage as most of the population simply agrees to be cheated and guided to cheap ways of sense gratification. As one intelligent man said, &bdquo;Truth brings responsibility. Therefore, everybody is afraid of it.&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">The demoniac leaders of the society know that and so they have an<span lang="en-US"> </span>easy time to introduce the citizens of their countries to cheap ways of living, training them to be obedient animals and not individual self aware beings, who understand on their own the need to follow real authority and not the one who leads them to hell.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Dependant we are, but as Srila Prabhupada established, we do depend on the Supreme Lord and not on those who are simply puppets in hands of material energy.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Such is our choice. Why was Srila Prabhupada so successful in His preaching?</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Because He always respected the individuality of those He preached to.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">He gave us back the dignity, which was stolen from us by preachers of oneness who made us into mere building blocks of their own illusory structure.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">He was coming at the<span lang="en-US"> </span>right time, a time where young people used to burn their identity cards in public places, questioning any value or designation being imposed upon them by those who were drowning in an ocean of stupidity.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">On one side Srila Prabhupada made no secret that He is establishing a society, but, as mentioned in another text on this website, He always discouraged overmanagement, which obstructs the individual initiative of those who are inclined to serve God. It was the person He understood to be the movement&nbsp;first, and not the movement to be the goal in itself. From well situated person comes a well situated movement, not vice versa.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Those who claim today to be the &ldquo;owners&ldquo; of Srila Prabhupada&#39;s movement, in times of need ready to obstruct the MEMBERS of Srila Prabhupada&#39;s movement, are mistaken, abusing the very basic principle of it, that is the people who contribute and join who are finally defining the movement&#39;s potency, and not the today often hidden impotent institutional dignitaries.&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">When idealism and personalism is replaced by institutionalism and dogmatism, such movement is doomed to fail since it is defying its original pure purpose. Like a branch disconnected from the trunk of a tree is loosing its life potency, finally drying out and being conserved in its petrified state, the petrified &bdquo;leaders&ldquo;, not being able to reflect Krsna&#39;s ever fresh nature project only depressing images of their own implosion.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">(Even mundane&nbsp; politicians like Mr. Putin understand the need of keeping things more individual, meaning personal. When asked about his opinion in regards to Lenin, he gave Lenin the credit to be a revolutionary, but not to be a statesman.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">He exposed the very basic mistake Lenin did when enforcing upon public that it is the <span lang="en-US">C</span>ommunist party, which is the main leading force in the society, not the - many - individual ethnic groups populating the territory, which is called Russia.&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Mr. Putin, contradicting Lenin, believes that it is the federal union structure which provides more stability to a nation than a mere membership in a party. As he said, when the Communistic party was finished, Russia was finished.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">In <span lang="en-US">a </span>similar way, when Srila Prabhupada heard the suggestion that ISKCON may be managed in manner of the<span lang="en-US"> </span>United Nations, with one single building - of course situated in USA :-), being populated by the representatives of different countries, He immediately objected, predicting that such centralization may bring about only politics, corruption, and finally the<span lang="en-US"> </span>destruction of the society, which is afterall dedicated to spiritual purpose and not a political one.)</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">The ways to be an &bdquo;independant follower&ldquo; are entirely mysterious and frightening to those fools and rascals, who came to understand that they are not the servants but the owners of Srila Prabhupada&#39;s movement. As they may one after another vanish along their personal cult worshipers, new fools emerge, not knowing better as to preach in the same demagogic way of &bdquo;surrendering to God means surrendering to me&ldquo;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Stupidity is heritable, one should never underestimate its power.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">As Srila Prabhupada said, Krsna Consciousness is taking place in the heart, and it was His greatest achievement to enter and move the<span lang="en-US"> </span>hearts of so many. Purity of purpose was His power as He commanded authority and not demanded it in <span lang="en-US">a </span>demagogic institutional sense. Nevertheless, an &quot;organized attempt to spread Krsna Consciousness&ldquo; is needed and so to be one with authority and simultaneously different is the art which makes Krsna Consciousness available to those, who seek freedom from impersonal dogmatism.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Sentimental personality cults may be fascinating for the<span lang="en-US"> </span>simple minded, but Srila Prabhupada wanted firmly self standing preachers of Krsna Consciousness, strong individuals who can explain and stand for their Krsna Conscious practices. He mercifully tolerated passive followers, but His aim was to create active preachers who can detect and attack any fool who tries to make &bdquo;everything one and same&ldquo; and expose him publicly.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Once, still in the days when devotees preached boldly, in a city of Berlin, a lady obsessed with the spirit of oneness attacked one of my godbrothers, challenging him how he can dare to preach so distinctively as &bdquo;everything is the same&ldquo;. My godbrother responded in most entertaining and direct way. He challenged her back while stating: &ldquo;If everything is the same, then give me your money wallet<span lang="en-US">.&ldquo;</span> The lady asked, &bdquo;why should I do that?&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">My godbrother laughed and said, &bdquo;well it&#39;s all one and the same, money in your pocket, money in my pocket, what does it matter&ldquo;. The guests in that preaching program looked entertained at that lady, enjoying her misery.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">The lady, not giving up, truly gave my godbrother her walled, however asking if she can keep the keys of her apartment being stored in it. Again, my godbrother laughed and said: &quot;Your apartment, my apartment, what does it matter. It&#39;s all the same.&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">The lady was close to tears and so our preacher gave her her <span lang="en-US">w</span>allet back, looking at her kindly, urging her not be so stupid again.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Reading Srila Prabhupada&#39;s books in today&#39;s light is even more so alarming as it was fifty years ago.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Demons made much the progress in brainwashing the population, grooming it to passivity and obedience. Krsna Consciousness is the way to understand and oppose such demoniac policies by simply following the regulative principles of freedom and minimizing one&#39;s bodily needs whenever possible. As demons control the population by agitating the senses of the citizens, it is exactly here at this point where devotees of the Lord escape their rulership and retreat to a life of &bdquo;simply living and high thinking&ldquo;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">It can be hoped that at least few may understand this way of gaining freedom and remain different and one simultaneously, protecting one&#39;s individuality in the service of the Lord. Surely, they will have all the protection of the Lord and His pure devotee Srila Prabhupada.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/one-and-simultaneously-different" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="222">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=12"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

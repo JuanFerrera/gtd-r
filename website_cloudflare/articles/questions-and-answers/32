@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            What should be the balance between study and practical activity in Krsna-consciousness?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=3">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>What should be the balance between study and practical activity in Krsna-consciousness?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">22 Feb 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">Coming from a pioneer generation of devotees, those who were without training put into active preaching field from the first day they arrived at the temple door, I could answer this question only in following manner:</p>
+
+<p style="text-align: justify;">Yes, indeed, Srila Prabhupada put us instantly into a preaching position. Most of us, I hope not to offend anybody, were not at all aware what they are really preaching. At least not on the level of vijnana or realized knowledge. The only thing which every member of this movement 1972 knew was that he feels unconditional love for Srila Prabhupada. No statement could have been made without reference to His Divine Grace and any action had to be backed up by the reference to His words. The fascination with Srila Prabhupada&rsquo;s personality was so great that lecturers produced even quotes from Srila Prabhupada without actually knowing them to be authorized. Srila Prabhupada commented lovingly, but nevertheless critically, that &ldquo;they always say Prabhupada said, Prabhupada said, but I didn&rsquo;t say it.&rdquo; Nevertheless it was unconditional love which often motivated the speaker and the instructor, not academic erudition.</p>
+
+<p style="text-align: justify;">Those who remained on a level of &quot;deep sentimental attachment&quot; towards Srila Prabhupada got latest at the point of His departure from this planet in trouble. Those who understood the need to learn fast what has to be learned, acquired knowledge while daily facing new challenges within their service. It was this process of learning Srila Prabhupada introduced us to. You learn to swim by jumping into water.</p>
+
+<p style="text-align: justify;">Srila Prabhupada gave us the &quot;ISKCON sandwich&quot;, consisting of morning program including a lecture, whole day intense service and evening program of aratika and Bhagavad Gita lecture, concluded with reading from Krsna book while drinking the evening milk. This Srila Prabhupada understood to be completely sufficient to educate His disciples in transcendental knowledge: a blend of two hours minimum sastric hearing and intense service for the rest of the day, entirely aimed towards preaching activities. This was a life of a brahmacary. Grhastas face additional set of challenges trying to combine the material and spiritual duties.</p>
+
+<p style="text-align: justify;">Individual and intensified studies were sanctioned by Srila Prabhupada only for those who were in need of them, mainly BBT devotees and those very few who were entrusted with specialized preaching projects addressing the members of the scientific community, etc. Srila Prabhupada even emphasized that &ldquo;we cannot expect all of our students to be studious, but they nevertheless have the enthusiasm to take part in preaching activities and so they should be facilitated to do so.&rdquo; Srila Prabhupada gave even simple examples, showing that when there is huge fire, nobody asks even what language the fire brigade men speak. He considered the condition of the human society being disastrous and critical and so he took the risk to put even inexperienced fire brigade men in the midst of the fire.</p>
+
+<p style="text-align: justify;">The introduction of a division between studies and practical service arrived much later in Srila Prabhupada&rsquo;s movement, only to cause confusion and havoc. The idea that in a &quot;healthy academically educated body dwells a healthy soul&quot; opened the door for any speculator to enter the ranks of Srila Prabhupada&rsquo;s preaching army. The immature passion with which sometimes the preaching was initially conducted and the fall downs of some of the leaders propagating such passion only added to the desire for artificial education. As the pendulum was swinging to the other side, practical preaching activity became looked upon as the privilege of the &quot;less intelligent ones&quot;. Without any consideration of moral standards, what to speak of the varna and ashrama qualification, any devotee became encouraged to equip himself, or even worse&hellip; herself, with academic knowledge without any trace of practical application or practical realization. Defying even the basic need of human culture, varnasrama institution, asocial renegades occasionally became counselors, introverts became public dignitaries&hellip; simply enhancing the already established picture of &quot;fools paradise&quot; in this material world as was shown to us by Srila Prabhupada&rsquo;s preaching. Once the majority sinks to the mental platform, the list of such human anomalies is endless.</p>
+
+<p style="text-align: justify;">The prove of the poisonous effect of artificial knowledge, is the pride in the hearts of those who collected it. It is for this reason Krsna places as the first symptom of knowledge humility on the list, which is a symptom of anybody who &quot;knows that he doesn&rsquo;t know&quot;. Kanistha adhikaris like to know what other don&rsquo;t know so that they can emerge on the scene as being distinct from the rest. Srila Prabhupada wisely contradicted that tendency by putting us constantly into active preaching field, specifically book distribution, where such a raise of pride is hardly possible.</p>
+
+<p style="text-align: justify;">The academic greed of such distinction seeking individuals lead automatically to polarization and rise of arrogance between such prematurely and inappropriately &quot;educated&quot; fellows. Those who prefer to serve Srila Prabhupada&rsquo;s mission honestly according to their varna and ashrama, will be arrogantly looked upon as being inferior by those academically educated ones, who occasionally and unfortunately end up in leading positions. Regardless of their moral standards their academic erudition is considered brahminical. Such was the fall down of the Vedic society. As we here in the West cannot claim the artificial birth right of a descendant of a brahmana family, at least we can claim an artificially elevated status of our parrot-like erudition.</p>
+
+<p style="text-align: justify;">Arrogance of the kanistha adhikaris creates disgust on the part of the public which again leads to a situation where even the innocent ones out of frustration embrace atheistic, humanistic, communistic, capitalistic or fascistic dogmas.</p>
+
+<p style="text-align: justify;">And so one foolishness creates another foolishness, leaving the atmosphere polluted by arrogant speeches of the spiritually impoverished ones. Srila Prabhupada gave us the right blend of active service and time for schooling. When these scales get out of balance, havoc follows.</p>
+
+<p style="text-align: justify;">Those who never leave the mental platform progress towards their &quot;vimukta maninah realizations&quot;. As advertised in one of the projects dedicated to such purpose, such candidates will be trained to &quot;make social contribution, develop indecent thought and appreciation of spiritual equality&quot;. The skills of &quot;walking, swimming, canoeing and swimming&quot; advertised in such seminars would be the least of the evil for such mentally aspiring students of mayavada thought. The worst is that thereafter they might engage themselves in &quot;philosophical debate&quot;. Finally aiming for the cherished goal of every conditioned soul, the development of &quot;excellent career and economic prospects&quot;, such &quot;learned fools&quot; may increase their pride by accumulated information day by day. These above mentioned quotes are not of ironic nature, but direct quotes from an official ISKCON advertisement material.</p>
+
+<p style="text-align: justify;">Srila Prabhupada wanted us to know what is needed to be known and not what can be known. The sincerity and chastity of the thought of a sincere disciple who tries to simply gain knowledge so he can please his spiritual master more, is the key to his progress, not the accumulation of irrelevant data.</p>
+
+<p style="text-align: justify;">Spiritual knowledge is ultimately of descending nature, not of empiric nature. It is based on the mercy of guru parampara which can be only earned by serving the desire of the parampara manifested to us through the words of Srila Prabhupada. Those who develop their knowledge by studding and serving His mission have a good chance to grow steadily. Those who cultivate so-called knowledge merely by academic means will have to face the impact of their not yet purified material desires and the karmic reaction for their arrogance and offensive nature towards those who try to serve the desire of Srila Prabhupada in meek and humble spirit. Ultimately transcendental knowledge is revealed in the heart. It cannot be just contained in the brain. Such &quot;bubble of artificial knowledge&quot; will be soon or later perforated by the blade of grass held by Lord Balarama as He perforated the body of artificially intellectual Romaharsana Suta.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/32" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="136">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=3"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>    About
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li>
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li class="active">
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+
+<div class="container about">
+    <h1>About</h1>
+    <a href="#website-int" class="btn btn-tales-one btn-tales-page-nav page-scroll">Website Introduction</a>
+    <a href="#about-sp" class="btn btn-tales-one btn-tales-page-nav page-scroll">Śrīla Prabhupāda</a>
+    <a href="#mnd-ch" class="btn btn-tales-one btn-tales-page-nav page-scroll">Manidhara dās chronography</a>
+    <h2 id="website-int">Website Introduction</h2>
+    <span class="about-small">
+        <p>Why another website? Why this website?</p>
+        <p>There are enough websites filled with self-profiling of the particular writers, their needs to appear in distinctive fashion in this virtual world of internet forever. Orgies of narcissism conducted with the help of a media which knows no ethical rules, has no boundaries in terms of possibilities to misinterpret and possibly insult each other with maximum words and minimum meaning. All this without personal confrontation as words spoken face to face may sound very different as anonymously dispersed statements into an in-defined space of even more anonymously watching and reading audience.</p>
+        <p>No, this website doesn't serve this purpose. After long persuasion from the side of my friends, me, coming from the analog days of stationary phones you dialed the numbers while turning a small wheel around as on some gambling machine, tape recorders you had to switch the tape or turn it around every 45 minutes, gizmos with three buttons, ”stop-play and pause”, is now entering the wast cyber space where even the most mentally and intellectually empowered ones find their way to say what doesn´t have to be said and hear what doesn´t have to be heard.</p>
+        <p>It is only due to my spiritual master, A.C.Bhaktivedanta Swami Prabhupada I dare to raise my voice, collecting daily His words so I have something to say. As matter of fact, each word to be found on this website, directly or indirectly can be backed up by His statements which are nothing else as fully realized ways of perceiving this world and the spiritual world via sastra, the undiluted scriptures, guru, the line of spiritual masters handling carefully in unchanged manner these words down through the ages and sadhu, those who live lives of acharyas, those who put these eternally absolute definitions of knowledge practically into action, demonstrating how to apply them in our daily lives.</p>
+        <p>This website may be for some pleasing, for some uncomfortably “controversial” and some may certainly feel highly uneasy as their ways to perceive themselves may be even unintentionally questioned.</p>
+        <p>But finding myself for more as 45 years engaged in the service of Srila Prabhupada’s mission, collecting His words day by day, I feel indeed the need to share them with others to maximum degree. Let His words and the words of he Supreme Lord Sri Krsna be the base of this website along the testimonies of those who by didn’t of their realization avoided to be illusioned in various ways. Let those whose advocating of their illusions brings much pain to themselves and others be exposed, so the real purpose of Srila Prabhupada’s mission to become lover of Truth, consequently happy and satisfied, can be served.</p>
+        <p>This website doesn´t offer an direct possibility to indulge in unrestricted discussions, there are many such forums available on internet already. Whoever wishes to contribute, clear certain issues or to ask, is most welcomed to write to me... or open his own web-page :-)
+        <p>My e-mail is <a class="link" href="mailto: Manidhara.Das.ACBSP@email.cz">Manidhara.Das.ACBSP@email.cz</a> or you can contact me using the form below.</p>
+        <p>I hope to be of some use to propagate the need to study and follow the words of Srila Prabhupada to maximum degree possible, by sharing His correspondence, His lectures and the realizations derived from His books. The amount of information to be gained in this way is indeed unlimited.</p>
+        <p>Srila Prabhupada said what is to be said and He revealed what is to be known. Let’s discover it.</p>
+    </span>
+    <hr>
+</div>
+
+<div class="container about">
+    <h2 id="about-sp">About Śrīla Prabhupāda</h2>
+    <img src="/images/srila-prabhupada-avatar.png" alt="Śrīla Prabhupāda" class="about-portrait img-responsive">
+    <span class="about-small">
+        <p>His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda appeared in this world in 1896 in Calcutta, India. He first met his spiritual master, Śrīla Bhaktisiddhānta Sarasvatī Gosvāmī, in Calcutta in 1922. Bhakti- siddhānta Sarasvatī, a prominent religious scholar and the founder of sixty-four Gauḍīya Maṭhas (Vedic institutes), liked this educated young man and convinced him to dedicate his life to teaching Vedic knowledge. Śrīla Prabhupāda became his student and, in 1933, his formally initiated disciple.</p>
+		<p>At their first meeting, in 1922, Śrīla Bhaktisiddhānta Sarasvatī requested Śrīla Prabhupāda to broadcast Vedic knowledge in English. In the years that followed, Śrīla Prabhupāda wrote a commentary on the <span class="font-italic">Bhagavad-gītā</span>, assisted the Gauḍīya Maṭha in its work and, in 1944, started <span class="font-italic">Back to Godhead</span>, an English fortnightly magazine. Singlehandedly, Śrīla Prabhupāda edited it, typed the manuscripts, checked the galley proofs, and even distributed the individual copies. The magazine is now being continued by his disciples.</p>
+		<p>In 1950 Śrīla Prabhupāda retired from married life, adopting the <span class="font-italic">vānaprastha</span> (retired) order to devote more time to his studies and writing. He traveled to the holy city of Vṛndāvana, where he lived in humble circumstances in the historic temple of Rādhā-Dāmodara. There he engaged for several years in deep study and writing. He accepted the renounced order of life (sannyāsa) in 1959. At Rādhā-Dāmodara, Śrīla Prabhupāda began work on his life’s masterpiece: a multivolume commentated translation of the eighteen-thousand-verse Śrīmad-Bhāgavatam (Bhāgavata Purāṇa). He also wrote <span class="font-italic">Easy Journey to Other Planets</span>.</p>
+		<p>After publishing three volumes of the <span class="font-italic">Bhāgavatam</span>, Śrīla Prabhupāda came to the United States, in September 1965, to fulfill the mission of his spiritual master. Subsequently, His Divine Grace wrote more than fifty volumes of authoritative commentated translations and summary studies of the philosophical and religious classics of India.</p>
+		<p>When he first arrived by freighter in New York City, Śrīla Prabhupāda was practically penniless. Only after almost a year of great difficulty did he establish the International Society for Krishna Consciousness, in July of 1966. Before he passed away on November 14, 1977, he had guided the Society and seen it grow to a worldwide confederation of more than one hundred <span class="font-italic">áśramas</span>, schools, temples, institutes, and farm communities. New centers continue to open worldwide.</p>
+		<p>In 1972 His Divine Grace introduced the Vedic system of primary and secondary education in the West by founding the <span class="font-italic">gurukula</span> school in Dallas, Texas. Since then his disciples have established similar schools throughout the United States and the rest of the world.</p>
+		<p>Śrīla Prabhupāda also inspired the construction of several large international cultural centers in India. At Śrīdhāma Māyāpur, in West Bengal, devotees are building a spiritual city centered on a magnificent temple - an ambitious project for which construction will extend over many years to come. In Vṛndāvana are the Krishna-Balaram Temple and International Guesthouse, <span class="font-italic">gurukula</span> school, and Śrīla Prabhupāda Memorial and Museum. There are also major temples and cultural centers in Mumbai, New Delhi, Ahmedabad, Siliguri, and Ujjain. Other centers are planned in many important locations on the Indian subcontinent and around the world.</p>
+		<p>Śrīla Prabhupāda’s most significant contribution, however, is his books. Highly respected by scholars for their authority, depth, and clarity, they are used as textbooks in numerous college courses. His writings have been translated into over eighty languages. The Bhaktivedanta Book Trust, established in 1972 to publish the works of His Divine Grace, has thus become the world’s largest publisher of books in the field of Indian religion and philosophy.</p>
+		<p>In just twelve years, despite his advanced age, Śrīla Prabhupāda circled the globe fourteen times on lecture tours that took him to six continents. In spite of such a vigorous schedule, Śrīla Prabhupāda continued to write prolifically. His writings constitute a veritable library of Vedic philosophy, religion, literature, and culture.</p>
+    </span> 
+</div>
+
+<div class="container about">
+    <h2 id="mnd-ch">Manidhara dās chronography</h2>
+    <img src="/images/manidhara-avatar.png" alt="Manidhara" class="about-portrait img-responsive">
+    <span class="about-small">
+        <p>Manidhara dās was initiated by His Divine Grace A.C.Bhaktivedanta Swami Prabhupada, the Founder of the International Society for Krsna Consciousness in the year 1974 in Germany. Being a Czech immigrant, joining Srila Prabhupada´s movement 1972, he was prior to his initiation already two years engaged in distribution of Srila Prabhupada´s books.</p>
+        <p>Being engaged in this activity from 1972 to 1985, he became consequently manager of three preaching centers in Germany, Freiburg, Stuttgart and Berlin, still engaged in taking part and supporting book distributors in that country.</p>
+        <p>1986 he was called to become sankirtan leader in Sweden, finally becoming a temple president in Goteborg temple. From 1988 to 1999 he was temple president in Hare Krsna Center-Stockholm, managing the local Govindas restaurant as well.</p>
+        <p>1999 he was invited to Czech Republic where he took part in the development of the Govindas restaurant in Prague and prior to that, still being based in Sweden, he took part in the initial development of the first Czech farm community.</p>
+        <p>2002 he took distance from the local Czech management and traveled widely through Europe, assisting the BBT and sankirtan devotees on the way, an activity he continues until today.</p>
+    </span>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3 tales-superblock" id="contact">
+            <h2>Send me a comment</h2>
+            <form action="/about" method="post" id="frm-contactForm" accept-charset="utf-8" class="contact-form">
+                <input type="text" name="name" id="frm-contactForm-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                <input type="email" name="email" id="frm-contactForm-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                <input type="email" name="email_confirm" id="frm-contactForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                <textarea name="text" rows="10" id="frm-contactForm-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+                <div class="buttons clearfix">
+                    <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+                </div>                    
+            <input type="hidden" name="_do" value="contactForm-submit"></form>
+
+        </div>
+    </div>        
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+    <script src="/js/jquery.easing.min.js"></script>
+
+    <script>
+        $("#frm-contactForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $('a.page-scroll').bind('click', function(event) {
+            var $anchor = $(this);
+            $('html, body').stop().animate({
+                scrollTop: ($($anchor.attr('href')).offset().top - 50)
+            }, 1250, 'easeInOutExpo');
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

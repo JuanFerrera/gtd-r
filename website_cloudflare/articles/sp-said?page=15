@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>        Śrīla Prabhupāda said
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+    </head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=2">Articles</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <aside class="articles" id="articles">
+        <h1>Śrīla Prabhupāda said</h1>
+        <div><p class="text-justify">The following are quotes from mainly Srila Prabhupada’s correspondence, divided into various categories. Since years I am collecting Srila Prabhupada’s statements in regards to various issues and herewith I created for myself so to say a “dictionary” of Srila Prabhupada quotes which, despite being freely available.</p>
+<p class="text-justify">I am again and again surprised, not many devotees know. Srila Prabhupada commented in great detail on many issues, never allowing us to forget that finally there is no material solution for material problems, the final solution can be found on spiritual platform only.</p></div>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">
+                        <div style="background-image: url('/images\/article-avatars/256_To-See-the-World-With-Eyes-of-Srila-Prabhupada\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>To See the World With Eyes of Srila Prabhupada</h3>
+                        <span class="date">
+                            07 Apr 2022
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">Times don´t change, people do.</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">
+                        <div style="background-image: url('/images\/article-avatars/252_Vaccinated-By-Maya-Against-Krsna-Consciousness\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Vaccinated By Maya Against Krsna Consciousness</h3>
+                        <span class="date">
+                            29 Dec 2021
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body"></div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/don-t-worry-what-is-going-on-in-the-world">
+                        <div style="background-image: url('/images\/article-avatars/243_Dont-worry-what-is-going-on-with-this-world\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Don´t worry what is going on in the world!</h3>
+                        <span class="date">
+                            10 Aug 2021
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body"></div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/pessimistic-optimists">
+                        <div style="background-image: url('/images\/article-avatars/239_LSO271\.png');" class="img"></div>
+                    <div class="meta">
+                        <h3>Pessimistic Optimists</h3>
+                        <span class="date">
+                            18 May 2021
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">The synthesis of absolute optimism in a spiritual sense and absolute negativism in material sense is unknown to those who don't carry the mercy of a pure devotee.</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/srila-prabhupada-s-dictionary">
+                        <div class="img empty">S</div>
+                    <div class="meta">
+                        <h3>Srila Prabhupada's "dictionary"</h3>
+                        <span class="date">
+                            04 Aug 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">Here are few examples from Srila Prabhupada’s dictionary which demonstrate how exact He was and how misinformed and miseducated we are...</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/our-social-positions-a-play-only">
+                        <div style="background-image: url('/images\/article-avatars/61_sad-masks-lidia-simeonova\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Our social positions - a play only</h3>
+                        <span class="date">
+                            06 May 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">When Srila Prabhupada said on February 19, 1976 in Mayapur "Father, mother.. it's just a play..." He certainly wasn't rejecting our social duties and positions. </div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/devotee-practicing-krsna-consciousness-affected-by-three-modes-of-nature">
+                        <div style="background-image: url('/images\/article-avatars/56_Prabhupada-s-Jaladuta-Dream-4\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Devotee practicing Krsna Consciousness affected by three modes of nature?</h3>
+                        <span class="date">
+                            11 Apr 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">There may be a confusion on the part of a neophyte devotee, how a devotee living in this material world, practicing Krsna Consciousness for considerable time still may be seemingly affected by the three modes of nature…</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/how-to-follow-his-teachings">
+                        <div style="background-image: url('/images\/article-avatars/55_thunderose\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>How to follow His teachings</h3>
+                        <span class="date">
+                            11 Apr 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">Srila Prabhupada knew perfectly well how to attract the conditioned soul towards Krsna Consciousness by dint of His purity, and how to regulate and gradually purify it´s impudence towards the Supreme Lord Sri Krsna…</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/srila-prabhupada-s-audio-dictionary">
+                        <div style="background-image: url('/images\/article-avatars/53_srila-prabhupada-speaking\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Srila Prabhupada’s audio dictionary</h3>
+                        <span class="date">
+                            21 Mar 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">As I spent some periods of my life listening continuously to Srila Prabhupada’s lectures, here is my personal “audio dictionary“, points being made by Srila Prabhupada which specially caught my attention…</div>
+        </article>
+        <hr>
+        <article class="article">
+            <header class="clearfix">
+                <a href="/articles/sp-said/srila-prabhupada-on-medical-issues">
+                        <div style="background-image: url('/images\/article-avatars/51_blueberries-heart-health\.jpg');" class="img"></div>
+                    <div class="meta">
+                        <h3>Srila Prabhupada on medical issues</h3>
+                        <span class="date">
+                            13 Mar 2018
+                        </span>               
+                    </div>
+                </a>
+            </header>
+            <div class="body">What is the explanation of split-personality, actually, there are not two personalities, there is only change of mind. Therefore, the mind has to be fixed up in Krishna...</div>
+        </article>
+        
+    </aside>
+    <div class="paging">
+            <span class="disabled"><i class="fas fa-long-arrow-alt-left"></i> Newer</span>
+        <span>•</span>
+            <span class="disabled">Older <i class="fas fa-long-arrow-alt-right"></i></span>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+    </body>
+</html>

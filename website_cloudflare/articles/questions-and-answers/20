@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            How can we attract more people to the temple?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>How can we attract more people to the temple?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">20 Feb 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">SRILA PRABHUPADAS TEMPLES, KRSNAS EMBASSIES&hellip;. OR LUNATIC ASYLUMS?</p>
+
+<p style="text-align: justify;"><br />
+Looking back 40 years, not much changed for a visitor of a Hare Krsna Temple, at least in the European parts of the world. There are of course very rare exceptions, but the curious conditioned soul who finally decides to visit a Hare Krsna Temple may find following:</p>
+
+<ol class="indented">
+	<li style="text-align: justify;">Mostly its empty with hardly anybody ready to receive a guest. In early days the temples used to be empty because everybody was on sankirtan. Today they are mostly empty because nobody goes on sankirtan.</li>
+	<li style="text-align: justify;">However, if our visitor makes it through the entrance door, he may find first a large pile of unidentified shoes which are dislocated randomly, emanating bad smell while rotting on some old shelf. Mostly they simply pile up in the entrance, blocking the way.</li>
+	<li style="text-align: justify;">When he proceeds to the temple room, he may get a glimpse of the Deities before an entirely non-communicative pujari closes the curtain and disappears in the backyard without even looking at our confused guest.</li>
+	<li style="text-align: justify;">Exiting the temple room, looking for somebody to speak to, our visitor may unknowingly enter the &quot;inner chambers&quot; of the temple facility, only to find a corpse like figure laying there on the floor with a gamsa wrapped around his head&hellip; either dead or sleeping.</li>
+	<li style="text-align: justify;">Shocked, the guest, imagining who might have killed this young man, may retreat down the staircase, only to get his fingers sticky due to touching the railing which wasn&rsquo;t washed for years, but touched by many vaisnavas who didn&rsquo;t washed their hands after eating with them.</li>
+	<li style="text-align: justify;">Entering the abandoned reception area, the seeker of spirituality may find a strange little bag laying there on the table with little beads attached to it. Curious he may lift it and look what&rsquo;s inside. Suddenly a very upset monk dashes towards him from the neighboring room, screaming: &quot;Don&acute;t touch that!&quot; ripping the bead bag out of his hand.</li>
+	<li style="text-align: justify;">In panic our visitor escapes into the next room, only to find that this is not a room, but some sort of storage with dirty toilet at the end. But all as, this IS the toilet, occasionally serving also as a shower. Broken curtain hangs from the ceiling which is due to poor ventilation covered by flourishing fungus.</li>
+	<li style="text-align: justify;">Inhaling that particular smell of old rotting laundry mixed with exotic spices, our guest is trying to find the exit door. While phones are ringing which nobody picks up he almost stumbles upon another monk who is so absorbed in staring into the screen of his lap top that he cannot perceive the presence of any other living entity within the universe.</li>
+	<li style="text-align: justify;">Heading for his car parked outside, our inquisitive seeker, maybe the the head of the National Bank, suddenly understands why the last news paper article he read, featuring the singing Hare Krsna&rsquo;s on the street, was entitled: &quot;The zombies are out again&quot;.</li>
+</ol>
+
+<p style="text-align: justify;">And so our potential congregational member rather joins the &quot;people he knows&quot; who are meeting once a week in their CLEAN flat and who do indeed chant Hare Krsna and read Bhagavad Gita, the book containing the highest knowledge. Somehow he decided never to go to the temple again:-(</p>
+
+<p style="text-align: justify;">MORAL:</p>
+
+<ol class="indented">
+	<li style="text-align: justify;">If there is nobody to receive guests there is no need to have a temple as Sri Sri Goura Nitai are not pleased to stand somewhere in some remote location alone.</li>
+	<li style="text-align: justify;">Just to leave shoes in others way is a clear statement that &quot;the others&quot; don&acute;t exist or are simply one with everything else and herewith in no need to be facilitated in any special way.&nbsp;</li>
+	<li style="text-align: justify;">A devotee who doesn&rsquo;t think about the welfare of others should have no place in Srila Prabhupada&rsquo;s temple as Srila Prabhupada&rsquo;s temple has only one purpose: to introduce others to Krsna&rsquo;s glories, His form, His words and His mission. Kanistha adhikaris can worship the Deity at home.</li>
+	<li style="text-align: justify;">Simply to lay down anywhere is not a symptom of detachment, but a symptom of animalistic consciousness. Animals also lay down where it pleases them. Cultured human beings distinguish between resting areas, which are usually considered more of private nature, bathing areas, which are entierly private, eating areas and meeting areas. Mayavadis and homeless renegades make no such distinctions.</li>
+	<li style="text-align: justify;">Cleanliness is next to godliness. Most of our temples are exceptionally filthy places. True, it may not be easy to keep public places clean, but any airport manager or nursery manager could teach devotees how to keep a place clean where many people come together. It is highly embarrassing when meat eaters are in a position to teach devotees about cleanliness. Ironically we never see the scenery described in the above mentioned text in the presence of women, as females are far more sensitive to social outlook and social issues. Should our brahmacaries learn cleanliness from visiting or resident females? The question may remain unanswered.</li>
+</ol>
+
+<p style="text-align: justify;">It might be noticed that most of visiting guests are not intellectuals even they may profess to be so. The majority of the public sees, smells hears and touches as any animal does. The real problem is that we do indeed deal with human beings who may draw their conclusions from an impression they get when entering Srila Prabhupada temples.</p>
+
+<p style="text-align: justify;">It would most wonderful, even when older vaisnavas may fall into the category where &quot;old dogs don&rsquo;t learn new tricks&quot;, that at least new bhaktas could learn that they actually entered a kind of shopping window in Srila Prabhupada&rsquo;s store house of love of Godhead. Living in a shopping window brings certainly obligations towards the commuting public. As it is often a public with a critical eye, minimal reason should be given for the critics to find their target so easily.</p>
+
+<p style="text-align: justify;">As Lord Caitanya says, some speak nicely, but don&acute;t act very nicely and some act nicely but don&acute;t speak so nicely. But you speak nicely and act nicely.</p>
+
+<p style="text-align: justify;">Even we may be forced by our karmicaly acquired damages to act occasionally in peculiar ways, at least we could try indeed not to be the body by managing it properly. The public will surely appreciate and gain more respect for Srila Prabhupada&rsquo;s sublime teachings.</p>
+
+<p style="text-align: justify;">There are two basic rules a manager will have to accept:</p>
+
+<ol>
+	<li style="text-align: justify;">Birds of the same feather flock together.</li>
+	<li style="text-align: justify;">The water finds always its level.</li>
+</ol>
+
+<p style="text-align: justify;">They both relate to the basic rules of varnasrama dharma management.</p>
+
+<p style="text-align: justify;">Hearing that simply chanting of the Holy Name will &quot;change us&quot;, some devotees may come to believe that the &quot;magic&quot; involved will indeed change everything&hellip; even the basic quality dominating their body.</p>
+
+<p style="text-align: justify;">There is no such sastric statement. Even Arjuna had to give up his idea of a &quot;change&quot; and engage fully in fighting, an activity which surely corresponded to his guna dominated body. His idea of &quot;retreat&quot; wasn&rsquo;t appreciated by the Supreme Personality of Godhead. But he transcended the guna governing his body by using it for Krsna, not by artificially changing it.</p>
+
+<p style="text-align: justify;">And so an expert manager will see soon or immediately where to guide the individual pious candidates for devotional service. Brahmanas are rarer as we would like to admit. Most of the devotees correspond clearly to the sudra category. Even high ranking leaders are so obviously acting according to their gunas that it can be only embarrassing or even comical if they don&rsquo;t agree on it. Public can see their hypocritical state soon or later clearly and the results speak for themselves.</p>
+
+<p style="text-align: justify;">A sudra-leader will be focused on emotionally loaded social issues, vaisya leader on the economy, ksatriya leader on principles which should be enforced and brahmana on the sastric basis of the principles which should be enforced.</p>
+
+<p style="text-align: justify;">It is symptomatic for a kanistha adhikari to think that he is a devotee of the highest quality. But finding no intelligent class people sharing his views, he ends up instinctively surrounding himself with those who are even more weak in intelligence and mind as he is. As fools dash in where angels don&rsquo;t dare, he will find plenty of candidates while &quot;his&quot; temple or area of preaching is quickly filling up with most deranged individuals. While the more intelligent class of people retreats in embarrassment such a &quot;leader&quot; will create his own &quot;fools paradise&quot; he believes to be able to dominate. But fools are fools and only destruction follows in their path if they are not regulated by those with higher intelligence. Fools like personal cult worship as it frees them from introspective thinking. As matter of fact, with the blessing of their leaders they don&rsquo;t have to think at all. They follow their idealized &quot;owners&quot; in a mood of blind followership, taking advantage of the original managerial structure Srila Prabhupada gave to cover up their incompetence to attract and motivate more strongly minded class of people. But destiny can be indeed cruel, often turn these brainless followers against their own idols when those they admired so dearly don&rsquo;t fulfill their expectations for increased name, fame and profit.</p>
+
+<p style="text-align: justify;">As Srila Prabhupada declared himself to be a &quot;freedom lover&quot;, he attracted many of a very strong &quot;freedom lovers&quot; and by His spiritual strength inspired them to follow His sastric command. To manage in this way is far more demanding, but far more productive as to turn Srila Prabhupada&rsquo;s temples and His movement into &quot;lunatic asylum&quot; dominated by &quot;doctors&quot; who may occasionally be affected by more sever mental disorders as their patients.</p>
+
+<p style="text-align: justify;">The essential question which can be only answered by Srila Prabhupada is &quot;Who is crazy?&quot; Only by hearing from Srila Prabhupada and His loyal followers we may find the final definition for sanity. Srila Prabhupada envisioned a society administered by such strong minded, morally based, straight forward speaking, simple in their way of living and absolutely non-political leaders. Its a long way to fulfill these expectations, but its an inspiring path to struggle along.</p>
+
+<p style="text-align: justify;">Whenever the leaders come even close to these ideals, Krsna takes the charge of their chariots and &quot;whenever there is Krsna, the master of all mystics, and where there is Arjuna, the supreme archer, there will be also certainly opulence, extraordinary power and morality.&quot;<br />
+&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/20" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="124">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

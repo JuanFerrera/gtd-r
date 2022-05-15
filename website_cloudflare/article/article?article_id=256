@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            To See the World With Eyes of Srila Prabhupada
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-said?page=15">Śrīla Prabhupāda said</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>To See the World With Eyes of Srila Prabhupada</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/256_To-See-the-World-With-Eyes-of-Srila-Prabhupada.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">07 Apr 2022</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">To see the world with eyes of Srila Prabhupada, the Founder Acharya of ISKCON, is the absolute need for all those who claim to be the followers of His Divine Grace. There is no situation and there is no &bdquo;problem&ldquo; which we encounter on the way, which was not encountered by Srila Prabhupada. The names, designations or locations may change, but the ways maya works are the same, the demons we encounter are the same, and the ways to become victimized by maya are the same.</p>
+
+<p style="text-align: justify;">True, today demons have acquired via their technological development means of massive brainwashing capacity never seen before. The lies and the propaganda we are bombarded with literally daily by dint of the mainstream media are of massive nature.<br />
+Previously, only spoken and printed word were the tools to influence the masses. Today, we all carry with us small gizmos and devices where we can be constantly connected to the world of illusions, which surpasses the illusion already surrounding us &bdquo;naturally&ldquo;.</p>
+
+<p style="text-align: justify;">The &bdquo;ecological demons&ldquo;, propagating the preservation of what was stolen to start with, and the ruthless profit seeking demons unite in one big campaign in the ever repetitive game for domination over this world.</p>
+
+<p style="text-align: justify;">The constant competition and envy towards the Supreme Lord Krsna and His creations is the same as it always was. To &bdquo;rule over others and material nature&ldquo; is the name of the game for the demons and those who become influenced by them.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Srila Prabhupada addressed the essence of all illusions from sastric point of view in absolute way and His words are ever relevant and ever urgent to hear.<br />
+Already during his vapu presence on this planet, there were those who Srila Prabhupada called &bdquo;fertile brains&ldquo;, trying in the name of preaching to implement &bdquo;new ways to attract people&ldquo;, meaning to satisfy the conditioned souls&acute; deep rooted material desires.</p>
+
+<p style="text-align: justify;">Srila Prabhupada opposed instantly and pointed to the essence of His preaching mission: hare nama, book distribution and prasadam distribution. Business enterprise was reserved for grhastas, management for temple presidents, and preaching for GBCs and sannyasis... and everybody else who claimed to be Srila Prabhupada&acute;s follower.</p>
+
+<p style="text-align: justify;">Purity is the force and purity means to accept the words of the Founder Acharya as they are without any further changes.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">And so while wandering around in this world of illusions, a constant question is lingering on the mind of all those who try to follow Srila Prabhupada:</p>
+
+<p style="text-align: justify;">Would Srila Prabhupada authorize this, if personally present?<br />
+Did He authorize this when he was present?</p>
+
+<p style="text-align: justify;">All the answers come to those who keep Srila Prabhupada in their hearts.</p>
+
+<p style="text-align: justify;">Here are some examples of the issues we are confronted with by the members of the &bdquo;fertile brain sampradaya&ldquo;, those who see some need to &bdquo;improve&ldquo; or &bdquo;correct&ldquo; what Srila Prabhupada has given:</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Would Srila Prabhupada authorize female bodied vaisnavis to climb the vyasasanas, becoming initiating gurudevis?<br />
+What was His approach to the continuing guru parampara?</p>
+
+<p style="text-align: justify;">Even praising openly the preaching achievements and the amazing service of His &bdquo;heroins&ldquo; as He used to call them, Srila Prabhupada never authorized one single female as temple president, one single female as GBC, what to speak of putting a female name on the initial list of STARTING GENERATION of gurus (not the ending generation of gurus as it was wrongly conceived).<br />
+All this was done despite Him being fully aware of the occasionally compromised actions of the chosen gurus.<br />
+His priority of concern was that those devotees proved themselves being very successful in the preaching field, attracting many to Krsna Consciousness, which cannot be said about the upcoming generation of gurus who assume their DESIGNATED POSTS by dint of bureaucratic procedure and democratic votes, and have to fulfill one basic quality - they must be unconditionally loyal to the &bdquo;never failing&ldquo; GBC body.</p>
+
+<p style="text-align: justify;"><br />
+Would Srila Prabhupada authorize &bdquo;domestic retreat&ldquo; and the &bdquo;search for our spiritual life within&ldquo; ignoring the preaching &bdquo;without&ldquo; as it is widely preached today?</p>
+
+<p style="text-align: justify;">Certainly not. His policy was that the &bdquo;best defense is a good offense&ldquo;, meaning that the active approach towards the conditioned souls is the essential mood of His preaching movement. It was this spirit which brought about the &bdquo;Hare Krsna Explosion&ldquo;, powered by the materially unmotivated consciousness of pure hearted devotees who had no other motivation than to satisfy His Divine Grace.</p>
+
+<p style="text-align: justify;">As much Srila Prabhupada respected the responsible and dignified life of a grhasta, His main task and His main question was how far anybody can be engaged in the three primary tasks of His preaching mission: book distribution, hare nama and prasadam distribution. (Prasadam being presented as Lord&acute;s mercy and not as a bodily welfare activity.)</p>
+
+<p style="text-align: justify;"><br />
+Would Srila Prabhupada authorize initiations of morally and mentally highly compromised individuals into His movement?</p>
+
+<p style="text-align: justify;">Certainly not. Already in His presence, He was complaining that unqualified individuals were recommended to Him for initiation by overly ambitious temple presidents. Of course, guru always takes a risk and so did Srila Prabhupada, but there is a limit how many lunatics and criminals can be initiated into a movement, which is supposed to represent the highest culture available on this planet.<br />
+After all, there are two things which are defined as undesirable in this age of Kali: acceptance of too many disciples and acceptance of sannyas asrama (for social purposes).</p>
+
+<p style="text-align: justify;"><br />
+Would Srila Prabhupada authorize the unnecessary academic research of the members of His movement?</p>
+
+<p style="text-align: justify;">Certainly not. His approach was pragmatic. Devotees should know what is needed to be known, and when confronted with a certain problem they should acquire information about &quot;something from everything&quot; (quote of Srila Prabhupada). Devotee should never lose the focus on the primary task, the return back home back to Godhead, which can be only achieved by means of vairagya, renunciation of all what is unnecessary. To simplify one&acute;s life was Srila Prabhupada&acute;s policy, not to complicate it. To acquire a higher taste is the formula for real renunciation. The either bureaucratically, institutionally or mentally acquired status of a spiritual advancement was not accepted by Srila Prabhupada. Such &bdquo;vimukta maninah&ldquo; disciples couldn&acute;t exist in His original movement, as book distribution and active preaching in the line of guru parampara doesn&acute;t facilitate such cheating of oneself and others.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">With the eyes of Srila Prabhupada, one starts to see the world as it is without artificial designations, mentally constructed illusory schemes, and without hypocrisy.<br />
+The prove that Srila Prabhupada&acute;s vision was abandoned is that even about a detail quarrel arises as the individual parties assume their own vision and abandon His.<br />
+Sastrically based discussion is in order for the brahminical class of men, the rest simply follows what is given. Such is the design of varnasrama dharma based society.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Finally, there is only one conflict in this world, the conflict between demoniac and godly party. Those who abandon Srila Prabhupada&acute;s vision must to some degree or fully be influenced by mayavada demon-type of doctrines. Becoming sahajiyas at best or fully fledged poisonous mayavadis at worst, such deviated fellows and &bdquo;fellowinis&ldquo; (shall we call it today this way? :-) become bodily altruists at first and then gradually sink into completely mundane realms where there are finally of no use to anybody. After all, the biggest atrocities in human society were done &bdquo;with best intentions&ldquo;.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">The only way to avoid to be cheated or become a cheater is to constantly ask the same question: Would Srila Prabhupada authorize this?</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Times don&acute;t change, people do. Nothing is granted, even a good vaisnava can become compromised when being wrongly situated. &ldquo;Firstly, before we hear what is spoken, we want to know who is speaking&ldquo;, was Srila Prabhupada&acute;s policy. Only then one can avoid to be cheated.</p>
+
+<p style="text-align: justify;"><br />
+And so to see the world with the eyes of Srila Prabhupada by dint of thorough study of His books, His correspondence, His instructions, and the ways HOW He said things, one can achieve a shelter at the Lotus Feet of the Supreme Lord, Krishna, even in this mortal world.</p>
+
+<p>&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/article/article?article_id=256" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="256">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-said?page=15"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

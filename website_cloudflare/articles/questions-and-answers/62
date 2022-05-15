@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Is there any program uniting the Krsna conscious youth within ISKCON?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=6">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Is there any program uniting the Krsna conscious youth within ISKCON?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">17 Jul 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Those who travel and meet children of devotees of the first and second generation can easily testify that there is no substantial attempt on the side of the official ISKCON leadership to provide for the younger and youngest generation of devotees ways how to come together and have a solid vision regarding conducting their lives in Krsna Consciousness.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">The reality is that most of devotee&#39;s children grew up with disillusioned parents, and so they got to hear the worse before even understanding it. The rest of bad news they get from internet.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">More intelligent parents who didn&rsquo;t allow the ISKCON anomalies come into their lives and faithfully followed Srila Prabhupada&rsquo;s principles, have given their children a hope. Some children, continuing obviously in the devotional line by dint of their service being done in previous life times, didn&rsquo;t get discouraged either, despite hearing at home daily from their parents what went wrong.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Some took advantage of the deviations they saw to deviate themselves as well.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Everybody has their minute - individual freedom to make their choices.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">This text is dedicated to those who didn&rsquo;t give up and are determined to use any opportunity to glorify Srila Prabhupada in any way they can.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">There are those brave preachers amongst senior devotees, who - often unsupported, try to serve the younger generations in various ways by bringing them together and inspiring their already existing initiative to be, as Srila Prabhupada said it, &quot;Krishna-ized&quot;.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">How do we inspire the younger ones once they come out of the babyhood, where they more or less copy in monkey fashion the behavior of the older ones? How to impress these often innovative, revolutionary youngsters who, like we did, want not to go with the mainstream, floating down into mayas global siege?</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">That we can learn from Srila Prabhupada as well.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">It wasn&rsquo;t &quot;accidental&quot; that Srila Prabhupada, despite preaching the universally applicable ways to become Krsna conscious, finally ended up to be the leader of those who were mostly in an age of his grandchildren. He could as well stay in some american yoga studio, collect donations from well to do american ladies being their &quot;family guru&quot; and spend the rest of his life economically secured. Instead He directed His preaching to those who were ready to leave behind old established values, and change. Their readiness for a change compensated in Srila Prabhupada&rsquo;s most merciful eyes their most fallen and deranged status. This readiness to leave the old and embrace the new is the basis of Krsna Consciousness, especially in countries where is no culture and no religious background to rely on.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Nothing changed in this regard. Initiative is the spark which ignites the Krsna conscious fire, and dogmatic institutionalism is the surge water which extinguishes it all. As Srila Prabhupada said, &ldquo;I was always a freedom lover... until Bhaktisiddhanta Maharaja came and explained what real freedom means.&quot; THAT kind of freedom has to be fought for, starting with our own life, our own sense control and our own ways to be properly placed, so we have maximum ground under our feet to stand on when maya strikes and tries to knock us over.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">How much Srila Prabhupada loved the young ones! Even in the last days being with us in His vapu form, He loved to see small gurukula boys dancing in front of Him in Vrndavana. He hoped that they will be the future warriors, the future examples of a Krsna conscious generation, which will demonstrate in practical ways how to live in Krsna conscious way in any varna and any asrama in the society of today.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">From today&rsquo;s point of view we can realistically ask: What went wrong?</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">There are here and there small groups of devotees trying to do locally the maximum for their children in order to keep them in Krsna Consciousness. Regarding the youngest ones to organize a small kindergarten in Krsna conscious way, bringing the small children together also for festival events is not that difficult. They have no choice, they simply follow. It entirely depends on the initiative of the parents.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Once children enter the teenage period of their lives, things get far more complicated. Now they want to have a choice. Most children didn&rsquo;t go to gurukula. Those who did, speaking about the older generation, often carry traumas for their whole life with them.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">This text is not aiming to dwell on the horrors some of these children had to go through. There is plenty of documentation in regards for that.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Fortunately things improved, gurukulas are under very strict supervision. That still doesn&rsquo;t solve the problem that the parents find often no ways to be actively engaged in ISKCON, struggle for survival and herewith have to do the needful to keep up their families alive in somewhat decent way, often in compromised circumstances.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">To understand that, some ISKCON leaders would have to get down from their pseudo-intellectual positions and engage at least for a brief period in some work in order to keep their body and soul together, so they can understand the real cost of living.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">With children under constant attack via internet and other media, parents often helplessly watch how their offspring stare into various types of screens, searching for company they cannot find elsewhere. There may be not that many, but such children of those parents who taught them well about the glories of Mahamantra and Srila Prabhupada should take it as a challenge to oppose the cheap Kali-yuga propaganda, which aims to make them too passive, consumers and workers for benefit of others.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">There are some amongst devotee&#39;s children, who instinctively try to abstain from such traps maya puts in their way, and want to live differently from the &quot;screen watchers&rdquo; of various kinds. They need all the support they can get. These are the children Srila Prabhupada hoped to see, children who have grown up free of drug, mutual sexual abuse and addiction of any kind, boldly declaring their independence from materialistic propaganda, and the &quot;ISKCON bitterness&quot; of their parents as well.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Seeing such young boys and girls forming their own view upon Krsna Consciousness based on Srila Prabhupada&rsquo;s instructions is most inspiring.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Such bold young man and women need to support themselves mutually always remembering Srila Prabhupada&rsquo;s revolutionary spirit in opposition to the massive brainwashing of Kali-yuga residents.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Srila Prabhupada knew: the young ones can do it. Even by no means averse to engage anybody in Krsna Consciousness, He said once</font></font><font color="#000000"><font face="Helvetica, serif">:</font></font><font color="#000000"> </font><font color="#000000"><font face="Helvetica, serif">&quot;In</font></font><font color="#000000"><font face="Helvetica, serif"> order to join the Hare </font></font><font color="#000000"><font face="Helvetica, serif">Krsna m</font></font><font color="#000000"><font face="Helvetica, serif">ovement you have to forget whatever you </font></font><font color="#000000"><font face="Helvetica, serif">heard.&rdquo;</font></font><font color="#000000"><font face="Helvetica, serif"> That&rsquo;s easy for the young ones and difficult for the older ones.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Srila Prabhupada showed us the way, never complying with the institutional dogmas, always fresh and always innovative to find ways how people can be connected to Krsna without compromising the basic principles. He urged his managers to always keep in mind that everybody is joining voluntarily, giving his heart and his faith. That was specially demonstrated in days where ISKCON had nothing to offer </font></font><font color="#000000"><font face="Helvetica, serif">than</font></font><font color="#000000"><font face="Helvetica, serif"> Srila Prabhupada&rsquo;s books to distribute, prasadam to relish and streets to go out on hare nama.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">There were no title</font></font><font color="#000000"><font face="Helvetica, serif">s</font></font><font color="#000000"><font face="Helvetica, serif"> and posts to strive for, no designations of any kind. This was the luxury I enjoyed when joining this movement, there was nothing else to get as the ecstasy of sankirtan. Who wasn&rsquo;t engaged in sankirtan had to go home.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Of course, now we know that Srila Prabhupada&rsquo;s vision was much broader. He wanted to offer </font></font><font color="#000000"><font face="Helvetica, serif">to </font></font><font color="#000000"><font face="Helvetica, serif">change</font></font><font color="#000000"><font face="Helvetica, serif"> </font></font><font color="#000000"><font face="Helvetica, serif">the entire direction present society is heading for, establish an entirely differently oriented culture, a spiritual culture, and He was aware that to establish a spiritual movement in the material world is most difficult task.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">And so again, it&rsquo;s up to the young ones to achieve some change. Even religious societies who have hardly anything to offer on terms of sound philosophy and final logic, report the great increase of membership once taking care properly </font></font><font color="#000000"><font face="Helvetica, serif">for</font></font><font color="#000000"><font face="Helvetica, serif"> the young ones. As reported from USA, those religious communities which provide for their younger generations forums</font></font><font color="#000000"><font face="Helvetica, serif">,</font></font><font color="#000000"><font face="Helvetica, serif"> where they can meet and associate, </font></font><font color="#000000"><font face="Helvetica, serif"><span style="font-weight: normal;">besides their own example</span></font></font><font color="#000000"><font face="Helvetica, serif"><span style="font-weight: normal;">,</span></font></font><font color="#000000"><font face="Helvetica, serif"><b> </b></font></font><font color="#000000"><font face="Helvetica, serif">they strive most. Why not then Srila Prabhupada&rsquo;s ISKCON, which has thanks to Srila Prabhupada so much to offer, cannot provide the same? Most children of devotees have hard time to live the life of karmis, and simultaneously cannot find solid identification with what is called the ISKCON of today.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Being 65 years old, I spent most of my life with devotes much younger as myself. That gave me life and that keeps me alive. Regardless how immature they may be, they are alive</font></font><font color="#000000"><font face="Helvetica, serif">,</font></font><font color="#000000"><font face="Helvetica, serif"> and that&rsquo;s what counts.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Feeling just as if joining Srila Prabhupada&rsquo;s movement yesterday, I refuse to be classified as &ldquo;old and mature&rdquo;, instantly remembering the image of an old and mature cheese. It&rsquo;s rotten and it&rsquo;s odor is obnoxious.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">And so any time seeing the young ones to take some initiative to become part of what</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Srila Prabhupada gave us, gives me immense strength </font></font><font color="#000000"><font face="Helvetica, serif">because</font></font><font color="#000000"><font face="Helvetica, serif"> it is most invigorating. I promised the Supreme Lord and Srila Prabhupada that if any opportunity arises for me to help the younger generation of devotees to strive in some Krsna conscious way, I will use it. Even the care f</font></font><font color="#000000"><font face="Helvetica, serif">or</font></font><font color="#000000"><font face="Helvetica, serif"> the older generation of devotees, a dark chapter of ISKCON as well, is important, it&rsquo;s the young ones who will go on while we leave our bodies, heading hopefully for more suitable destination in order to continue our spiritual progress.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">In conclusion I would like to point to my daughter, who is by now 20 years old, is one of those who </font></font><font color="#000000"><font face="Helvetica, serif">are</font></font><font color="#000000"><font face="Helvetica, serif"> trying to stay within Krsna Consciousness despite all obstacles being placed in front of her.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Spending amazing time with her from the day she was born, I felt blessed to have a company of a person who, traveling with me and her mother constantly around Europe and India, showed great affection for Srila Prabhupada, calling Him from the very first day she could speak &#39;papa&#39;.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Traveling still until today, she has many contacts of many young devotees, and can be of great help, at least </font></font><font color="#000000"><font face="Helvetica, serif">as a</font></font><font color="#000000"><font face="Helvetica, serif"> mentor, to those who feel lack of forums to share their ideas and even grieviences. </font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Being a man without any ISKCON titles, no disciples and now means of sustenance, I am personally daily surviving on Srila Prabhupada&rsquo;s mercy in firm faith that </font></font><font color="#000000"><font face="Helvetica, serif">&quot;</font></font><font color="#000000"><font face="Helvetica, serif">where there is a will, there is a way&quot;. And so, if there is no practical support from ISKCON officials (mere words and resolutions will not achieve much change, personal involvement does:-), when there is a will on the side of the younger ones to create communities, nobody can stop them to do so. </font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Krsna&rsquo;s blessings are waiting for anybody who may try in this direction. Of that I am certain, as this is the way Krsna conscious movement can be maintained and expanded. Books are there, Srila Prabhupada&rsquo;s words are there, now more practical examples how to follow are needed. </font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Let&rsquo;s learn from Srila Prabhupada who never gave up, and in time where others retreated he attacked by sound preaching and solid management.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">If anybody reading this text would like to contact my daughter, here are the options:</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">e-mail:&nbsp;</font></font><a href="mailto:malini.soulsound@gmail.com"><font color="#fc6722"><font face="Helvetica, serif">malini.soulsound@gmail.com</font></font></a></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif">Youtube: </font></font><a href="https://www.youtube.com/channel/UC0NiABssqZzWphTDhVslmqw"><font color="#fc6722"><font face="Helvetica, serif">https://www.youtube.com/channel/UC0NiABssqZzWphTDhVslmqw</font></font></a></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/62" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="163">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=6"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Kanistha-adhikari... who is it?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=8">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Kanistha-adhikari... who is it?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">25 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">There are many educational seminars offered within ISKCON for those who want&nbsp;to be recognized as man of higher knowledge. Some of these seminars are eagerly attended by participants&nbsp;who want to know all what doesn&rsquo;t have to be known. Some seminars are more reality oriented.</p>
+
+<p style="text-align: justify;">Nevertheless, so far my knowledge goes, hardly ever a seminar was given to learn about the nature of a kanistha-adhikari. Could it be that by studying the nature of such a person one could find oneself looking in a mirror? How embarrassing that step towards self-realizations would be!</p>
+
+<p style="text-align: justify;">We all know that Srila Prabhupada wanted us to raise at least to a level of a madhyama-adhikari, the one who can discriminate between a demon and a devotee, abstains from association of demons, shares enthusiastically his Krsna Consciousness with similarly situated ones and approaches the confused innocent ones in order to help them to advance spiritually further. All that despite not being extensively learned in the scriptures,&nbsp;but in possession of firm faith that the Supreme Lord is the Supreme Controller, the Supreme Enjoyer and the Supreme Beneficiary of all what we do.</p>
+
+<p style="text-align: justify;">There is no other way to become an active member of the sankirtan movement of Lord Caitanya Mahaprabhu&nbsp;than to try to act as a madhyama-adhikari. Kanistha-adhikari is not interested in preaching except to collect his own followers. Srila Prabhupada knew well of course how many kanistha-adhikaris may come along. Describing them&nbsp;&nbsp;&ldquo;hardly to be a devotee&rdquo;, He stressed the need to raise oneself to higher levels and develop firm understanding what is Krsna Consciousness and what is not Krsna Consciousness by dint of studies of His books.</p>
+
+<p style="text-align: justify;">Therefore, studying the nature of kanistha-adhikari can be helpful not to become one of them.&nbsp;To follow such a paramahamsa uttama-adhikari giant as Srila Prabhupada is, is only possible by assuming madhyama-adhikari mood.</p>
+
+<p style="text-align: justify;">Srila Prabhupada points out: due to his lack of realization and absence of discrimination, a kanistha-adhikari will be likely influenced by mayavada ideals and may fall prey to them, leaving finally the path of Krsna Consciousness.</p>
+
+<p style="text-align: justify;">Here are few of possible features of a kanistha-adhikari who may in deceiving way look like a vaisnava, but &ldquo;is hardly a devotee&rdquo;.</p>
+
+<h3><strong>-1-</strong></h3>
+
+<p style="text-align: justify;">Fascinated by external symbols and rituals.</p>
+
+<p style="text-align: justify;">The history of various religious institutions is filled with such &ldquo;religionists&rdquo;, as Srila Prabhupada used to call them. Those who are seeing the religious institution as the way to become celebrated in different ways, and ignore the original meaning&nbsp;of the&nbsp;institution&nbsp;for which&nbsp;it was established to serve to. ISKCON is not an exception. After idealists, groundbreaking pioneers who open new &ldquo;preaching territories&rdquo;,&nbsp;opportunists arrive on the scene.&nbsp;Such individuals see the achievements of previous preachers&nbsp;as a field where they can realize their desires for name, fame and glory, becoming institutionally dominant, and enjoy the work of others.&nbsp;As more&nbsp;those individuals become prominent, the faster will be&nbsp;institution destroyed, as history taught us.</p>
+
+<h3><strong>-2-</strong></h3>
+
+<p style="text-align: justify;">Kanistha-adhikari lives in emotional dependency on his followers.</p>
+
+<p style="text-align: justify;">A kanistha-adhikari needs to gather followers in order to reconfirm his false status of leadership. Herewith he clearly&nbsp;defies the original purpose of leadership -&nbsp;to deliver shelter and protection for those in need; in&nbsp;Krsna Conscious terms -&nbsp;to help them to be delivered from the clutches of birth and death.</p>
+
+<p style="text-align: justify;">Due to lack of knowledge and lack of faith into the protection of the Supreme Lord, being less intelligent, kanistha-adhikari will seek shelter in the flattery of his followers and monetary benefits, offered to him in exchange for his reconfirmation of the perverted nature of his worshipers. In such&nbsp;corrupted atmosphere&nbsp;hypocrisy can strive and the regime of&nbsp;&nbsp;a &ldquo;blind leads the blind&quot;, as Srila Prabhupada commented, prevails.</p>
+
+<h3 style="text-align: justify;"><strong>-3-</strong></h3>
+
+<p style="text-align: justify;">Money is for kanistha-adhikari the way to secure loyalty of others.</p>
+
+<p style="text-align: justify;">This point only illustrates the previous one. A kanistha-adhikari will likely lie and cheat in order to gain financial benefits he intends to bribe with and control those who tend to be cheated.</p>
+
+<p style="text-align: justify;">Such an alliance was designated by Bhaktisiddhanta maharaja as &ldquo;the society of cheaters and cheated&rdquo; those who live in a symbiosis, which allows them to &ldquo;be what they are not&rdquo;.</p>
+
+<p style="text-align: justify;">&ldquo;Money is the honey&rdquo; is a demonic policy and kanistha-adhikaris follow demons without even knowing it.</p>
+
+<h3 style="text-align: justify;"><strong>-4-</strong></h3>
+
+<p style="text-align: justify;">Physical facilities, especially big buildings and large properties are most attractive for kanistha-adhikaris, symbolizing&nbsp;&nbsp;social status and control over others to them.</p>
+
+<p style="text-align: justify;">This attitude of &ldquo;behind every big building is a big man&rdquo; is purely materialistic, and kanistha-adhikari will not hesitate to install even Deities in such a &ldquo;big building&rdquo;,&nbsp;to demonstrate&nbsp;his pseudo devotion and so called spiritual advancement. He will also use such a &ldquo;temple&rdquo; to collect donations from the cheated ones who believe that their &ldquo;gift of love&rdquo; will secure&nbsp;some sort of enjoyment in spiritual realm for them,&nbsp;and free them from the misery so plentifully available in this world. When opening Vrndavana temple, Srila Prabhupada very firmly warned us not to assume such an opportunistic attitude, something He was so familiar with while growing up in India.</p>
+
+<h3 style="text-align: justify;"><strong>-5-</strong></h3>
+
+<p style="text-align: justify;">Friends means allies.</p>
+
+<p style="text-align: justify;">Being generally of narcissistic nature, a kanistha-adhikari will seek &ldquo;friends&rdquo; only amongst those he deems to be financially beneficial for him, useful for his increased social prestige or at least not of threatening nature, regarding his status and the concept of himself as a great worshiper of the Lord. He will instinctively avoid or even despise those who may ask questions he doesn&rsquo;t want to hear, what to speak of to answer them. And so he will surround himself with flatterers and cheap worshipers of various kind, confirming the deep wisdom contained in the proverb that &ldquo;the birds of the same feather flock together&rdquo;.</p>
+
+<p style="text-align: justify;">As certain Bernard Shaw says, corresponding in this regard with Canakya&rsquo;s Pandit statement:</p>
+
+<p style="text-align: justify;">&quot;The wisdom of my enemies never harmed me that much s the stupidity of my friends.&quot;</p>
+
+<h3 style="text-align: justify;"><strong>-6-</strong></h3>
+
+<p style="text-align: justify;">Helping others means to secure allies.</p>
+
+<p style="text-align: justify;">This point only enhances the previous one, as kanistha-adhikari may exhibit &ldquo;mercy&rdquo;</p>
+
+<p style="text-align: justify;">and &ldquo;charity&rdquo; to others... only with the aim to benefit himself.</p>
+
+<p style="text-align: justify;">In terms of vanity, narcissism and selfishness, kanistha-adhikari shares the qualities of a demon.</p>
+
+<h3 style="text-align: justify;"><strong>-7-</strong></h3>
+
+<p style="text-align: justify;">The Tube-man.</p>
+
+<p style="text-align: justify;">Kanistha-adhikari lives in a tube and sees the world around him through such a tube only. As through a periscope, he scouts his surroundings through the opening of such a tube, not being able to see beyond it. He may be aware that there are indeed many things happening outside of his tube, but due to lack of intelligence he cannot see them and is herewith afraid. The most cruel and despotic individuals in history of humankind were such &ldquo;tube-men&rdquo;, those who tried to eliminate anything existing outside of their cherished tube and squeezed the world into the limited scope of their own perception. Even worse, they demanded that their stupidity will be established as&nbsp;standard by others. Kanistha-adhikari works in similar way, denying others the&nbsp;minute freedom&nbsp;given to them by the Supreme Lord Sri Krsna. Kanistha-adhikari may in this way unknowingly compete with God Himself.</p>
+
+<h3 style="text-align: justify;"><strong>-8-</strong></h3>
+
+<p style="text-align: justify;">Follows the rules and regulations without knowing their purpose.</p>
+
+<p style="text-align: justify;">This offence is clearly described in the sastra and it is an exemplary shortcoming of a kanistha-adhikari. Appearing in ascetic light, strict in his actions, always ready to denounce others for being less rigid and less faithful to the established rules and regulations,&nbsp;kanistha-adhikari seeks only distinction, not knowing that it is a subtle form of his suppressed and unregulated sexuality.</p>
+
+<p style="text-align: justify;">For the sake of his social appearance kanistha-adhikari will neglect&nbsp;to be properly situated within the appropriate varna and consequent asrama. For the same reasons such a &ldquo;bhakta&rdquo; may accept a spiritual master, who may be&nbsp;kanistha-adhikari himself. Not gaining approval of the Supreme Lord, even in light of his pseudo rigidness, such a kanistha-adhikari fellow is found silenced in exactly the very same position he so often criticized while seeing others. Such is the uncompromising dictate of the material nature.</p>
+
+<h3 style="text-align: justify;"><strong>-9-</strong></h3>
+
+<p style="text-align: justify;">&ldquo;Knowledge&rdquo; is the means to become socially distinct.</p>
+
+<p style="text-align: justify;">This point collaborates with the previous one. According to Krsna&rsquo;s description of knowledge given in Bhagavad Gita, the first symptom of the one who acquired true spiritual enlightenment is ...humility. Kanistha-adhikari can be recognized by exactly opposite symptom. The more academic knowledge he gathers, the more proud he is. Reading how Sisupala was despite his learned words finally killed by the Supreme Lord, shows us clearly how dangerous even correct Vedic information can be if improperly applied. Srila Prabhupada warned us by saying, &rdquo; be careful with the ways you preach this absolute philosophy, it&rsquo;s very sharp, it can cut&rdquo;. Kanistha has no knowledge of such &ldquo;subtleties&rdquo;, while wheeling the sword of knowledge he often cuts off his own head.</p>
+
+<p style="text-align: justify;">The more such a fellow knows, the more proud he becomes, finally arranging for his spiritual ruin. There is only one option for a kanistha-adhikari: to hear from and serve madhyama-adhikari or uttama-adhikari. Such examples of sucessful purification are very rare. Examples of fallen kanistha-adhikaris are many.</p>
+
+<h3 style="text-align: justify;"><strong>-10-</strong></h3>
+
+<p style="text-align: justify;">Fascination with titles and institutional designations.</p>
+
+<p style="text-align: justify;">The fascination of kanistha-adhikaris to collect titles and designations is shared by many demons and materialists. It is so great that sometimes they insist to have their titles engraved on their tombs. Even all the &ldquo;title carriers&rdquo; are swept away by time, along their name and glory, still Kali Yuga age is symbolized by high sounding designations and titles which their carriers believe to be defining their social or spiritual status. Srila Prabhupada defined in His institution, ISKCON,&nbsp;exactly what a title means and what kind of rights and duties it contains for its carrier.</p>
+
+<p style="text-align: justify;">Titles Srila Prabhupada gave were not many:</p>
+
+<p style="text-align: justify;">temple president, (assisted by vice temple president, head pujari, head cook, sankirtan leader and&nbsp;treasurer)</p>
+
+<p style="text-align: justify;">GBC -&nbsp;supervising strictly the spiritual standards only.</p>
+
+<p style="text-align: justify;">Srila Prabhupada&rsquo;s personal servant was called &ldquo;the secretary&rdquo;.</p>
+
+<p style="text-align: justify;">&hellip;............and that was all.</p>
+
+<p style="text-align: justify;">In Srila Prabhupada absence, under the pretense of a growing movement, more titles were&nbsp;created with the result that there are areas where the local ISKCON dignitaries may hold more titles&nbsp;than there are devotees in the temple.</p>
+
+<p style="text-align: justify;">As&nbsp;Bernard Shaw said:</p>
+
+<p style="text-align: justify;">&quot;Titles are elevating mediocre people, embarrass the extraordinary ones and are made worthless by people without&nbsp;value.&quot;</p>
+
+<h3 style="text-align: justify;"><strong>-11-</strong></h3>
+
+<p style="text-align: justify;">Lack of discrimination.</p>
+
+<p style="text-align: justify;">Even posing to be a devotee of the Lord, a kanistha-adhikari often&nbsp;rephrases the ideals cherished by mayavadis. He may sympathize with humanitarian and altruistic dogmas, not knowing that they advocate the body to be the goal of all our endeavors, and not the soul. And so such &ldquo;worshiper&rdquo; finally doesn&rsquo;t know what has to be done and what shouldn&rsquo;t be done, what is bad and what is good, who is a devotee and who is a demon&hellip; all this in presence of his theoretical knowledge he boasts with so eagerly.</p>
+
+<h3 style="text-align: justify;"><strong>-12-</strong></h3>
+
+<p style="text-align: justify;">Being arrogant towards those who earnestly work in order to keep their body and soul&nbsp;together in dignified manner, such kanistha-adhikari, living simply from the work of others,imposing himself upon them as being of superior nature, regards such hard working pious souls with sarcasm and irony. It is for this offensive attitude he will have to accept another body, only to come back and pay for what he took so unlawfully.</p>
+
+<h3 style="text-align: justify;"><strong>-13-</strong></h3>
+
+<p style="text-align: justify;">Authority has to be commanded, not demanded.</p>
+
+<p style="text-align: justify;">Upgrading his arrogance, kanistha-adhikari will use his institutional titles, and his self-invented status&nbsp;despite&nbsp;the absence of &ldquo;chain of command&rdquo;. Having no superior authority,&nbsp;he will artificially&nbsp;impose himself upon others, DEMANDIG and not COMMANDING authority. He may also proceed to teach others to do the same. Of course, participation in Krsna Consciousness is voluntary and so such a fellow will only face defeat, finding no means to force others to follow him.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/kanistha-adhikari-who-is-it" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="183">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=8"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Gallery
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link rel="stylesheet" href="/css/justifiedGallery.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/photoswipe.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/default-skin/default-skin.min.css" type="text/css">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li>
+                                <a href="/">Articles</a>
+                            </li>
+                            <li class="active">
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 blog-main">
+            <h1>Gallery</h1>
+            <div id="gallery">
+                <a href="/images/gallery/photos/dscn1803.JPG">
+                    <img src="/images/gallery/previews/dscn1803.JPG" data-size="1000x750" alt="Sankirtan in Prague, russian girls learning from English books :-)">
+                </a>
+                <a href="/images/gallery/photos/dscn1465.JPG">
+                    <img src="/images/gallery/previews/dscn1465.JPG" data-size="1000x750" alt="Sankirtan meeting Zagreb, Croatia, October 2017">
+                </a>
+                <a href="/images/gallery/photos/dscn1835.JPG">
+                    <img src="/images/gallery/previews/dscn1835.JPG" data-size="1000x750" alt="At Srila Prabhupada´s bedroom, Bhaktivedanta Manor, December 2017">
+                </a>
+                <a href="/images/gallery/photos/dscn1078.JPG">
+                    <img src="/images/gallery/previews/dscn1078.JPG" data-size="1000x750" alt="Manidhara das in front of a temple where he joined ISKCON in 1972 , Heidelberg, Germany,  (photo taken on June 2017)">
+                </a>
+                <a href="/images/gallery/photos/dscn1063.JPG">
+                    <img src="/images/gallery/previews/dscn1063.JPG" data-size="1000x750" alt="Heidelberg Ratha Yatra 2018, blissfull association with H. G. Bhakti Gouravani Swami, June 2017">
+                </a>
+                <a href="/images/gallery/photos/dscn1044.JPG">
+                    <img src="/images/gallery/previews/dscn1044.JPG" data-size="1000x750" alt="Heidelberg Ratha Yatra 2018, blissfull association with H. G Bhakti. Gouravani Swami, June 2017">
+                </a>
+                <a href="/images/gallery/photos/2-mayapur.jpg">
+                    <img src="/images/gallery/previews/2-mayapur.jpg" data-size="1000x750" alt="I and my daughter Malini, Mayapur, 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2026.JPG">
+                    <img src="/images/gallery/previews/dscn2026.JPG" data-size="1000x750" alt="My daughter Malini, in Mayapur, 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2039.JPG">
+                    <img src="/images/gallery/previews/dscn2039.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2098.JPG">
+                    <img src="/images/gallery/previews/dscn2098.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2145.JPG">
+                    <img src="/images/gallery/previews/dscn2145.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2176.JPG">
+                    <img src="/images/gallery/previews/dscn2176.JPG" data-size="750x1000" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2216.JPG">
+                    <img src="/images/gallery/previews/dscn2216.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2301.JPG">
+                    <img src="/images/gallery/previews/dscn2301.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2357.JPG">
+                    <img src="/images/gallery/previews/dscn2357.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2332.JPG">
+                    <img src="/images/gallery/previews/dscn2332.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2477.JPG">
+                    <img src="/images/gallery/previews/dscn2477.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/dscn2487.JPG">
+                    <img src="/images/gallery/previews/dscn2487.JPG" data-size="1000x750" alt="Mayapur 2018">
+                </a>
+                <a href="/images/gallery/photos/mp-oddani-8.jpg">
+                    <img src="/images/gallery/previews/mp-oddani-8.jpg" data-size="1023x768" alt="Russia 2018, personal Q+A">
+                </a>
+                <a href="/images/gallery/photos/oddani.jpg">
+                    <img src="/images/gallery/previews/oddani.jpg" data-size="1023x768" alt="Russian Maharathis, SKT Festival 2018">
+                </a>
+                <a href="/images/gallery/photos/mp-oddani11.jpg">
+                    <img src="/images/gallery/previews/mp-oddani11.jpg" data-size="1000x750" alt="Russian SKT Festival, 2018">
+                </a>
+                <a href="/images/gallery/photos/mp7.jpg">
+                    <img src="/images/gallery/previews/mp7.jpg" data-size="1024x683" alt="Russian SKT Festival, 2018">
+                </a>
+                <a href="/images/gallery/photos/mp-oddani-swami.jpg">
+                    <img src="/images/gallery/previews/mp-oddani-swami.jpg" data-size="1000x750" alt="Russian SKT Festival, 2018">
+                </a>
+                <a href="/images/gallery/photos/mp6.jpg">
+                    <img src="/images/gallery/previews/mp6.jpg" data-size="1024x683" alt="Russian SKT Festival, 2018">
+                </a>
+                <a href="/images/gallery/photos/dsc03720.JPG">
+                    <img src="/images/gallery/previews/dsc03720.JPG" data-size="1600x1200" alt="SKT Meeting Italy January 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03732.JPG">
+                    <img src="/images/gallery/previews/dsc03732.JPG" data-size="1600x1200" alt="SKT Meeting Italy January 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03761.JPG">
+                    <img src="/images/gallery/previews/dsc03761.JPG" data-size="1600x1200" alt="Sunday Feast  Italy January 2019">
+                </a>
+                <a href="/images/gallery/photos/dscn3982.JPG">
+                    <img src="/images/gallery/previews/dscn3982.JPG" data-size="1600x1200" alt="Srila Prabhupada´s room, Villaggio Hare Krsna, Italy, 2019">
+                </a>
+                <a href="/images/gallery/photos/dscn3999.JPG">
+                    <img src="/images/gallery/previews/dscn3999.JPG" data-size="900x1200" alt="Harinama Milan, Italy 2019">
+                </a>
+                <a href="/images/gallery/photos/dscn4025.JPG">
+                    <img src="/images/gallery/previews/dscn4025.JPG" data-size="900x1200" alt="Harinama Milan, Italy 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03815.JPG">
+                    <img src="/images/gallery/previews/dsc03815.JPG" data-size="1600x1200" alt="Sri Radha Kund, Vrindavan 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03820.JPG">
+                    <img src="/images/gallery/previews/dsc03820.JPG" data-size="1600x1200" alt="At Kusum Sarovara, Vrindavan 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03828.JPG">
+                    <img src="/images/gallery/previews/dsc03828.JPG" data-size="900x1200" alt="Peacock in Govardhan, 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03855-2.jpg">
+                    <img src="/images/gallery/previews/dsc03855-2.jpg" data-size="900x1200" alt="">
+                </a>
+                <a href="/images/gallery/photos/dsc03886.JPG">
+                    <img src="/images/gallery/previews/dsc03886.JPG" data-size="1600x1200" alt="Gosala, Vrindavan 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc03969.JPG">
+                    <img src="/images/gallery/previews/dsc03969.JPG" data-size="900x1200" alt="Simhacalam, June 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc04005.JPG">
+                    <img src="/images/gallery/previews/dsc04005.JPG" data-size="1600x1200" alt="Ratha Yatra Heidelberg, 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc04010.JPG">
+                    <img src="/images/gallery/previews/dsc04010.JPG" data-size="1600x1200" alt="Ratha Yatra Heidelberg, 2019">
+                </a>
+                <a href="/images/gallery/photos/dsc04013.JPG">
+                    <img src="/images/gallery/previews/dsc04013.JPG" data-size="1600x1200" alt="Ratha Yatra Heidelberg, 2019">
+                </a>
+                <a href="/images/gallery/photos/dscn6160.JPG">
+                    <img src="/images/gallery/previews/dscn6160.JPG" data-size="750x1000" alt="Marathon in Sweden, winter 1988">
+                </a>
+                <a href="/images/gallery/photos/dscn6161.JPG">
+                    <img src="/images/gallery/previews/dscn6161.JPG" data-size="1000x750" alt="Marathon in Sweden, winter 1988">
+                </a>
+                <a href="/images/gallery/photos/dscn6159.JPG">
+                    <img src="/images/gallery/previews/dscn6159.JPG" data-size="1000x750" alt="Sankirtan devotees, Koln am Rhein, 2002">
+                </a>
+                <a href="/images/gallery/photos/dscn6158.JPG">
+                    <img src="/images/gallery/previews/dscn6158.JPG" data-size="1000x750" alt="Srila Prabhupada´s marathon with Malini, Christmas 2003, Prague">
+                </a>
+                <a href="/images/gallery/photos/dscn6163.JPG">
+                    <img src="/images/gallery/previews/dscn6163.JPG" data-size="750x1000" alt="Marathon in Sweden, winter 1988">
+                </a>
+                <a href="/images/gallery/photos/dscn6162.JPG">
+                    <img src="/images/gallery/previews/dscn6162.JPG" data-size="750x1000" alt="Marathon in Sweden, winter 1988">
+                </a>
+            </div>
+        </div>
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Zavřít (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Sdílet"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Celá obrazovka"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Přiblížít/oddálit"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Předchozí (šipka doleva)">
+            </button>
+
+            <button id="right_button" class="pswp__button pswp__button--arrow--right" title="Další (šipra doprava)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+    <script src="/js/jquery.justifiedGallery.min.js"></script>
+<script src="/js/photoswipe.min.js"></script> 
+<script src="/js/photoswipe-ui-default.min.js"></script>
+<script src="/js/photoswipe-init.js"></script>
+<script> 
+    $("#gallery").justifiedGallery({
+        rowHeight: 150,
+        lastRow: 'nojustify',
+        captions: false,
+        margins: 4
+    });  
+
+    initPhotoSwipeFromDOM('#gallery');
+</script>
+</body>
+</html>

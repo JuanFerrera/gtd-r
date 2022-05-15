@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            What should a devotee-manager consider?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=2">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>What should a devotee-manager consider?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">21 Feb 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">Unfortunately instruction manuals on this issue written in the past are presently not available to me, but they surely contained many good advises regarding the daily reality a devotee who accepts managerial responsibility has to face.</p>
+
+<p style="text-align: justify;">Sometimes devotees tend to reach out into the material world for help how to manage successfully larger groups of people. Such books are of little use for a manager in Krsna consciousness as Srila Prabhupada&rsquo;s movement is conducted under very different conditions as movements in the &quot;ordinary&quot; karmi world.</p>
+
+<p style="text-align: justify;">Srila Prabhupada warned in His letters any devotee managing, that His movement is a movement based on preaching and on VOLUNTARY contribution of those who tend to respond to the call of the sastras and surrender their lives to the Supreme Lord. No karmi has to face such a responsibility as the in the material world always a material reward for ones contributions is expected, either in form of money or in form of name fame and glory. Even the greatest altruist is finally caught by maya, believing that he is the greatest friend and well wisher of human kind&hellip; just another &quot;god&quot;.</p>
+
+<p style="text-align: justify;">And so the first lesson for any manager in Krsna consciousness is that he is the SERVANT, not the master of those entrusted into his care. He must be enough educated to understand that he can protect and guide only to the degree he is himself protected and guided, in other words to the degree he is connected to the guru parampara.</p>
+
+<p style="text-align: justify;">What follows are only few of qualities required for such a responsible devotee who takes upon himself the ungrateful task to help even those who may not appreciate his help. Most people have hard time to distinguish friends from enemies and so in their confusion they tend to imitate paramahamsas and &quot;see everything equally&quot;, avoiding a &quot;managerial friend&quot; and embrace the association of a smiling cheater.</p>
+
+<p style="text-align: justify;">Such is the destiny of any preacher who finally has to become a manager. As Srila Prabhupada said, management follows the preaching as we are daily followed by our shadows. Even Srila Prabhupada fought hard to delegate management so He can stay purely in preaching position, but it was not possible. Those who try to separate preaching from management turn out to be simply speakers with no audience and those who tend to manage without preaching turn out to be simply desperate lonely manipulators of those who don&rsquo;t follow.</p>
+
+<h2>SIMPLE AND HONEST</h2>
+
+<p style="text-align: justify;">In the view of the above mentioned points, a manager must be simple and honest in his dealings with other devotees. Duplicity and political trickery always backfires, even it seems for a while to be the right way of action. Finally any sincere devotee will grow up in Krsna consciousness to such a degree that he realizes how far he was sincerely advised and how far he was simply manipulated into certain course of action. Political &quot;pragmatism&quot; always corrupts the leader and possibly his follower as well. Too often it was seen how devotees broke with corrupt management only to copy it elsewhere on their own. After all, they were raised in the same &quot;school of pragmatic manipulators&quot;. Rather a manager should earn rejection and criticism of those who feel not to be appreciated in their corrupt ways of thinking and stick to the truth instead to simply secure his position and his livelihood by corrupt means.</p>
+
+<p style="text-align: justify;">To pretend to be &quot;liberal&quot; is another trap one may step in, as there is no such a thing. As result such a maneuvering manager will end up being despised by all, as pleasing all means pleasing nobody.</p>
+
+<h2>RESOURCEFULL</h2>
+
+<p style="text-align: justify;">Often, out of emergency, an unqualified person is put into management, causing usually more damage as his predecessors left behind. A manager has to be by quality a ksatriya or a brahmana assisted by a ksatriya. Even untrained, such a potential manager has at least to be open to learn and improve his quality. Sudra management ends up in sentimental corruption and bankruptcy, vaisya management ends up in financially motivated corruption and ksatriya management, lasting longer, may also find its end if not controlled by brahminical superior power.</p>
+
+<p style="text-align: justify;">Real quality of a manager can be recognized in times of trouble where everybody else is plunged into despair. Real manager gets enlivened by the arriving challenge and draws from his resources. He must have the basic knowledge of varnasrama dharma as hardly anybody joins this movement on basis of pure love of Godhead, but has to be first engaged on basis of his prevailing qualities. The first devotee Srila Prabhupada met was engaged in writing and editing. And so his service turned out to be the same. Sometimes Srila Prabhupada by His amazing spiritual power empowered a devotee to do the impossible, far beyond the limits set by his varna. But finally everybody returned to the positions where he functioned best, either in perverted form in material society or in more progressive form in spiritual society. Even Arjuna wanted to be somebody he was not and stood entirely corrected by the time Bhagavad-Gita was spoken to him.</p>
+
+<p style="text-align: justify;">And so a manager can be seen by the way how many different individuals he can engage in Srila Prabhupada&rsquo;s mission. Putting his preferences aside, (only sudras and corrupted ksatriyas collect followers in form of &quot;fan-clubs&quot;), he seeks to solve the task on hand and not his personal wellbeing. His satisfaction is derived from serving the mission assigned to him, not from the ways he is perceived or treated. He sees the potential in others to become part of a higher cause defined by Srila Prabhupada and being supportive and protective to those he recognizes as being &quot;useful&quot;, he encourages by right preaching those willing to contribute in any way possible. This means he must be a knower of people, at least to the degree of a madhyama adhikari.</p>
+
+<p style="text-align: justify;">Kanistha adhikari manager is a walking disaster as he will not even recognize a madman from a potentially saner person. In name of &quot;mercy&quot; he will fill Srila Prabhupada&rsquo;s movement with entirely incompetent or even worse, dangerous individuals who will do nothing else as discredit Srila Prabhupada&rsquo;s image in the eyes of the public. As one burning tree can burn down a whole forest, such a fool will facilitate a madman, not understanding the misfortune he brings upon others by his stupidity and arrogance.</p>
+
+<h2>KNOWS HOW TO DISCRIMINATE</h2>
+
+<p style="text-align: justify;">It is an unfortunate task of a manager to be forced to discriminate between those who have the quality of being able to progress individually and be finally engaged in Srila Prabhupada&rsquo;s mission and those who want to use the facilities this mission offers only. It is only natural that such manager will be criticized and has often to face the opposition. A lucky manager is guided, protected and corrected by a higher manager; an unlucky manager has to struggle on his own, often resigning his post due to the negligence of superior authorities. Srila Prabhupada was able to protect and correct His &quot;big guns&quot; as He called them, connecting and managing a seemingly impossible collection of most eccentric individuals probably seen on this planet Earth.</p>
+
+<h2>IS A PUBLIC PERSON</h2>
+
+<p style="text-align: justify;">Understanding that he is simply servant of others, a managers life must be transparent. The idea to belong to an exclusive class of devotees is deadly. Of course managers are often lonely devotees, at best accompanied by their loyal wives, or at worst divorced from their previously loyal wives:-) But a manager must be a grhasta. (?!)</p>
+
+<p style="text-align: justify;">Yes, Srila Prabhupada entrusted with managerial responsibility even sannyasis and brahmacaries as there was nobody else, but it is only logical that such a sannyasi or a brahmacari will seek the assistance of a grhasta as management too often involves women and money. These two &quot;assets&quot; can be for a manager in presence of a brahminical guide, (in form of a sannyasi or an older brahmacary), very invigorating, in the absence of such a guardian and friend they turn often to be destructive. Similarly involvement with these two, money and women, too often turned out to be deadly for brahmacaries and sannyasis as proven in ISKCON history. And so, grhasta and sannyasi, brahmacari, can mutually protect each other. Sannyasi and brahmacari can receive donations of any kind, but the direct dealings with funds can be entrusted to a grhasta only, who in return is entirely accountable to the very same public which supports the preaching. Double economy and double moral standards lead to a total loss of faith on the side of the public and lead also to long term aversion to any kind of authority. And so a devotee manager doesn&rsquo;t have a private life. He is a public person.</p>
+
+<h2>MUST BE REACHABLE AND MUST BE COMMUNICATIVE</h2>
+
+<p style="text-align: justify;">Management is no place for introverts. As mentioned above, a manager must be reachable by those who are in need. Either in form of regulated office hours, or if inspired, day and night, a manager must be ready to answer the calls of those who seek his shelter. If not able to help instantly, he should be possibly able to guide those seeking help to those who can give it. Sometimes, by means of preaching, he must be able also to explain that there is no perfection in this world and so one must accept the given situation as Krsna&rsquo;s mercy. An unreachable manager is simply a farce, a relict who occupies a post which should be occupied by somebody else. No amount of titles he carries around will change that.</p>
+
+<p style="text-align: justify;">In this connection it could be also said that any plan or preaching idea involving others must be announced by a manager to the devotees either in the temple or in the congregation in good time BEFORE its realization. Last minute announcement and last minute scenarios lead only to frustration and chaos which is much energy consuming. Devotees are not mind-readers and have to be in good time informed if we expect them to follow.</p>
+
+<h2>MUST BE ABLE TO LISTEN SO HE CAN HELP&hellip; NOT JUST LISTEN</h2>
+
+<p style="text-align: justify;">The term of empathetic listening, much used in connection with counselors and managers today, is&hellip; a myth. A term &quot;pathetic listening&quot; would be more appropriate, as such a supposedly understanding seeking fool is a pretender only if his listening doesn&rsquo;t lead to a practical sastric advise how a particular person can improve his or hers life and become useful part of the mission of the Lord. A really listening manager will find out a way to show the particular person that his needs may be automatically satisfied when the needs of the Lord are met. The today&rsquo;s popular perversion of defining ones happiness first with a vague promise of future engagement in devotional service is a typical way how spirituality turns into piety and piety into materialism. Even at the cost to be rejected, a real manager will not compromise the sastric conclusion and make fool out of himself by catering to the needs of conditioned souls in a material way.</p>
+
+<h2>MUST BE ABSOLUTELY PREACHING ORIENTED</h2>
+
+<p style="text-align: justify;">Understanding that it is not possible to please oneself without pleasing the Supreme Lord, a manager seeks all kinds of ways to connect those entrusted to his care with the mission of His spiritual master. In Srila Prabhupada&rsquo;s movement the services in the realm of His book distribution, prasadam distribution, Holy Name distribution and finally the establishment of varnasrama based life in farming communities, offers endless possibilities to become part of the mission of the Supreme Lord. Management means to seek ways to create facilities for others so maximum amount of conditioned souls can be engaged in devotional service.</p>
+
+<p style="text-align: justify;">Srila Prabhupada DIDNT built a house where everybody can live, as somebody once upon a time said, but He gave us a structure where those who don&rsquo;t fall into the category of lazies and crazies can base their lives upon. Management means to visualize this structure to others, facilitate the more sober ones and protect them from the insane ones, who after all will be the first ones ready to use this facility, as &quot;fools dash in where angels don&rsquo;t dare&quot;.</p>
+
+<p style="text-align: justify;">A manager who takes part in preaching activities himself will easily be inspiring to others to follow. As small man follows the bigger one, a manager can be recognized by the quality of his followers. Focusing more on quality and not quantity, a manager should be able to delegate soon the growing responsibilities and never allow him to be disconnected from the preaching field. Even karmis say that &quot;a quality of manager can be recognized more in his absence as in his presence&quot;. That means that such a qualified manager finally manages from a preaching platform, delegating the various responsibilities to his trained department heads. However, generally ISKCON has long way to go before coming to this stage. Only locally and occasionally such an atmosphere might have been achieved, but due to the continuous invasion of highly unqualified individuals who are prematurely identified as vaisnavas, due to premature and indiscriminate initiation frenzy and due to the non-communicative nature of some of its managers, those who would like to reach these standards are left often with no other option as to retreat in some sort of asylum, going underground while seeking sanity.</p>
+
+<h2>AN ABSOLUT PERSONALIST</h2>
+
+<p style="text-align: justify;">Life comes from life&hellip; and not from money. A managing devotee should be broad hearted and not mediocre when it comes to invest into positively inclined people. That doesn&rsquo;t mean facilitation of lazies and crazies, that means facilitation of those who might be not on the highest level of Krsna-consciousness, but who are inclined to support those who are more advanced spiritually and inclined to make progress themselves. To invest into people is far more rewarding as to count daily loss and profit. Srila Prabhupada&rsquo;s unique achievement, amongst many, was that He gave dignity and responsibility to those who lost faith that they can have it. But He didn&rsquo;t do so on humanistic or altruistic terms, but strictly within the mission of His spiritual master. Reading his letters one can get an idea how intense His concern was for &quot;our men&quot;. A devotee-manager, who simply sees the world around him in terms of financial priorities, will soon go bankrupt.</p>
+
+<p style="text-align: justify;">But a manager, who even at the cost of losing a momentarily arising financial opportunity takes time to speak to others and takes interest in their lives, will be rewarded by their gratefulness, at least on some occasions. People are not miserly by heart; they are just disappointed and often tormented by their own karma. It is not important what they CAN contribute, it is important what they WANT to contribute. A little can be a lot for an impoverished man and a lot can be too little for a well to do man. The attitude is important and not the instant result.</p>
+
+<p style="text-align: justify;">A temple or project dominated by devotees in right consciousness is regardless its size far more progressing as a &quot;pragmatically&quot; collected group of individuals with deranged type of minds. As birds of the same feather flock together, one lunatic attracts instantly other lunatics as much as one saner person attracts similarly humble ones. It is up to the manager with whom he wants &quot;to flocks together&quot; and turn the project entrusted to him either into modestly advancing operation or a &quot;lunatic asylum&quot; as Srila Prabhupada used to call it.</p>
+
+<h2>MUST BE WELL AWARE OF HIS NATURE</h2>
+
+<p style="text-align: justify;">A manager must be well situated in his varna and ashrama situation. The reality of his varna and ashrama will be anyway soon revealed once he is under managerial pressure. And so only one who already operates with certain inherent quality can be trained and not, as it is today popular, that training is delivered indiscriminately. The curved tail of a dog can be bent in all kinds of ways, but it will anyway assume its original form at best possible opportunity. Management is not based on titles and numbers of seminars attended, but on ones inherent ability to learn what has to be learned and to teach what has to be thought. In other words, a manager has to be a &quot;spiritual pragmatic&quot;, always keeping the priority given to him by Srila Prabhupada in his view. He cannot be a dreaming title-carrier.</p>
+
+<h2>MUST BE TRANSPARENT IN HIS CONDUCT AND HIS PERSONAL ECONOMY</h2>
+
+<p style="text-align: justify;">Y A temple president, a manager, is a public person. Unless capable to generate parallel to his service an independent economy for his maintenance, he is totally financially dependant on publics support. Seeing this support as a necessity for serving the public in spiritual sense, He has to see it as a manifestation of Krsna&rsquo;s mercy. However, Krsna&rsquo;s mercy has its carriers and herewith it is personal. Such a manager is well advised to show some gratitude to those who offer their support so he can conduct his service. Srila Prabhupada didn&rsquo;t hesitate to thank His disciples for their service to Him; even we all knew that without His mercy our lives would have no meaning. It is this exchange of gratitude which makes Krsna consciousness so attractive even for those who understand the philosophy little. It is this exchange of gratitude which attracts Krsna mercy even more. And, at least internally, every manager owns to his supporters open report about his financial status. He cannot maintain double standards, neither in his moral conduct or in his economical dealings with devotees.</p>
+
+<p style="text-align: justify;">An alternative is that a manager lives financially independently, which will certainly condition his service heavily, and conducts his service from a position of an independent grhasta, (sannyasis and brahmacaries are not supposed to maintain their own private economy). Herewith his service is truly in a manner of an additional contribution to his already established economical activities. Such a selfless service is surely most praiseworthy. Srila Prabhupada defined such grhastas to be on level of true sannyasis.</p>
+
+<h2>CANNOT BE &quot;SPIRITUAL SEPARATIST&quot;</h2>
+
+<p style="text-align: justify;">The spiritual advancement of a manager within the preaching mission of Srila Prabhupada is closely linked with the lives of those he is in care of. That doesn&rsquo;t mean that he has to adjust the standards established by his spiritual master to public needs, but that means that he is obliged to preach this standards for public benefit. In other words, he has to stand on his own spiritual ground while trying to help others to do the same. He cannot dedicate his life to private studies while serving the general body of devotees. A balance must be established between his spiritual needs and the spiritual needs of those he serves. For a madhyama adhikari this will not be a problem as he derives inspiration and strength by seeing others spiritual striving. A kanistha adhikari will by dint of private studies simply grow in pride, thinking him to be elevated above the others. He expects them to simply recognize his pseudo-transcendental position. He demands respect and doesn&rsquo;t command respect.</p>
+
+<p style="text-align: justify;">To stay balanced between his personal spiritual needs and the needs of the public, the manager must be protected by higher authority. Lacking that protection he may find himself being moved between the stages where he feels to be &quot;burned out&quot; and &quot;consumed&quot; by the public or being accuse of &quot;spiritual separatism&quot;, not sufficiently attending to the spiritual needs of those he is uncharged for. History of ISKCON is full of both extremes, demonstrating the important need to protect each other even on the &quot;highest levels of management&quot;.</p>
+
+<h2>CANNOT EXPECT SUPPORT OF MAJORITY</h2>
+
+<p style="text-align: justify;">Y Democracy is practiced in Vedic Society only on the highest levels. It is reserved for brahmanas only as the other varnas simply follow. That doesn&rsquo;t mean that in their particular field managers don&rsquo;t seek feedback of the public. But the final decision power is entrusted to those who are qualified, not to those who think they are qualified or those who assumed their posts by power of vox populi. The level of qualification can be only ascertained by a brahminical person. Specially in the age of Kali the functions within the society are entirely topsy turvy as the brahmanas find themselves living in underground and the loud voices of the sudras, being cunningly used by vaisyas, can be heard everywhere. Herewith economical development is the ultimate goal of the society, turning everybody into servant of the economical greed of the dominating vaisya-type money makers.</p>
+
+<p style="text-align: justify;">A spiritual manager has to be occasionally satisfied with the blessings of his spiritual master and Krsna only. Once a well known ISKCON manager finally broke down due to the discouragement received even from his most close godbrothers. He wrote to Srila Prabhupada along the lines: &ldquo;What am I doing here? Nobody likes what I am doing; nobody even cares what I am doing.&rdquo; Srila Prabhupada answered: &ldquo;I do see what you are doing, Krsna sees what you are doing&hellip; is this not enough?&rdquo; Needless to say, our manager went on in most enthusiastic fashion. The very same manager received an instruction from Srila Prabhupada while assuming his GBC-service: &ldquo;It will be like iron going through fire. Once you come out on the other side, you will be like steel.&rdquo;</p>
+
+<p style="text-align: justify;">Certainly, every manager has to follow in Arjuna&rsquo;s footsteps and do the needful while putting his emotional distress aside. This is easy to say, this is easy to write, but not at all easy to do.</p>
+
+<h2>MUST HAVE BASIC SENSE OF JUDGEMENT REGARDING HUMANS</h2>
+
+<p style="text-align: justify;">A real manager can be seen in his absence and not in his presence. That&rsquo;s means that it is the quality of devotees he surrounds himself with which will determine the continuity of his management. Birds of the same feather flock together. A kanistha manager will surround himself with mentally handicapped ones so he can either feel to be superior to then or he can at least have some empathetic listeners.</p>
+
+<p style="text-align: justify;">Madhyama adhikari manager will seek those who can truly assist and accommodate them of course along their dormant varnasrama qualities and above all their unmotivated devotion. Even materialists understand that it is not possible to accomplish anything alone or in association of lunatics. When once Henry Ford was asked how he accomplished so much, his answer was instant, &quot;because I know everything&quot;. To the shocked reporter he explained that as matter of fact he doesn&rsquo;t know everything, but he knows always &quot;somebody who knows something&quot;. When one award collecting Czech movie maker was asked how he could do such an amazing movie, his answer was that &quot;you have to make sure that everybody on that team is thousand times better as you.&quot; So, even pragmatic sudras know the art of engaging others.</p>
+
+<p style="text-align: justify;">A manager will seek to find out what the potential of each individual person is and engage him or her in devotional service accordingly. But we are devotes and we have what no karmi company has: Srila Prabhupada. It is the devotion to Him and His mission which will finally determine the use of the manager and the use of those who are under his care. Krsna can empower a sincere soul. Krsna can empower anybody who wants to please His pure devotee.</p>
+
+<p style="text-align: justify;">Srila Prabhupada was realistic; he said that the temple is not a place for lazies and crazies. To understand who is crazy is only possible by understanding Srila Prabhupada&rsquo;s words. His words are the ultimate definition for sanity.</p>
+
+<p style="text-align: justify;">And so a real manager seeks company of those who also try to be used by Krsna and His pure devotee. It is only to the degree we are used we can engage others so they can be used as well. It is only to the degree we serve we can engage others in service.</p>
+
+<p style="text-align: justify;">As much one is as devotee hesitant to discriminate between the useful or useless ones, a manager will not be able avoid such an unpleasant task. He MUST discriminate and that will make him a target of critics who are insisting in name of mercy to propagate the illusory mayavadi ideals of universal love, oneness and brotherhood. Even Srila Prabhupada was questioned to be saint by such class of people as he shouted back, &quot;I am not sama darsina!&quot; To see with equal vision means to want to engage everybody in Srila Prabhupada&rsquo;s mission. Those who come with their own agenda or those who are devastated by their own karma ending up being mentally retarded, can become recipients of prasadam and then they will be asked to realize their ideas of spirituality elsewhere. Unfortunately in Kali-yuga this authority defying crowd is the majority. A manager will have to realize that and better conduct a temple or a project while striving for quality and not quantity.</p>
+
+<p style="text-align: justify;">Those who initiate disciples might also be well advised not to surround themselves with armies of fools and incompetent renegades, but think about the welfare of the very few remaining managers who then have to &quot;clean up the mess&quot; by dealing with totally antagonistic freshly initiated madmens who are masquerading as members of Srila Prabhupada&rsquo;s movement. Feeling highly discredited in association of such lunatics or even criminals, the sane section of devotees is forced to retreat into some sort of underground Hare Krsna movement, meeting in seclusion and remembering what Srila Prabhupada truly told us to do.</p>
+
+<p style="text-align: justify;">And so a manager should despite all the odds maintain the line of sanity as &quot;one moon&quot; is more substantial as skies being filled with falling down comets or flickering UFOS with drivers of unknown origin.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Here more notes from a diary of a manager in Srila Prabhupada&rsquo;s international hospital for diseased souls.</p>
+
+<p style="text-align: justify;">There are two proverbs which are of great use for any manager in this world which is dominated by human anomalies. They proved over and over to be of absolute nature:</p>
+
+<h2 style="text-align: center;">BIRDS OF THE SAME FEATHER FLOCK TOGETHER</h2>
+
+<p style="text-align: justify;">It is not an accident that we find our self on long term basis surrounded by similarly minded. Even in negative sense, wondering &quot;where all these idiots come from&quot;, and the presence of &quot;idiots&quot; is not accidental. Consciously or even subconsciously the manager will invite the presence of those whom he considers useful and avoid the presence of those whom he considers aberration.</p>
+
+<p style="text-align: justify;">The mayavadi myth that &quot;everybody can be accommodated&quot; is a myth only. Even the mercy of Lord Caitanya is unconditional; it is not cheap and doesn&rsquo;t come without a price. That price is the surrender to the instruction of Srila Prabhupada.</p>
+
+<p style="text-align: justify;">And so those striving to please Srila Prabhupada are useful and those insisting on their own speculated agenda are useless.</p>
+
+<p style="text-align: justify;">A manager of destructive nature, Srila Prabhupada called him an &quot;active fool&quot;, will ignore this standard of values and rather reach out for those who are loyal to him or with whom he &quot;feels comfortable&quot;. No wonder when the project or the temple starts to fill with highly mentally retarded individuals. This is just a sign of the quality of the manager himself. More sane ones would start to feel uncomfortable in such an assembly, (and eventually retreat as it is occasionally the case in the ISKCON-world) but a fool will not.</p>
+
+<p style="text-align: justify;">Even Srila Prabhupada built His movement with the help of deranged hippies; he saw the final quality in each individual and quickly brought it out. And so he found himself being surrounded by His &quot;big guns&quot; that He turned into highly empowered devotees, fully absorbed in the mission of the spiritual master. And then of course, as always, there were the other ones: mediocre kanistha type of individuals, simply &quot;hanging on&quot; while barely surviving the effects of their last LSD trip. In Srila Prabhupada&rsquo;s presence even these ones were &quot;sucked&quot; into the whirlpool of missionary activities, under the guidance of their Srila Prabhupada-connected leaders. To the degree the connection got broken, on both sides, to the degree the preaching power vanished.</p>
+
+<p style="text-align: justify;">But when reflecting even a fraction of Srila Prabhupada&rsquo;s most wonderful qualities, devotees became useful tools in Krsna&rsquo;s hands.</p>
+
+<p style="text-align: justify;">And so it is true that &quot;birds of the same feather flock together&quot;, because Srila Prabhupada&rsquo;s missionary spirit was shared by His followers. If we find a temple or a project being dominated by lunatics, it can only indicate the quality of the &quot;biggest bird in the nest.&quot;</p>
+
+<h2 style="text-align: center;">THE WATER FINDS ALWAYS ITS LEVEL</h2>
+
+<p style="text-align: justify;">&hellip; is not only a physical law, but also a long term scenario for the spiritual development of each individual in human society. Animals don&rsquo;t have to search after their level of existence, as they are already perfectly situated according to nature&rsquo;s law. No bear will imitate a cow and no cow will imitate a monkey. Unfortunately humans of today operate on far lower level. Confused, they assume hypocritical identities, assigning themselves to positions which are highly inappropriate. In their strive to finally designate themselves to be God, they reach the state of absolute madness.</p>
+
+<p style="text-align: justify;">Those pious ones, who are mutilated by their own stupidity, finally arrive at the doors of Krsna consciousness. But maya doesn&rsquo;t have to stop there. As Srila Prabhupada said, she is a pure devotee and so she can come even into the temple. Once the conditioned soul little bit recuperated, the search after self-invented designations starts again. Reading in Srila Prabhupada&rsquo;s books about the goals to be achieved, a fool may reach into his home made box of titles and designations and decorate himself with one of his choice. Violating both, his varna and his ashrama, such a puffed up mentally inspired hypocrite will profess as a vaisnava in any position he thinks to be fit for. We have even examples of devotees switching from one ashrama to another, simply by deciding to do so, exactly as Srimad Bhagavatam predicts it will be in this age of Kali. At the end such a &quot;transcendentalist&quot; may dress in saffron dhoti with white stripes and stars on it, or carry danda made from colorful saris, maybe even dress in sari himself believing to be a gopi. After all, he is clown. This clownery may result in the final madness, where such a confused individual declares himself to be &quot;transcendental to this entire after all&quot;, becoming a perfect mayavadi.</p>
+
+<p style="text-align: justify;">And so &quot;finding ones level&quot; is an essential need for preaching. For a serious preacher this occurs automatically. Trying to help the conditioned souls and gain credibility so his words may be taken seriously, he understands the need to be honest and free from hypocrisy. One can cheat many for very short time and some for long, but not everybody forever. And so finally the truth emerges. As those who found themselves wrongly placed occasionally leave Krsna consciousness in despair, they can be always found, even when in maya, striving for a life style corresponding to the varna they are destined to operate with. And so the high sounding transcendentalist becomes anyway a decorator-artist-sudra, Wall Street-money-gambler-like-to-be vaisya, administrator or operator of some kind in name of a ksatriya or finally some teaching speculator in name of a brahmana.</p>
+
+<p style="text-align: justify;">The water always finds its level, either in spiritually controlled lake or materially controlled swimming pool. Nobody can escape as long we have these material bodies. Only in the spiritual world anybody can become for Krsna&rsquo;s pleasure anything. But as we heard the reports, even there devotees generally maintain their rasa-designated positions.</p>
+
+<p style="text-align: justify;">Here in the material world, not understanding the level of the water, we end up masquerading in all kinds of artificially designated positions dancing at maya&rsquo;s command in a carnival like situation where everybody ends up being a depressed clown.</p>
+
+<p style="text-align: justify;">One can while being in the mode of passion violently pump the water into the air in form of a powerful fountain, but as soon the pump is switched of, the water will anyway return to its level again. That doesn&rsquo;t mean we should resign ourselves to our destiny, but that means we should progress realistically according to the level we are at and focus rather on the intensity of our surrender to Srila Prabhupada&rsquo;s instructions as to waste time by imitating a powerful water fountain while running around with our little water pistol.</p>
+
+<p style="text-align: justify;">As demonstrated even by the greatest devotees of the Lord, there is absolutely no need to change ones varna, only ashrama can eventually be changed. And even that is not for all. And so it&rsquo;s finally the intensity of our surrender and the dedication of our energy for the sake of the mission of the spiritual master which earns us the final qualification to return back home back to Godhead.</p>
+
+<p style="text-align: justify;">Long term management is inspired by brahmanas. Short term management is inspired by ksatriyas, vaisyas and sudras without the final brahminical supervision. In long term management the water always finds its productive level.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/31" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="135">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=2"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

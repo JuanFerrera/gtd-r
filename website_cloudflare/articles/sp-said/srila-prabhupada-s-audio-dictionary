@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Srila Prabhupada’s audio dictionary
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=2">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-said?page=4">Śrīla Prabhupāda said</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Srila Prabhupada’s audio dictionary</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/53_srila-prabhupada-speaking.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">21 Mar 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">As I spent some periods of my life listening continuously to Srila Prabhupada&rsquo;s lectures, here is my personal &ldquo;audio dictionary&ldquo;, points being made by Srila Prabhupada which specially caught my attention. Of course, Srila Prabhupada made often various points in one lecture and so listening to His lectures and conversations is an ongoing source of revelations each listener can experience by listening again and again.</p>
+
+<p style="text-align: justify;">Even the points Srila Prabhupada is making may seem to be somewhat repetitive, it&rsquo;s the way He is presenting them which is always new and fresh to those who are eager to listen. As the lectures are available freely in form of His audio library, anybody can listen to His Divine Grace any time as He travels from one location to another.</p>
+
+<p style="text-align: justify;">To listen to Srila Prabhupada&rsquo;s audio recording also includes the same purifying effect as to read His books. The voice of a pure devotee, vibrating with love of Godhead, purifies the heart of the listener, even when not properly understood. It is for this reason Srila Prabhupada&rsquo;s disciples used to sit in His lectures being delivered in Hindi; even they couldn&rsquo;t understand one word.</p>
+
+<p style="text-align: justify;">Of course, listening and understanding is the best, but the vibration emanating from the lotus mouth of a pure devotee is purifying the listener one way or another.</p>
+
+<p>&nbsp;</p>
+
+<table class="table table-bordered table-condensed audio-table">
+	<thead>
+		<tr data-audio-source="">
+			<th title="date">Date</th>
+			<th title="place">Place</th>
+			<th title="time">Theme</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/660302bgny/">
+			<td>2.3.1966</td>
+			<td>New York</td>
+			<td>How to accept a spiritual master, women hair, dots and lines, the need to recognize suffering</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/660801bgny/">
+			<td>1.8.1966</td>
+			<td>New York</td>
+			<td>Become a spiritual master!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/660904bgny/">
+			<td>4.9.1966</td>
+			<td>New York</td>
+			<td>Don&rsquo;t compromise, speak &ldquo;cutting words of Truth&rdquo;</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/660908leny/">
+			<td>8.9.1966</td>
+			<td>New York</td>
+			<td>Definition of mahamantra and avatar</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/660914bgny/">
+			<td>14.9.1966</td>
+			<td>New York</td>
+			<td>Tolerance in marriage, one of the rules in spiritual life</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661009bgny/">
+			<td>9.10.1966</td>
+			<td>New York</td>
+			<td>Four classes of men approaching Krsna defined</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661104gpny/">
+			<td>4.11.1966</td>
+			<td>New York</td>
+			<td>Govardhana Puja celebration</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661124bgny/">
+			<td>24.11.1966</td>
+			<td>New York</td>
+			<td>The Saksi Gopal story</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661125ccny/">
+			<td>25.11.1966</td>
+			<td>New York</td>
+			<td>Two kinds of maya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661126ccny/">
+			<td>26.11.1966</td>
+			<td>New York</td>
+			<td>Attacking demoniac parents</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661216bgny/">
+			<td>16.12.1966</td>
+			<td>New York</td>
+			<td>Distribute prasadam!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661216ccny/">
+			<td>16.12.1966</td>
+			<td>New York</td>
+			<td>Krsna&rsquo;s incarnations</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661219bgny/">
+			<td>19.12.1966</td>
+			<td>New York</td>
+			<td>Good and bad and no karma</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661221ccny/">
+			<td>21.12.1966</td>
+			<td>New York</td>
+			<td>Just by thinking and desiring how to serve Krsna you are already liberated</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661222ccny/">
+			<td>22.12.1966</td>
+			<td>New York</td>
+			<td>One must be pessimistic about the material world</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661226ccny/">
+			<td>26.12.1966</td>
+			<td>New York</td>
+			<td>Sadhu doesn&rsquo;t canvas for himself</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661226bgny/">
+			<td>26.12.1966</td>
+			<td>New York</td>
+			<td>We are all crazy!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/661231ccny/">
+			<td>31.12.1966</td>
+			<td>New York</td>
+			<td>Jesus, Mohamed are Saktyaves Avataras</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/670405lcsf/">
+			<td>5.4.1967</td>
+			<td>San Francisco</td>
+			<td>An outline for a play about Lord Caitanya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680309ivsf/">
+			<td>9.3.1968</td>
+			<td>San Francisco</td>
+			<td>How one is joining Krsna Consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680309ivsf/">
+			<td>9.3.1968</td>
+			<td>San Francisco</td>
+			<td>Different stages of development in Krsna Consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680323mesf/">
+			<td>23.3.1968</td>
+			<td>San Francisco</td>
+			<td>How one should chant, crying for help</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680611lemon/">
+			<td>11.6.1968</td>
+			<td>Montreal</td>
+			<td>How we are not this body</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680611lemon/">
+			<td>11.6.1968</td>
+			<td>Montreal</td>
+			<td>No unity and love while maintaining selfish consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680611lemon/">
+			<td>11.6.1968</td>
+			<td>Montreal</td>
+			<td>Ideal school program</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680623sbmon/">
+			<td>23.6.1968</td>
+			<td>Montreal</td>
+			<td>Varnasrama organization and yoga and yoga today most difficult, therefore: chant!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680623sbmon/">
+			<td>23.6.1968</td>
+			<td>Montreal</td>
+			<td>The individuality of the soul being used and&hellip; misused.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680712sbmon/">
+			<td>12.7.1968</td>
+			<td>Montreal</td>
+			<td>We must preach!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/680925lesea/">
+			<td>25.9.1968</td>
+			<td>Seattle</td>
+			<td>Relationship between guru and disciple. Both must be qualified. No premature initiations!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681002lesea/">
+			<td>2.10.1968</td>
+			<td>Seattle</td>
+			<td>Comparative study between Krsna Consciousness, Bible and Koran.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681007lesea/">
+			<td>7.10.1968</td>
+			<td>Seattle</td>
+			<td>Women are always dependant.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681014bgsea/">
+			<td>14.10.1968</td>
+			<td>Seattle</td>
+			<td>Different traps of maya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681021dksea/">
+			<td>21.10.1968</td>
+			<td>Stockholm</td>
+			<td>Remembering taking sannyas from Kesava maharaja</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681118lela/">
+			<td>18.11.1968</td>
+			<td>Los Angeles</td>
+			<td>How to preach even without book knowledge</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681201inla/">
+			<td>1.12.1968</td>
+			<td>Los Angeles</td>
+			<td>Initiation, explaining the purification mantras 10 offences explained</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681209dbla/">
+			<td>9.12.1968</td>
+			<td>Los Angeles</td>
+			<td>How Srila Prabhupada received instruction from his spiritual master</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681113lela/">
+			<td>13.11.1968</td>
+			<td>Los Angeles</td>
+			<td>Basis of this world</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681115lela/">
+			<td>15.11.1968</td>
+			<td>Los Angeles</td>
+			<td>Grha means limited by certain boundaries</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681123bgla/">
+			<td>23.11.1968</td>
+			<td>Los Angeles</td>
+			<td>You have to remember what you forgot.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681123bgla/">
+			<td>23.11.1968</td>
+			<td>Los Angeles</td>
+			<td>Krsna will test His devotee, don&rsquo;t be surprised.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681129bgla/">
+			<td>29.11.1968</td>
+			<td>Los Angeles</td>
+			<td>Action in detachment</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681129bgla/">
+			<td>29.11.1968</td>
+			<td>Los Angeles</td>
+			<td>If you are really engaged in devotional service, you MUST be happy!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681201inla/">
+			<td>1.12.1968</td>
+			<td>Los Angeles</td>
+			<td>Initiation lecture</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681202sbla/">
+			<td>2.12.1968</td>
+			<td>Los Angeles</td>
+			<td>Lecture, in the garage</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/681220bgla/">
+			<td>20.12.1968</td>
+			<td>Los Angeles</td>
+			<td>No retreat! No chanting in seclusion!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%AB-r%C4%81ma-navam%C4%AB-lord-r%C4%81macandras-appearance-day/">
+			<td>27.3.1969</td>
+			<td>Hawaii</td>
+			<td>Position of husband and wife</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-1589/">
+			<td>24.5.1969</td>
+			<td>New Vrndavana</td>
+			<td>Even very simple devotee can preach</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/initiation-lecture-bhagav%C4%81n-k%E1%B9%9B%E1%B9%A3%E1%B9%87-bh%C4%81mini-marriage-ceremony/">
+			<td>4.6.1969</td>
+			<td>Hong Kong</td>
+			<td>Meaning of marriage</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-1511/">
+			<td>10.6.1969</td>
+			<td>New Vrndavana</td>
+			<td>We are not musicians, we are chanters</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-1511/">
+			<td>10.6.1969</td>
+			<td>New Vrndavana</td>
+			<td>Mahatmas don&rsquo;t take part in political meetings</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-151213/">
+			<td>11.6.1969</td>
+			<td>New Vrndavana</td>
+			<td>&rdquo;poetic&rdquo; means for a devotee on basis of sastra only</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-lecture/">
+			<td>12.7.1969</td>
+			<td>Los Angeles</td>
+			<td>Consciousness of trees confirmed</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/bhagavad-g%C4%ABt%C4%81-41925/">
+			<td>9.1.1970</td>
+			<td>Los Angeles</td>
+			<td>On Vedanta Sutra and its vaisnava commentary</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%AB-%C4%AB%C5%9Bopani%E1%B9%A3ad-mantra-1315/">
+			<td>18.5.1970</td>
+			<td>Los Angeles</td>
+			<td>The mission is in your hands</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABmad-bh%C4%81gavatam-211b/">
+			<td>1.7.1970</td>
+			<td>Los Angeles</td>
+			<td>About Baladeva Vidyabhusana</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/%C5%9Br%C4%ABla-prabhup%C4%81da-leaving-japan-purport-n%E1%B9%9Bsi%E1%B9%81ha-prayers/">
+			<td>2.8.1970</td>
+			<td>Los Angeles</td>
+			<td>6 points how to remain to be enthusiastic</td>
+		</tr>
+		<tr>
+			<td>28.5.1971</td>
+			<td>Los Angeles</td>
+			<td>We don&rsquo;t worship Radha Krsna, but Laksmi-Narayana</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720521lela/">
+			<td>21.5.1972</td>
+			<td>Los Angeles</td>
+			<td>Sudra leaders advocate homo sex</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720524sbla/">
+			<td>24.5.1972</td>
+			<td>Los Angeles</td>
+			<td>The meaning of worship of demigods</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720527sbla/">
+			<td>27.5.1972</td>
+			<td>Los Angeles</td>
+			<td>Machine replaces the man, how one gets cheated by the modern economy</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720530sbla/">
+			<td>30.5.1972</td>
+			<td>Los Angeles</td>
+			<td>Qualities of a devotee</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720601sbla/">
+			<td>1.6.1972</td>
+			<td>Los Angeles</td>
+			<td>One must get ones (12 years old) daughter married</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720612sbla/">
+			<td>12.6.1972</td>
+			<td>Los Angeles</td>
+			<td>Reading Srila Prabhupada&rsquo;s books = becoming immortal</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720612sbla/">
+			<td>13.6.1972</td>
+			<td>Los Angeles</td>
+			<td>Education&hellip; for dogs</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720619sbla/">
+			<td>19.6.1972</td>
+			<td>Los Angeles</td>
+			<td>Don&rsquo;t turn a temple into something else, don&rsquo;t install Deities if you cannot worship</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720916sbla/">
+			<td>16.9.1972</td>
+			<td>Los Angeles</td>
+			<td>Family members being separated due to work</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720916sbla/">
+			<td>16.9.1972</td>
+			<td>Los Angeles</td>
+			<td>No telephone for Srila Prabhupada</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720922sbla/">
+			<td>22.9.1972</td>
+			<td>Los Angeles</td>
+			<td>The purpose of grhasta ashrama, women cannot elevate themselves without the help of a man</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/720922sbla/">
+			<td>26.9.1972</td>
+			<td>Los Angeles</td>
+			<td>Srila Prabhupada comparing brain man-women</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721104ndvrn/">
+			<td>4.11.1972</td>
+			<td>Vrndavana</td>
+			<td>One must be madhyama adhikari in order to preach</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721107sbvrn/">
+			<td>7.11.1972</td>
+			<td>Vrndavana</td>
+			<td>First clean the heart by chanting, and then come rules and regulations</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721111sbvrn/">
+			<td>11.11.1972</td>
+			<td>Vrndavana</td>
+			<td>The benefits of Vrndavana</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721208leahm/">
+			<td>8.12.1972</td>
+			<td>Ahmadabad</td>
+			<td>No freedom for women&nbsp;</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721226ndbom/">
+			<td>26.12.1972</td>
+			<td>Mumbai</td>
+			<td>How to cheat for Krsna</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/721228sbbom/">
+			<td>28.12.1972</td>
+			<td>Mumbai</td>
+			<td>Meaning of sadhana, push the car and activate the driver</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730104ndbom/">
+			<td>4.1.1973</td>
+			<td>Mumbai</td>
+			<td>How dhira and adhira are both dear to a devotee</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730410sbny/">
+			<td>10.4.1973</td>
+			<td>New York</td>
+			<td>The absolute need for varnasrama organization</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730412sbny/">
+			<td>12.4.1973</td>
+			<td>New York</td>
+			<td>My envious godbrothers</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730414sbla/">
+			<td>14.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Krsna is the taste of wine</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730417sbla/">
+			<td>17.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Grief is natural, but tolerate</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730417sbla/">
+			<td>17.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Don&rsquo;t sell paraphernalia in name of sankirtan</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730417sbla/">
+			<td>17.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Don&rsquo;t fear danger!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730419sbla/">
+			<td>19.4.1973</td>
+			<td>Los Angeles</td>
+			<td>How Srila Prabhupada became poor. Krsna take away all material assets when devotee is qualified</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730422sbla/">
+			<td>22.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Chant, chant, chant&hellip; cant, cant, cant</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730426sbla/">
+			<td>26.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Everything is becoming lighter in presence of the spirit</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730429sbla/">
+			<td>29.4.1973</td>
+			<td>Los Angeles</td>
+			<td>We have to take care of our devotees</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730430sbla/">
+			<td>30.4.1973</td>
+			<td>Los Angeles</td>
+			<td>Consciousness means Krsna Consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730503sbla/">
+			<td>3.5.1973</td>
+			<td>Los Angeles</td>
+			<td>Killing of a demon = preaching</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730506sbla/">
+			<td>6.5.1973</td>
+			<td>Los Angeles</td>
+			<td>Foolish mayavadi prayers</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730508sbla/">
+			<td>8.5.1973</td>
+			<td>Los Angeles</td>
+			<td>India gained independence by violence!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513mwla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>Bible is not authorized, Christians are not authorized</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513mwla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>I can direct you through your heart</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513sbla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>No independence for women</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513mwla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>One cannot teach old people</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513sbla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>12 years old girl must be married</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730513sbla/">
+			<td>13.5.1973</td>
+			<td>Los Angeles</td>
+			<td>Marriage rules in Vedic society</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730516sbla/">
+			<td>16.5.1973</td>
+			<td>Los Angeles</td>
+			<td>Responsible king is protecting</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730517sbla/">
+			<td>17.5.1973</td>
+			<td>Los Angeles</td>
+			<td>In Kali-Yuga, money man is first class man</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730616sbmay/">
+			<td>16.6.1973</td>
+			<td>Mayapur</td>
+			<td>When you must kill</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730618sbmay/">
+			<td>18.6.1973</td>
+			<td>Mayapur</td>
+			<td>One is a brahmana by qualification only</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730621sbmay/">
+			<td>21.6.1973</td>
+			<td>Mayapur</td>
+			<td>Who is expert kaviraja, Ayurveda</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730626sbmay/">
+			<td>26.6.1973</td>
+			<td>Mayapur</td>
+			<td>Don&rsquo;t associate with karmis, jnanis yogis! No yoga in Krsna Consciousness as bhakti yoga</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730627sbmay/">
+			<td>27.6.1973</td>
+			<td>Mayapur</td>
+			<td>Our worship = worship in separation, otherwise sahajiya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730629bgcal/">
+			<td>29.6.1973</td>
+			<td>Mayapur</td>
+			<td>Life comes from life</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730707bglon/">
+			<td>7.7.1973</td>
+			<td>London</td>
+			<td>Women can never have a responsible position</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730709r2lon/">
+			<td>9.7.1973</td>
+			<td>London</td>
+			<td>Soul is in all objects, moving or not moving</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730710r1lon/">
+			<td>10.7.1973</td>
+			<td>London</td>
+			<td>Conversation&hellip; Srila Prabhupada relates how he counseled George Harrison</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730806bglon/">
+			<td>6.8.1973</td>
+			<td>London</td>
+			<td>Stopping fighting? Impossible. Fight for Krsna!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730809lepar/">
+			<td>9.8.1973</td>
+			<td>Paris</td>
+			<td>And ideal public address</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730811bgpar/">
+			<td>11.8.1973</td>
+			<td>Paris</td>
+			<td>Why we are dependent and independent simultaneously</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730811bgpar/">
+			<td>12.8.1973</td>
+			<td>Paris</td>
+			<td>Everybody is insane to some degree</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730813r2par/">
+			<td>13.8.1973</td>
+			<td>Paris</td>
+			<td>Discussion with a perfectly confused mayavadi</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730815bglon/">
+			<td>15.8.1973</td>
+			<td>London</td>
+			<td>Men-women exchange love in name of sense-gratification</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730821jmlon/">
+			<td>21.8.1973</td>
+			<td>London</td>
+			<td>Janmastami lecture, specially for Indians</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730822lelon/">
+			<td>22.8.1973</td>
+			<td>London</td>
+			<td>Definition of a guru and a disciple</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730822vplon/">
+			<td>22.8.1973</td>
+			<td>London</td>
+			<td>Vyasa puja lecture</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730822vplon/">
+			<td>22.8.1973</td>
+			<td>London</td>
+			<td>Why Srila Prabhupada got His disciples married</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730822vplon/">
+			<td>22.8.1973</td>
+			<td>London</td>
+			<td>Srila Prabhupada&rsquo;s incredible grattitude to His disciples</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730822lelon/">
+			<td>22.8.1973</td>
+			<td>London</td>
+			<td>Who is a guru</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730829bglon/">
+			<td>29.8.1973</td>
+			<td>London</td>
+			<td>Karma vada, &ldquo;just do your duty&rdquo; explained</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730830mwlon/">
+			<td>30.8.1973</td>
+			<td>London</td>
+			<td>Everybody thinks the whole world is like him.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730831bglon/">
+			<td>31.8.1973</td>
+			<td>London</td>
+			<td>Ideal introduction to Krsna Consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730831bglon/">
+			<td>31.8.1973</td>
+			<td>London</td>
+			<td>Right hand superior to left hand</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730831bglon/">
+			<td>31.8.1973</td>
+			<td>London</td>
+			<td>Kirtan means only Krsna kirtan</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730901bglon/">
+			<td>1.9.1973</td>
+			<td>London</td>
+			<td>Today everything is conducted by sudras</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730906s2sto/">
+			<td>2.9.1973</td>
+			<td>London</td>
+			<td>Without varnasrama not possible to understand Krsna</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730902r1lon/">
+			<td>2.9.1973</td>
+			<td>London</td>
+			<td>Conversation&hellip; position of Gandhi</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730906s2sto/">
+			<td>6.9.1973</td>
+			<td>Stockholm</td>
+			<td>The difference between materialist and spiritualist</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730926bgbom/">
+			<td>26.9.1973</td>
+			<td>Mumbai</td>
+			<td>If somebody tries to be something he is not, he is an imposter.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/731116sbdel/">
+			<td>16.11.1973</td>
+			<td>Mumbai</td>
+			<td>Symptoms of Kali Yuga</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/731125sblon/">
+			<td>25.11.1973</td>
+			<td>London</td>
+			<td>Get all your necessities from the land</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/731215mwla/">
+			<td>15.12.1973</td>
+			<td>Los Angeles</td>
+			<td>No solitude, retreat, in chanting</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/731215sbla/">
+			<td>15.12.1973</td>
+			<td>Los Angeles</td>
+			<td>No voting of rascal leaders for devotees</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/730912bglon/">
+			<td>12.9.1973</td>
+			<td>London</td>
+			<td>Surrendering to Krsna, a positive alternative to gambling</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/731213dbla/">
+			<td>13.12.1973</td>
+			<td>Los Angeles</td>
+			<td>Bhaktisiddhanta Disappear Day... amazing!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740102sbla/">
+			<td>2.1.1974</td>
+			<td>Los Angeles</td>
+			<td>Voting karmi leaders makes you implicated, we don&rsquo;t vote</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740105mwla/">
+			<td>5.1.1974</td>
+			<td>Los Angeles</td>
+			<td>Even one word can safe them distribute books!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740117sbhon/">
+			<td>17.1.1974</td>
+			<td>Hawaii</td>
+			<td>Jesus was horrified by animal slaughter and so he abandoned his religion</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740130sbtok/">
+			<td>30.1.1974</td>
+			<td>Tokyo</td>
+			<td>Kali yuga = disciple argues with his spiritual master</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740225bgbom/">
+			<td>25.2.1974</td>
+			<td>Mumbai</td>
+			<td>Religious sex life</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740309ccmay/">
+			<td>9.3.1974</td>
+			<td>Mayapur</td>
+			<td>I had to compromise for the sake of preaching</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740314mwvrn/">
+			<td>14.3.1974</td>
+			<td>Vrndavana</td>
+			<td>Curriculum for varnasrama college</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740526sbrom/">
+			<td>26.5.1974</td>
+			<td>Rome</td>
+			<td>Unprotected by puffed up brahmanas, the Hindus became Muslims&nbsp;</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740604sbgen/">
+			<td>4.6.1974</td>
+			<td>Geneva</td>
+			<td>GBC must be responsible, otherwise it will be punished</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740609sbpar/">
+			<td>9.6.1974</td>
+			<td>Paris</td>
+			<td>Better to remain grhasta, sannyas too risky</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740611r1par/">
+			<td>11.6.1974</td>
+			<td>Paris</td>
+			<td>Open restaurants!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740614lepar/">
+			<td>14.6.1974</td>
+			<td>Paris</td>
+			<td>Srila Prabhupada lecturing initially from Bible.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740614r1par/">
+			<td>14.6.1974</td>
+			<td>Paris</td>
+			<td>No use for us to take part in political campaign</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740619r1ger/">
+			<td>19.6.1974</td>
+			<td>Germany</td>
+			<td>Western concept of purity of the soul, nakedness in the art</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740713mwla/">
+			<td>13.7.1974</td>
+			<td>Los Angeles</td>
+			<td>Fighting for Ratha Yatra permission</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/740929sbmay/">
+			<td>29.9.1974</td>
+			<td>Mayapur</td>
+			<td>&ldquo;Guru maharaja left us this big burden, the temple&rdquo;</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/741021sbmay/">
+			<td>21.10.1974</td>
+			<td>Mayapur</td>
+			<td>Different ashramas for different varnas. What is vanaprastha.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750117sbbom/">
+			<td>17.1.1975</td>
+			<td>Mumbai</td>
+			<td>Small fish always swims on the surface, the big ones are deep bellow</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750122sbbom/">
+			<td>22.1.1975</td>
+			<td>Mumbai</td>
+			<td>The effect of Hare Krsna Mantra</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750203mwhon/">
+			<td>3.2.1975</td>
+			<td>Honolulu</td>
+			<td>Living outside and inside of the temple</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750207bghon/">
+			<td>7.2.1975</td>
+			<td>Honolulu</td>
+			<td>Balance in grhasta ashrama</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750208bghon/">
+			<td>8.2.1975</td>
+			<td>Hawaii</td>
+			<td>How to understand ones enemies</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750305sbny/">
+			<td>5.3.1975</td>
+			<td>New York</td>
+			<td>Rules for sannyas very difficult to follow in Kali Yuga</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750305sbny/">
+			<td>5.3.1975</td>
+			<td>New York</td>
+			<td>What REAL sannyas means</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750305ivny/">
+			<td>5.3.1975</td>
+			<td>New York</td>
+			<td>&ldquo;why do you dress this way.&rdquo;</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750313sbteh/">
+			<td>13.3.1975</td>
+			<td>Teheran</td>
+			<td>Ideal leadership, ideal society</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/750521sbmel/">
+			<td>21.5.1975</td>
+			<td>Melbourne</td>
+			<td>Initiation is not a cheap thing</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/751013mwdur/">
+			<td>13.10.1975</td>
+			<td>Durban</td>
+			<td>Srila Prabhupada on english-indian politics</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760204mwmay/">
+			<td>4.2.1976</td>
+			<td>Mayapur</td>
+			<td>Don&rsquo;t think prematurely you are what you are not</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760209mwmay/">
+			<td>9.2.1976</td>
+			<td>Mayapur</td>
+			<td>Kanistha adhikari, hardly a devotee</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760210mwmay/">
+			<td>10.2.1976</td>
+			<td>Mayapur</td>
+			<td>Ganja for sadhus</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760219sbmay/">
+			<td>19.2.1976</td>
+			<td>Mayapur</td>
+			<td>Father, mother, it&rsquo;s just a play in a world of designations</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760221mwmay/">
+			<td>21.2.1976</td>
+			<td>Mayapur</td>
+			<td>No need of temples, books come first</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760221bamay/">
+			<td>21.2.1976</td>
+			<td>Mayapur</td>
+			<td>Bhaktisiddhanta maharaja Appereance Day. Lets please Him by distributing books!</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760222sbmay/">
+			<td>22.2.1976</td>
+			<td>Mayapur</td>
+			<td>Don&rsquo;t try to see God, He will see you.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760226mwmay/">
+			<td>26.2.1976</td>
+			<td>Mayapur</td>
+			<td>Don&rsquo;t take sannyas and cheat.</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760227mwmay/">
+			<td>27.2.1976</td>
+			<td>Mayapur</td>
+			<td>About Aurobindo</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760317mwmay/">
+			<td>17.3.1976</td>
+			<td>Mayapur</td>
+			<td>Raising above the modes of nature</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760225sbmay/">
+			<td>25.2.1976</td>
+			<td>Mayapur</td>
+			<td>Real devotee and Kali-devotee</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760312mwmay/">
+			<td>12.3.1976</td>
+			<td>Mayapur</td>
+			<td>Srila Bhaktisiddhanta</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760312sbmay/">
+			<td>12.3.1976</td>
+			<td>Mayapur</td>
+			<td>Devotees in the temple should command by their purity such respect that people automatically give donations</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760318mwmay/">
+			<td>18.3.1976</td>
+			<td>Mayapur</td>
+			<td>Vedic cosmology</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760412sbbom/">
+			<td>12.4.1976</td>
+			<td>Mayapur</td>
+			<td>Real brahmacarya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760414sbbom/">
+			<td>14.4.1976</td>
+			<td>Mumbai</td>
+			<td>Need of brahmacary education, hippies result of Second World War</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760417sbbom/">
+			<td>17.4.1976</td>
+			<td>Mumbai</td>
+			<td>To know something of everything, that&rsquo;s practical Krsna Consciousness</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760422r3mel/">
+			<td>22.4.1976</td>
+			<td>Melbourne</td>
+			<td>Krsna Consciousness is not for everyone</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760423bgmel/">
+			<td>23.4.1976</td>
+			<td>Melbourne</td>
+			<td>Psychiatrist... who?</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760426mwmel/">
+			<td>26.4.1976</td>
+			<td>Melbourne</td>
+			<td>How to be always in anxiety for Krsna</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760503r1hon/">
+			<td>3.5.1976</td>
+			<td>Honolulu</td>
+			<td>Demons attacking means preaching is strong</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760503r1hon/">
+			<td>3.5.1976</td>
+			<td>Honolulu</td>
+			<td>Books must go out, public pleased or not</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760503r1hon/">
+			<td>3.5.1976</td>
+			<td>Honolulu</td>
+			<td>No unqualified initiates</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760504r1hon/">
+			<td>4.5.1976</td>
+			<td>Honolulu</td>
+			<td>Preaching in China</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760512mwhon/">
+			<td>12.5.1976</td>
+			<td>Honolulu</td>
+			<td>Don&rsquo;t argue on the street, better sell a book</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760521sbhon/">
+			<td>21.5.1976</td>
+			<td>Honolulu</td>
+			<td>Real brahmana defined by action, not just by words</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760522sbhon/">
+			<td>22.5.1976</td>
+			<td>Honolulu</td>
+			<td>How to be a real disciple</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760525sbhon/">
+			<td>25.5.1976</td>
+			<td>Honolulu</td>
+			<td>Root cause of divorce</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760526sbhon/">
+			<td>26.5.1976</td>
+			<td>Honolulu</td>
+			<td>Standards and difficulties in grhasta ashrama</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760608r1la/">
+			<td>8.6.1976</td>
+			<td>Los Angeles</td>
+			<td>How did I came to the West</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760609sbla/">
+			<td>9.6.1976</td>
+			<td>Los Angeles</td>
+			<td>Spiritual strategies, from Buddha to Lord Caitanya</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760614gcdet/">
+			<td>14.6.1976</td>
+			<td>Detroit</td>
+			<td>Detroit conversation enemies in family life</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760614gcdet/">
+			<td>14.6.1976</td>
+			<td>Detroit</td>
+			<td>The magic of book distribution</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760620bgtor/">
+			<td>20.6.1976</td>
+			<td>Toronto</td>
+			<td>Special duties and privileges due to be born in India</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760623gcnv/">
+			<td>23.6.1976</td>
+			<td>Vrndavana</td>
+			<td>Krsna is pleased only through spiritual master</td>
+		</tr>
+		<tr data-audio-source="https://prabhupadavani.org/transcriptions/760624binv/">
+			<td>24.6.1976</td>
+			<td>New Vrindavana</td>
+			<td>Practising is more important as preaching</td>
+		</tr>
+		<tr>
+			<td>28.6.1976</td>
+			<td>New Vrndavana</td>
+			<td>All samskaras are included in the chanting</td>
+		</tr>
+		<tr>
+			<td>2.1.1977</td>
+			<td>Bhubaneswar</td>
+			<td>Sons and disciples must be chastised</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/sp-said/srila-prabhupada-s-audio-dictionary" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="53">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-said?page=4"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

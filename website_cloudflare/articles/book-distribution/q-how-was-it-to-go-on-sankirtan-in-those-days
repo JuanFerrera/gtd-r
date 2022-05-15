@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Q: How was it to go on sankirtan in those days?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=3">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/book-distribution?page=7">Book distribution kī&nbsp;jaya!</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Q: How was it to go on sankirtan in those days?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">04 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p>&nbsp;</p>
+
+<p>Q: You described how you joined ISKCON 1972 in Germany. How was it to go on sankirtan in those days? How was the atmosphere in Germany?</p>
+
+<p>&nbsp;</p>
+
+<p>A: Well, even the genetic code of a nation is hardly to be changed, as&nbsp;there is a reason why we are born in a particular geographic location by law of karma, the Germany of today is to some degree different as&nbsp;the Germany 1972.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: justify;">When I joined Srila Prabhupada&rsquo;s movement, thanks to the hard work of the after-war&nbsp;generation Germany celebrated its return to the economic dominancy in Europe.</p>
+
+<p style="text-align: justify;">To work in order to live and to live in order to work, that&rsquo;s the German&nbsp;credo. Germans love to be Germans and were certainly not prepared to embrace&nbsp;&ldquo;some new sect&rdquo;.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Our appearance in the streets with our dhotis, mrdangas and powerful&nbsp;ecstatic kirtans couldn&rsquo;t be more of a challenge for the mediocre German mind. The year I joined&nbsp;I received my first German passport. Having a status of refugee until then, I was finally recognized as a resident, member of the German nation. Arriving in the police&nbsp;station in order to pick up my passport, I do remember vividly the police officer&nbsp;looking at his colleague while handing me my document, stating: &ldquo;I cannot believe&nbsp;how they can let such a piece of garbage into our land.&rdquo;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">This was my welcome speech to Germany. I joined a Germany where, as it later on&nbsp;happened, when paying petrol one Sunday morning at one of the highway gas stations,&nbsp;the man at the cashier, obviously deeply emotionally moved, looked at me with his&nbsp;sad eyes, stating: &ldquo;Weakened, fighting on two fronts, of course he had to be defeated.&nbsp;If lasting only few weeks more, things would have changed and he would have won&nbsp;the war for us.&rdquo; It was Hitler&rsquo;s birthday that day.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Emerging then on the streets as a sankirtan devotee with Srila Prabhupada&rsquo;s books&nbsp;in my hand, I got a good inside view of the inherent nature of the majority of the&nbsp;German population. Those survivors of war still followed the German empiric process&nbsp;of investigating&nbsp;something new -&nbsp;&ldquo;first kill it, and then find out what it was&rdquo;.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Thinking originally that we, the devotees, were some exotic creatures coming from&nbsp;far East, people in general believed that we are some monks, soon returning to our&nbsp;monasteries in India again. And so initially we earned just some laughter from the&nbsp;public, sarcastical remarks and hysterical giggle from the passing-by girls when our&nbsp;dhotis were flapping in the wind.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">But due to the intense preaching spirit of the devotees,&nbsp;Germans soon realized&nbsp;that we are not going back to India, but we are staying, coming again and again&nbsp;in greater numbers.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">And so&nbsp;phase number two started, certainly initiated with the help of German&nbsp;evangelic church who opened its &ldquo;sect expert&rdquo; office, lobbying of&nbsp;the government&nbsp;and police force to get into action and eliminate us from the German soil.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Media became more and more aware of our presence and the &ldquo;Sektengefahr&rdquo;,&nbsp;the danger of the incoming sects who could &ldquo;brainwash&rdquo; your child, started to&nbsp;become daily headlines in&nbsp;German media. For us, young boys and girls standing daily on the street, it was an eye opening experience to witness how easily can be people&acute;s&nbsp;mind manipulated, how superficially judgements are passed and how quickly&nbsp;the anger of the conditioned soul can take shape of a fierce fascistic&nbsp;prosecution. As one of the most prominent Czech writers once said: &ldquo;There is no&nbsp;ferocious beastly force of nature I fear more than... a crowd.&quot;</p>
+
+<p style="text-align: justify;">That the mob collects itself to eliminate &ldquo;the others&rdquo;, and feels greatly enthused by this lynching procedure, was proven in history of mankind many many times. And so even simple German household wife hit me with her shopping bag, cursing me to die. Another time one of these women grabbed me violently, screaming &ldquo;I got him! I got him!&rdquo; When&nbsp;police finally arrived and investigated what I have done, it was found that I have done.....nothing. And so the policeman asked the lady what she wants?</p>
+
+<p style="text-align: justify;">She&nbsp;replied in somewhat surprised manner that she thought she has to catch me as it was stated in newspaper that if you see a Hare Krsna monk you should contact local police. In this case policeman just mildly smiled and let me go.</p>
+
+<p style="text-align: justify;">But there were more dangerous situations we had to face.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Once standing&nbsp;in a small parking place in middle of the town, taking prasadam with my new crew of sankirtan bhaktas, we found ourselves surrounded by a large group of young men, obviously Christians, led by local priest. They grabbed the car, rocking it heavily with us sitting inside, screaming &ldquo;Jesus! Jesus!&rdquo;, beating their fists on the windows.&nbsp;Bhaktas got scared and I quickly started the car.&nbsp;While backing up, knocking few of the newly born Christians out of my way, the priest still managed to rip off a front number plate&nbsp;as I drove off.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Such incidents were not uncommon, Germans love to &ldquo;seek and kill&rdquo;. As history has shown us, they do so in most efficient, disciplined and organized way.</p>
+
+<p style="text-align: justify;">That&nbsp;was the mood of the days in seventies. Daily a book got stolen from my hand and the physical threat was permanently present. Approaching somebody on the street was a rather daring deed, as the angrily and passionately running Germans quickly raised&nbsp;their hand to hit a devotee. But much worse was to come.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">The prosecution of devotees was taking more and more organized form. Initially devotees were invited by innocently thinking priests both&nbsp;from evangelic and catholic churches to stay over night, impressed by us following the four regulative principles so rigidly.&nbsp;I do remember vividly some little towns in Germany where the local priest got up early in the morning and chanted on his prayer beats while we chanted on ours. Their innocence was on certain point heavily punished by the central church management. A clear restriction was issued, forbidding any entrance of devotees into churches premises.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Media competed with the most ludicrous propaganda, using devotees to satisfy publics taste for &ldquo;something scandalous&rdquo;. I remember time when a young boy killed his parents in rage in South Germany. Being searched by police media produced his picture in form of a drawing, where he appeared to be a devotee with a sikha, etc. The article also mentioned that &ldquo;this is how he would look like if he would be a Hare Krsna monk&rdquo;. Lumped together with any cheater guru or pseudo spiritual leader arriving from India and US, devotees were viewed in the same way, as brainwashed victims of a sect where few anonymous beneficiaries enjoy the work of their followers, living in luxury. Even at that time our leaders did indeed occupied the leading ranks in the preaching field, there was no way to stop the biased images being implanted into the German minds. As matter of fact, America, once again leading the world, produced professional kidnappers, who used to snatch devotees from the streets, being authorized by their parents to do so, bring them to isolated locations and &ldquo;deprogram&rdquo; them in form of violent beatings and enforcement of most sinful kind of activities.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">We loved to hear the story of one devotee from US who also got kidnapped in order to be &ldquo;deprogrammed&rdquo; (the leader of the deprogrammer movement, certain Patrick had to serve later on a jail sentence when finally his organized kidnapping activities came to court). This devotee was a tough young man who even capable of escaping pretended to go along with&nbsp;the deprogrammer&acute;s plan. Finally he told them he changed his mind and he wants to stop being vegetarian, have a good non-vegetarian feast and do something really nasty. Most happy the deprogrammers ordered all kinds of most expensive non-vegetarian foods, arranged for some prostitutes to come, and when everybody came together, our bhakta kicked over the loaded feast table so violently that some deprogrammers landed on the floor, kicked some of these fellows more, and jumped out of the window, never to be seen again by his &ldquo;saviors&rdquo;.</p>
+
+<p style="text-align: justify;">This story went around the whole ISKCON at that particular time.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">In some countries people in general would just laugh at the appearance of a devotee and leave it at that. Not in Germany. Daily we got harassed and attacked with insults, ranking from &ldquo;Geh arbeiten!&rdquo; means &ldquo;Go and get some job!&rdquo; up to &ldquo;Euch musste man vergassen,&rdquo; meaning &ldquo;You should all be locked up in some gaschamber.&rdquo; Even a simple German household lady, reading in her women news magazine about the sect-danger, could come up to me at the street ...and cut off my sikha. (This happened indeed, it was the first and last time in this life time I had my sikha cut off :-)</p>
+
+<p style="text-align: justify;">Police, initially lenient, became more and more active and there was not a day passing by we didn&rsquo;t find ourselves sitting in some police station, having our ID-cards checked and being accused to collect money illegally. (All these accusations were proven later on to be wrong, as our activities fall into the category of religious freedom, but nevertheless none of the confiscated money was returned, neither any apologies extended.) It was not uncommon that once in private, out of sight of public, a police man pulled his gun out, put it on my head and with a grin on his face said: &ldquo;Pigs like you I would like to shoot.&rdquo;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Even more dangerous were police patrols walking in civil dress (always dressed in a leather jacket and blue jeans :-). The two police men in disguise approached an innocent bhakta and asked him what kind of book he has in his hand. As soon the devotee offered the book, one of the men ripped it out of his hand, stealing it. As soon the devotee reached out for the stolen item and wanted it back, the other police man grabbed him, and they brought him to the police station, accusing him to be a thief. According to their version, later on presented as testimony in court, the devotee gave the book as gift and then tried to steal it again. And so the policeman became a&nbsp;victim and a&nbsp;devotee the accused thief. As there were no other witnesses&nbsp;then the two police men, the devotees always lost such court cases, getting heavily penalized. Trained in the way to recognize this trickery in time, I taught new bhaktas either to avoid such police teams, or if already having the book stolen, never demand it back. Usually, if not succeeding, the policemen were so frustrated that&nbsp;they returned the book or threw it on the floor.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Once again being approached by two men in blue jeans and leather jackets, I took the book so tightly in my hand that they didn&rsquo;t succeed to rip it out. Somewhat surprised the policeman, unable to steal the book, looked at me. I answered with a broad Czech smile on my face: &ldquo;I apologize to the gentlemen from secret police force. This book cannot be stolen, it is only a demonstration exemplar and it&acute;s glowed to my hand.&rdquo; The man hissed in anger and they both left.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Such atrocities only increased our preaching enthusiasm. The sixties and seventies were also dominated by fierce revolutionary spirits, we were not the only one who earned the wrath of German officials for being so daring to question their values. Even terroristic movements sprouted up, and it didn&rsquo;t take long that media started to lump us in even with these bizarre groups. We truly became &ldquo;a danger&rdquo;. There was no limits and no justice to protect us besides Krsna mercy, and we took all this only as a great impetus to depend on Srila Prabhupada&rsquo;s mercy even more and preach even more vigorously. It was here I realized my inherent nature in terms of varna. The more intense was the challenge, the more inspired I was. As I said to one German policeman, giving me hard time in the police station: &ldquo;You shouldn&rsquo;t hate me so intensely. You know, if you kill me here, I could be born again as your son, and that wouldn&rsquo;t be so nice, isn&rsquo;t it?&rdquo; It seemed that my words were so empowered that even this entirely atheistic policeman instantly shouted at me:</p>
+
+<p style="text-align: justify;">&ldquo;Get out of here!&rdquo;.....which I gladly did.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Of course there were exceptions. I do remember two incidents which illustrate this:</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Once I distributed with my godbrother Haraka das on Sunday (sometimes we didn&rsquo;t return to the temple, so great was our sankirtan ecstasy), going door to door in a large block of buildings. When finally exiting that complex, we were confronted by policemen emerging from their van and asked to produce our ID-cards. Of course, somebody from our customers called the police, again. A familiar scenario. The policemen said we have to follows them to the police station, which usually meant more difficulties for us. And so we got into their car, wondering why the ride to their police quarters took so long. We drove several kilometers through&nbsp;country side before finally arriving in another town. This was strange and unexpected.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">The policemen took us to a room with a large table and said: &ldquo;Put all your books here on this table.&rdquo; Usually our money got confiscated, but hardly ever the books. This was obviously something else. More policemen came into the room, and ignoring our presence they started to go through variety of the books we placed on the table. At least six policemen examined Srila Prabhupada&rsquo;s books in great detai,l until finally one said: &ldquo;Well, I have the Nectar of Devotion, but I don&rsquo;t have yet the Bhagavad Gita.&rdquo;</p>
+
+<p style="text-align: justify;">Another police man said: &quot;I have the Gita, but I take the Krsna Book.&rdquo;</p>
+
+<p style="text-align: justify;">We looked at each other, and Haraka got a big smile on his face. Finally it was revealed that while being reported to the police, the original local police unit who was about to pick us up was contacted by this police station, who&nbsp;heard the whole exchange in their radio, and being all readers of Srila Prabhupada&rsquo;s books, they took over, picked us up and drove us to their police station, only to be able to buy more books in peace. &nbsp;As matter of fact they bought ALL&nbsp;books we had, and drove us then politely to our sankirtan van back, wishing us good luck while cautioning us not to make this incident public.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">On another occasion, this time alone, I distributed in a very small town in midst of a mountain range in South Germany. I loved that town, somehow those few people I met there always bought many books. But unfortunately that day I was noticed by a small policeman who started to follow me. Trying to hide in the few available side streets, I avoided the main market place, still distributing some books on the way. But the man was persistent. He knew the town well, there was no place to hide.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Finally I decided to go for frontal confrontation. I turned around and with a sheepish smile I offered the man a book. He looked into my eyes and said: &ldquo;Where is your car?&rdquo;</p>
+
+<p style="text-align: justify;">Not willing to have my car being searched by police, I answered: &ldquo;I don&rsquo;t have any car here, I came by train.&rdquo; He totally ignored my answer, saying: &ldquo;Of course you have your car here, it&rsquo;s usually standing on the small parking lot behind the market place.&rdquo;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">There was no way to cheat this man, and so I led him to my sankirtan van. As soon I opened the car, to my great surprise he jumped in, crawled in the back seat and started to open the boxes with books standing behind.</p>
+
+<p style="text-align: justify;">He eagerly went through the books and selected at least five he put aside, with me standing rather helplessly outside of my van. With his books selected he looked at me seriously and said:</p>
+
+<p style="text-align: justify;">&ldquo;I am a bhakta too, you know,&rdquo;...and pulled out of the pocket of his uniform a small well used bead bag with japa beads!</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">I never found out who preached to this man first, but I returned regularly to this small town, knowing well that as soon somebody will report me to the police my friend will be on the radio, coming instantly. I met him many times, bringing him prasadam from the temple, which he accepted eagerly while sitting in my sankirtan van. Realizing one day he is not coming anymore, I even went to the police station, asking where he is.</p>
+
+<p style="text-align: justify;">I was told he quit his police service. I never met this man again.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">And so despite all the ferocious anti-sect propaganda, more devotees were joining. After all what could be more revolutionary as to become a Hare Krsna monk, give up all the sinful habits and dance in ecstasy in hare nama on the street, while Germans were going mad?!</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">There was much as youthful protest motivating passionate young devotees, but it was rightly placed. Srila Prabhupada was always protective to those who gave their lives for the mission of Lord Caitanya, even He knew how immature and inexperienced they may be.</p>
+
+<p style="text-align: justify;">At least we were alive and blissful.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Until today I revolt against &ldquo;sterile petrified maturity&rdquo; of old age, regardless how impressively it may be presented in academic sense. As matter of fact, I am more aware how urgent is&nbsp;the need to save at least few from the materialistic slaughterhouse, where the brains of the very young ones are already purposefully destroyed by demonic leadership, introducing them to a passive life of a brainless consumer.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Being hunted by police daily, not only enthused us, but also served well our physical constitution. Every devotee (we measured it once upon time), had to walk 30-40 kilometers a day, loaded with a heavy bag filled with books, so he cannot be localized by the ever present police. To stand on the street in one spot as it is customary today was those days unthinkable. (Hence damage spine was often, as in my case result of such &ldquo;weight lifting&rdquo;. Like spies we became expert in the art of disguise, hiding, mixing with the crowds of conditioned souls, fishing out in order to save their lives. My quota became 100 books a day being sold, later on devotees were sent who could distribute even 600 books in one day with ease. Such is the power of Lord Caitanya and the bliss of those who receive His mercy.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Nevertheless, Krsna returns the service of His devoted bhakta with a heighten level of educational lessons, and so our leader&acute;s passionate and gradually over-confident approach to the public had to be modified. There is a way to bring out the worst I a demon: to ignore him.</p>
+
+<p style="text-align: justify;">And so the German police, responding to our occasional reclesness, modified our passion, teaching us indirectly to assume more sober and intelligence driven approach.</p>
+
+<p style="text-align: justify;">As Srila Prabhupada once commented &ldquo;enthusiasm is good, but some brain is also required&rdquo;.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Few years ago I returned to Germany and took part in a book distribution marathon. Finding myself on the same spot where I started my sankirtan service, brought memories and gratitude to Srila Prabhupada for saving me from petrified existence of a materialist, giving me a new life.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Standing in front of the same shopping house, this time in a renovated broad walking street, unhampered by traffic, I walked from one person to another giving out some books here and there. Suddenly a policeman driving slowly on a big motorbike rolled through the shopping street. My old instincts woke up instantly and I looked for a small side street to avoid a police check. But then I thought: &ldquo;It cannot be, here I am thirty years later, Germany must have changed.&rdquo;</p>
+
+<p style="text-align: justify;">And so I kept on distributing, still watching the policeman slowly approaching. As he came close, he noticed me too, talking to a lady who actually finally took the book.</p>
+
+<p style="text-align: justify;">He passed very close, but didn&rsquo;t stop. Noticing me, I&nbsp;noticing him, he passed, parked the bike in front of&nbsp;an entrance of the shopping house, obviously going to buy something. He turned towards me, and with a smile called out: &ldquo;Just keep on going!&rdquo;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">I smiled back, thinking &ldquo;Well, maybe Germany changed little bit after all.&rdquo;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">As Germans today have to deal with terroristic threats, total out of control incoming immigration of far more bizarre individuals as any Hare Krsna monk could be, the devotees, now in far more reduced preaching regime, are for public simply &ldquo;funny fellows distributing good food&rdquo;.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Certainly, the more intensified the preaching is, the greater is the opposition. As Srila Prabhupada said: &ldquo;If the demoniac leaders would really understand what I am saying, they would kill me.&rdquo;</p>
+
+<p style="text-align: justify;">But covered by Krsna&rsquo;s illusory energy, the general population, incapable to understand the gravity of Srila Prabhupada&rsquo;s books is generally not obstructing their distribution, so the seeds can be planted.</p>
+
+<p style="text-align: justify;">When will they fructify and people will really wake up, realizing the urgent need to cultivate spiritual life? That was never our concern, and it is not under our control. What inspired us was to be part of the grand plan of Lord Caitanya to liberate the fallen ones from clutches of death and rebirth, to be part of the mission Srila Prabhupada brought to us and to experience such intense ecstasy when occasionally becoming tools in Krsna&rsquo;s hands.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Such are the blessings bestowed upon any sankirtan devotee that they cannot be counted or fully understood. Therefore Srila Prabhupada told us: &rdquo;Simply count your blessings.&rdquo;</p>
+
+<p style="text-align: justify;">I never stopped counting, and it seems there is no end to the counting process.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">All glories to Srila Prabhupada and all those who did become and still are instrumental in the great mission of Lord Caitanya Mahaprabhu!</p>
+
+<p>&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/book-distribution/q-how-was-it-to-go-on-sankirtan-in-those-days" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="169">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/book-distribution?page=7"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

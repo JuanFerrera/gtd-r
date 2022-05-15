@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            What is needed to train a devotee on book distribution?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=2">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>What is needed to train a devotee on book distribution?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">21 Feb 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">To start with: to find a devotee who is willing to accept this service is certainly extremely rare. I had the privileged to join a movement and a particular yatra where EVERYBODY was engaged in book distribution. That was 1972. With no choice left, it was easy for me to accept that service as I had no other choice. Even selling books on the street was the last thing I could imagine to do, as an introverted artist I had other values established in my mind, the collective force of the devotees heading for sankirtan was so strong that it was easy to join in. There was no particular training, there was no introduction, and there was no help of any kind as to pray and to surrender.</p>
+
+<p style="text-align: justify;">A new bhakta joining Srila Prabhupada&rsquo;s movement today enters another scene. Book distribution is in many parts of the world no more in the central focus of the leadership and much of what we used to perceive as being illusory is established as being part of &quot;Krsna consciousness&quot;. Indeed, a confusing sight.</p>
+
+<p style="text-align: justify;">Nevertheless as soon one starts to speak about book distribution, soon or later an interested bhakta or bhaktin will come. To train such a devotee in the spirit of serving the mission of Srila Prabhupada in a mature way, not repeating the mistakes of the past while using the best of &quot;the past&quot;, is a great responsibility. After all, when it comes to book distribution, there is no past, present and future. It is timeless. Srila Prabhupada strongly opposed any idea of book distribution being subjected to material circumstances and declared it the main feature of His mission. That doesn&rsquo;t minimize any other form of devotional service, rather it enhances it as &quot;books are the basis&quot; of everything we do.</p>
+
+<p style="text-align: justify;">And so a new bhakta should first receive most warm and practical reception while entering the ranks of devotees. Book distribution today is certainly not reserved for temple residents, brahmacaries, only, but it can be practiced by anybody any time provided:</p>
+
+<ol class="indented">
+	<li style="text-align: justify;">The book distributor is aware of his responsibility to present Srila Prabhupada&rsquo;s words in most authentic way possible, in form of His books.</li>
+	<li style="text-align: justify;">Herewith the book distributor is aware that his speech is by no means of the same value as Srila Prabhupada&rsquo;s and should serve only to introduce the book in most concise and positive way possible. In other words: to distribute a book doesn&rsquo;t have to take more time as 3-5 minutes. Srila Prabhupada wanted His books to be distributed in great numbers, regardless of the qualification of the audience. Let&rsquo;s not waste time.</li>
+	<li style="text-align: justify;">To achieve that, the book distributor can use a simple &quot;mantra&quot;, best composed on the basis of the book. He or she should be aware that the shopping street is not a place to preach, but a place where the confused conditioned souls run around in search after increased sense gratification. Only when asked, and even that with discretion, a book distributor should answer in most simple way, mainly inviting the particular person to read the book or to visit next preaching center to speak with devotees under more sober and peaceful circumstances. Srila Prabhupada clearly pointed out that no speech, no preaching and not one single preaching program is complete without His books being left behind.</li>
+	<li style="text-align: justify;">The book distributor should be already fixed that much in his understanding of Krsna consciousness that he will not be deviated while entering the ocean of illusion waiting for him on sankirtan. In other words, he must be basicaly trained to operate on the level of a madhyama adhikari. It is the responsibility of his trainers to judge carefully when or if the time has come for him or her to go out on sankirtan by testing the candidate in his responses to harinama and other preaching opportunities which arise.</li>
+</ol>
+
+<p style="text-align: justify;">The premature release of often mentally highly instable individuals into the streets with Srila Prabhupada&rsquo;s books in the hands not only can result in their own destruction, but also in the embarrassment of Srila Prabhupada&rsquo;s movement. After so many years maybe it&rsquo;s time to consider if Srila Prabhupada&rsquo;s movement will be an eternal &quot;lunatic asylum&quot; or a place for the more sobered up and sincere section of society to take shelter in. Sankirtan is no place for home made preachers, self appointed paramahamsas or other type of kanistha adhikaris.</p>
+
+<p style="text-align: justify;">True, Srila Prabhupada started His movement with highly unqualified individuals, but with progress of time, even in His presence, He made it clear that standards have to be raised and He expected us not to diminish them again.</p>
+
+<p style="text-align: justify;">5/The book distributor should be sober enough to dress properly according to season; the distribution in devotional dress is of course very nice, but not always practical. It provides no guarantee for the level of Krsna consciousness the devotee operates on as a freshly shaved bhakta in dhoti may be more in maya as a devotee wearing karmi dress. But if a new bhakta dressed in dhoti can distribute tons of books, that&rsquo;s of course wonderful.</p>
+
+<p style="text-align: justify;">6/The book distributor should not waste time to listen to karmis speech. That doesn&rsquo;t mean that he is arrogant. Enlightened, he is negligent to whatever was and will be heard, knowing it to be simply product of the three modes of material nature. A polite &quot;yes, yes&quot; is enough to end the speech of the conditioned soul. He is &quot;not obliged&quot; as Srila Prabhupada said. The devotee must be entirely uncharged during the period he distributes the book. That&rsquo;s possible when he considers following procedure:</p>
+
+<p style="text-align: justify;">There is no use to speak to anybody unless he doesn&rsquo;t HAVE THE BOOK IN THE HAND. Simply by glancing over a book presented to him from a distance, the conditioned soul will never become serious to buy it. And so, FIRST the book has to end in his hand, and then the devotee should speak. And speaking he should instantly to keep the mind of the recipient busy.</p>
+
+<p style="text-align: justify;">The presentation of the book can be most simple, there is absolutely no need to present some detailed knowledge. An experienced book distributor knows that people mostly don&rsquo;t HEAR what he says, but they FEEL what he says. Therefore, he must look always in their eyes, keeping the contact absolutely personal. It is the intensity of the personalism emanating from the devotee and his selfless purity which startles the conditioned soul. Sankirtan is transcendental to mundane reasoning as demanded by those still heavily conditioned by their minds and their intelligence. Such pseudo-intellectuals can never distribute Srila Prabhupada&rsquo;s books and they may finally arrive at the conclusion that book distribution is for the &quot;non-intellectual ones&quot;. Such sankirtan critics live in a world on their own, often being just prisoners of their own minds.</p>
+
+<p style="text-align: justify;">To point out that this is a &quot;nice book from India filled with wonderful knowledge to make us happy and satisfied, may be enough if spoken with full enthusiasm and eagerness to help the conditioned souls. Practically everybody we meet is an entirely senti-mental person, even he may never agree on this fact. The way the conditioned souls are cheated daily by media controlled by economical dictators, is a proof in itself. And so a happy simple devotee is far more effective as an over-complicated pseudo intellectual.</p>
+
+<p style="text-align: justify;">The book is basically distributed on the level of an impression done upon the conditioned soul within the first few seconds. The rest is just verbal decoration to keep the mind of the recipient busy.</p>
+
+<p style="text-align: justify;">Nevertheless, there are situations of repetitive nature which dictate certain course of action. Following points may be considered:</p>
+
+<ul>
+	<li style="text-align: justify;">There is no use to offer a book to somebody who is extremely busy.</li>
+	<li style="text-align: justify;">There is no use to give a book to somebody who obviously already stands for certain faith or conviction of any kind. We are here not to argue, but simply to give to those who are open enough to receive.</li>
+	<li style="text-align: justify;">There is no use to offer a book to somebody who has both hands occupied.</li>
+	<li style="text-align: justify;">There is no use to try to distribute a book to somebody who just passed by while running after him or trying to stop him in any other way. This is cheap and embarrassing.</li>
+	<li style="text-align: justify;">There is no use to keep on pushing a book on somebody who categorically denied taking it. A happy &quot;maybe next time&quot; is more auspicious and gives us a good start to reach out for the next potential receiver.</li>
+</ul>
+
+<p style="text-align: justify;">Once a positive relationship was established up to the point that the receiver of devotee&rsquo;s mercy is ready to pull out his purse and pay for the book, he may ask &ldquo;How much does it cost?&rdquo; One SHOULDNT ANSWER in particular way, but encourages him to reach for his money. Exactly at the moment he does so, one should friendly but firmly say, &ldquo;Most people give&hellip;&rdquo; (the desired amount of money). This may create a momentum of surprise, but if done nicely, the person will not mind and follow the recommendation of the devotee, as &quot;most of the people do give&quot;. :-)</p>
+
+<p style="text-align: justify;">When the book distributor replies upon asked about the price of the book directly and prematurely, he will be most likely rejected, regardless what the price may be. If the person doesn&rsquo;t know the price, how can he reject? This is just a little psychological hint.</p>
+
+<p style="text-align: justify;">The book distributor should never use untruth slogans to cover up his spiritual weakness. (There is truly no use to try to sell Srimad Bhagavatam as a cook book!:-) Techniques of this kind always backfire; it&rsquo;s just a question of time. The collection schemes for &quot;needed and hungry in India, Africa or wherever&quot; are also falling into the same category as we all know, that it is not true. Once discovered by the public that the collection purpose is totally untrue, the damage for preaching can last for decades. Srila Prabhupada approved &quot;friendly lies&quot;, karmis call them &quot;white lies&quot;. Telling people how nice they are even we may think differently is simply part of preaching. To make people feel easy by telling them that &ldquo;this book is only for intelligent people and therefore it is just right for you&rdquo;, is another &quot;white lie&quot;. Making people laugh about something obviously bizarre, making them relaxes and free of fear, creates a suitable atmosphere for them to buy a book.</p>
+
+<p style="text-align: justify;">More detailed instruction how to distribute books locally can be delivered by any local experienced book distributor and preferably by any local preacher and temple authority that is experienced in the local field. It is for this reason Srila Prabhupada never gave detailed instructions how to distribute books, but He gave the guidelines for the mood how to distribute the book.</p>
+
+<p style="text-align: justify;">&ldquo;My dear sir, you are so great, you are so beautiful, you are so powerful, you are so full of knowledge, please forget for one minute all your attributes and embrace the mercy of Lord Caitanya Mahaprabhu.&rdquo;</p>
+
+<p style="text-align: justify;">Only a full scale demon will instantly reject such a humble devotee.</p>
+
+<p style="text-align: justify;">A serious devotee who wants to distribute books will very soon discover how inimical his mind and his false ego can be. After all, these are our real enemies, not the conditioned souls out there, firmly sleeping on maya&rsquo;s lap.</p>
+
+<p style="text-align: justify;">In this regard I would like to relate a wonderful little drama one of the best book distributors on this planet, Vaisesika Prabhu once related in Sridham Maypaur during an international sankirtan meeting. It is already many years ago, but I believe that I can recollect in quite great detail what he said. So wonderful the story was. (If I deviate in some way from his description and he may read this text, I can only beg for his forgiveness and once again express my admiration for his sankirtan service).</p>
+
+<p style="text-align: justify;">The story told can be easily transcribed into a little drama with two actors, Vaisesika Prabhu&hellip; and his mind. In this drama Vaisesika Prabhu explained how he is preaching to his mind while sitting in his house, actually planning to go on sankirtan:</p>
+
+<p style="text-align: justify;">Vaisesika das: &ldquo;Actually today I want to go on sankirtan&rdquo; The Mind: &ldquo;That&rsquo;s not possible. You have so many things to do&rdquo;. Vaisesika das: &ldquo;That&rsquo;s true, maybe I can go tomorrow. But let me just go down into the garage and see if I packed to books into my car&hellip; for tomorrow.&rdquo; The Mind: &ldquo;You can do that, but TODAY, you will distribute nothing as you have other things to do.&rdquo; Vaisesika das: &ldquo;Look, I have these books in the car! Well, since I have them in the car I can as well sit in the car and feel how it will be when I drive tomorrow on sankirtan.&rdquo; The Mind: &ldquo;You can do that, but today you cannot distribute anything.&rdquo; Vaisesika das: &ldquo;Well, since I sit already in the car, I can just drive around the corner and look where I will distribute tomorrow&rdquo;. The Mind: &ldquo;You can do that, but you will distribute nothing today.&rdquo; Vaisesika das: &ldquo;Look, now I am parking at the spot where I will distribute tomorrow.&rdquo; The Mind: &ldquo;That&rsquo;s OK, but you cannot go out today&rdquo;. Vaisesika das: &ldquo;My dear mind, of course I cannot go out today. But since I am standing here with my car, I can at least go out for one minute and TRY how it may feel when I distribute here tomorrow.&rdquo; The Mind: &ldquo;You can try, but you will distribute nothing today.&rdquo; Vaisesika das: &ldquo;Well, see this lady coming? I can at least TRY how I may distribute her book tomorrow&rdquo;. The Mind: &ldquo;Don&rsquo;t do that!&rdquo; Vaisesika das: &ldquo;Too late my dear mind, I am on sankirtan already TODAY.&rdquo;</p>
+
+<p style="text-align: justify;">And so ignoring the mind by chanting Hare Krsna and intensely meditating about book distribution, praying to Srila Prabhupada and Lord Caitanya to become useful instruments in Their hands, this will free us from the mental platform.</p>
+
+<p style="text-align: justify;">Srila Prabhupada&rsquo;s book distribution ki jaya!</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/30" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="134">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=2"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            KNOWLEDGE AND MISERY
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=9">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>KNOWLEDGE AND MISERY</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/191_sp-d2-1-.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">20 Feb 2019</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">2 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">In Bhagavad-Gita the Supreme Personality of Godhead, Krsna, defines </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">transcendental knowledge as follows:</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;"><font face="Arial">&quot;</font>In this world, there is nothing so sublime and pure as transcendental </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">knowledge. Such knowledge is the mature fruit of mysticism. And one </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">who has become accomplished in the practice of devotional service </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">enjoys this knowledge within himself in due course of time.&rdquo;</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">BG 4.39</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;"><font face="Arial">&quot;</font>This knowledge is the king of education, the most secret of all secrets. </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">It is the purest knowledge, and&nbsp;because it gives direct perception of the self </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">by realization, it is the perfection of religion. It is everlasting, and it is JOYFULLY performed.&rdquo;</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">BG 9.2</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">In these wonderful slokas of the Bhagavad-Gita it is clearly defined what is&nbsp;the symptom of true enlightenment: happiness.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">In midst of His poverty, in midst of His hallucinated disciples,&nbsp;materially spoken in most awkward circumstances, Srila Prabhupada demonstrated transcendental happiness, which is completely unknown to those who are materially motivated, considering themselves karmis, jnanis or even yogis.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Their tormented images create an impression that anything transcendental </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">must be accompanied by pain. Indeed, first comes tapasya, renunciation, then knowledge can be revealed. That is true even for material types of knowledge, which cannot be called knowledge in Krsna conscious sense, but is mere accumulation of data or information. Nevertheless, Krsna conscious renunciation means simply renouncing the sources of misery and the result can be only... happiness.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Not knowing this, people don&rsquo;t consider Krsna conscious knowledge to be so attractive, as it is often presented by those who don&rsquo;t have it.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">The pain of such &ldquo;preachers&rdquo; is well known to all those who were in name of Christianity confronted with the tormented images of their co called divinities for hundreds of years, including the ghastly image of their guru whom they learned to worship nailed on the cross, bleeding for their sins. Being raised in fear only, without any tangible higher taste, they learned spiritual life to be understood this way.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Indeed, FEAR is the tool for demons and kanistha adhikaris to keep those subdued they tend to exploit. First creating fear and then offering their own shelter is the policy of the demonic ones.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Those who truly follow the &ldquo;regulative principles of freedom&rdquo; cannot be subdued by such demonic mentalities, and are therefore classified by materialists as dangerous and anarchistic.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Material happiness is derived from bodily concepts, aiming for satisfaction </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">of the senses, including a strive for social dominance and ability to control others. Using the example of day and night, Bhagavad-Gita clearly defines these to be sources of misery. What is day for one is night for the other. This is the basic division line between real devotee and a real materialist.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">It is not the level of academically acquired &ldquo;knowledge&rdquo; or social status as advocated today by some pseudo vaisnavas, which defines position one operates from. The appearance of those who are obsessed by externalities speaks for itself. Their miserable darkened faces, expressing pain of failed material expectations, are a documentary on its own how misguided they are.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Srila Prabhupada preached by His natural amazing happiness, even His words contained most controversial statements from material point of view, defining the whole direction material society is going to as being wrong. He called the society of today being suicidal and entirely misguided.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">In His Caitanya Caritamrta purports He defines those who profess as vaisnavas, but are entirely materially motivated, as being asara or useless.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">We all joined by the happiness, better to say ecstasy, exhibited by those who fully surrendered to the mission of Srila Prabhupada. Leaving the material concepts behind, we were free to dance in the kirtans, which were of such dynamic nature that we couldn&rsquo;t stop. The images of pain inflicted </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">chanters of today, who drain the Holy Name for the cause of their social appearance are a demonstration of their materially conceived &ldquo;Krsna consciousness&rdquo;. They are filled with tensity, fear and moroseness in name of &quot;</font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">going inside while leaving the outside&rdquo;. For Srila Prabhupada there was no distinction between &ldquo;inside&rdquo; and &ldquo;outside&rdquo;. Once absorbed in Krsna consciousness everything was of transcendental nature.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">This &ldquo;mentally sifted&rdquo; Holy Name still has its effect, but it can be chanted </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">lifetime after lifetime without any direct result, hopefully bringing the chanter to the level of purifying chanting so he may realize the uselessness </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">of his material expectations. Such offensive chanting is like igniting fire while simultaneously pouring water on it. The result is lots of smoke. Such chanter can taste something, but his taste is like the taste of a man who is tasting nectarean food through a piece of cloth covering his tongue. Therefore, such chanter easily abandons the whole process of purification considering it ineffective while becoming again some sort of humanist, altruist or simply low profile hedonist.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">How different are the lives of those who are in tune with Srila Prabhupada&rsquo;s mission, thinking about the welfare of the misguided ones, abstaining from association of materially motivated ones and preaching purely on basis of </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Srila Prabhupada&rsquo;s books, distributing them in large quantities.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Such devotee vaisnavas have no other choice&nbsp;than to become ecstatic even in midst of their tapasya filled lives. For the humanity at large, it is their happiness which attracts others, not the academically acquired &ldquo;knowledge&rdquo;, which kanistha adhikari type of individuals can turn into some sort of </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">a theatrical stage, serving their social performance.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">When joining 1972 I was simply swept away by small group of devotees, who evidently had&nbsp;nothing to offer materially, but who were the&nbsp;happiest people I met in my life. Even some of them certainly were highly mentally troubled individuals, still they were happily defying their karmic coverings while being fully absorbed in the service of Srila Prabhupada.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">It didn&rsquo;t took me long to discover where the source of their happiness was. </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">The image of Srila Prabhupada was seen everywhere, even at the banners carried on hare nama parties who poured into the streets in large numbers.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">There are only two kinds of beings who can be happy in this world: those blessed by the guru parampara and those who are totally covered by illusory energy. Finally, only those who are blessed can remain happy while those totally covered proceed to lower species of life.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">And so the prove of real advancement&nbsp;in Krsna consciousness is evident: h</font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">appiness, which stimulates the ecstatic chanter to increase his performance </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">in the service to the mission Srila Prabhupada entrusted to us.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Once a painter presented a picture to Srila Prabhupada of Krsna moaning about the loss of His father Vasudeva, killed in illusory way.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Srila Prabhupada objected. Bewildered, the devotee asked how it is possible to paint Krsna moaning without Him appearing miserable. Srila Prabhupada&rsquo;s answer revealed the essence of Krsna consciousness: &ldquo;Yes, Krsna was moaning, but He was still ecstatic!&rdquo; Such is the nature of Krsna consciousness.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">If anybody wants to find out the difference between real vaisnava and kanistha adhikari or a demon, it is at this point. Even not smiling all the time,&nbsp;the vaisnava&nbsp;is ecstatic and&nbsp;</font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">the mayavadi despite his self-satisfied grin is miserable.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="4"><font style="font-size: 16pt;">Let us not to be deceived.</font></font></font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm;">&nbsp;</p>
+</div>
+    </article>
+
+    <aside class="comments" id="comments">
+        <hr>
+        <h2><i class="fa fa-comments"></i> 2 Comments</h2>
+        
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Arthur</h3>
+                    <span class="date">
+                        17 Oct 2020
+                    </span>
+                </div>
+            </header>
+             <div class="body">Nicely put, Appreciate it!
+Best Essy writing
+medium sized enterprises</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Franchesca</h3>
+                    <span class="date">
+                        23 Oct 2020
+                    </span>
+                </div>
+            </header>
+             <div class="body">You revealed that really well.
+Best Essay writing
+ethics and social responsibility</div>
+        </article>
+    </aside>
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/knowledge-and-misery" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="191">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=9"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

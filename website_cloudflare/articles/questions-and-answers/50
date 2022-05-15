@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            How can we start and maintain grhasta communities? (part 2)
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=5">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>How can we start and maintain grhasta communities? (part 2)</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">25 Apr 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">Additionally, here some points which can be considered by grhastas who desire to be part of a community of devotees, reflecting Srila Prabhupada&rsquo;s desire of creating a daivi varnashrama dharma based society.</p>
+
+<p style="text-align: justify;">Here and there in Srila Prabhupada&rsquo;s lectures we find glimpses of His grhasta life realizations. As usually, in an absolutely essential way he states:</p>
+
+<p><em>&ldquo;The relationship between man and a women is very complicated&rdquo;.</em></p>
+
+<p style="text-align: justify;">There is no need to investigate how complicated life for a grhasta can be. Nevertheless here some notes from the road, which may be of some use for giving a co-existence between grhastas a chance:</p>
+
+<h2 style="text-align: justify;">For women</h2>
+
+<p style="text-align: justify;"><strong>1)</strong> Always remember that the husband is a devotee. Maybe not the &quot;grhasta paramahamsa&quot; Srila Prabhupada envisioned His grhastas to be, but anybody who tries to serve the Lord while honestly addressing his conditioning can be seen as a devotee.</p>
+
+<p style="text-align: justify;"><strong>2)</strong> Don&rsquo;t idealize the husband. Grhasta ashrama is meant to address ones conditioning, not to ignore it.</p>
+
+<p style="text-align: justify;"><strong>3)</strong> Men think mostly, women feel mostly. Synthesis can be productive, but finally if any sentiment is not controlled by rationality, it will manifest its destructive features. Therefore, ideally all women must be married.</p>
+
+<p style="text-align: justify;"><strong>4)</strong> Don&rsquo;t attack or question the ideals of your husband. This is one of the fastest ways to divorce. Men are mostly constructive idealists. Even often of very mediocre kind, but idealists nevertheless. Women tend to be dreamers which in the eyes of materialists often appears as idealism.</p>
+
+<p style="text-align: justify;"><strong>5)</strong> Familiarity breeds contempt. Familiarity is almost unavoidable in the relationship of this closeness. The idealized man and the idealized women soon turn into co-existing struggling conditioned souls when the reality of the family life is revealed to them.</p>
+
+<p style="text-align: justify;"><strong>6)</strong> It is the attitude which counts, not the result. As long mutual willingness to serve each other in the service to Krsna is maintained, the petty agitations being constantly placed by maya into one&rsquo;s way can be tolerated.</p>
+
+<p style="text-align: justify;"><strong>7)</strong> Don&rsquo;t engage yourself in tyaga, artificial renunciation. ALL women want children and ALL women basically share the same conditioning. Some can try to ignore it by speaking very learned words, some simply exhibit their desires in far more simple way. As one of my very learned godbrothers said: &ldquo;From my point of view all women are the same&rdquo;. Of course, he was a sannyasi:-)</p>
+
+<p style="text-align: justify;">Artificiality never pays off as it doesn&rsquo;t correspond to ones conditioning. It is always punished by material nature by increased level of lust and no intelligence, however academically trained, can finally control the lusty mind. Honesty is required, one shouldn&rsquo;t be embarrassed to share one&rsquo;s strong points and one&rsquo;s weak points as well.</p>
+
+<p style="text-align: justify;"><strong>8)</strong>&nbsp;Men, unless trained mystical yogis:-) , are not mind readers. Women&rsquo;s emotional life is so strong that it perceives mentally generated visions as already given reality. Women expect men to understand what they feel and act upon it. Men don&rsquo;t understand and they will never understand! They have to be told in simple words and they will be grateful for any sort of constructive information. Women want to be &quot;aggressively approached&quot; as Srila Prabhupada comments, meaning that they expect the men to take the initiative and &quot;go for it&quot;. Being married to a devotee may be in this regard frustrating, as a devotee sees no need to approach &quot;aggressively&quot; anybody, but sees the world around him simply as given by Krsna.</p>
+
+<p style="text-align: justify;"><strong>9)</strong>&nbsp;Don&rsquo;t &quot;test&quot; the man. Even devoured Darwinists observed that females constantly put men to a test regarding their physical and mental abilities. A devotee-woman can add even a spiritual challenge as well. In this way any marriage can be easily ruined. With their never satisfied attitude, the women will finally bring the man to a point of despair. According to his varna he will respond either by protesting or retreated to a more safer ground, desperate nevertheless that he failed to be &quot;responsible provider&quot;.</p>
+
+<p style="text-align: justify;">A devotee woman should know that we are provided in first place by the mercy of the Supreme Lord and not by a struggling husband. She and the husband as well, should be satisfied &quot;what comes on its own accord&quot; and not try artificially raising the destined level of maintenance. Even the Darwinists explain that the &quot;push&quot; women give to men and the challenge they provide is dictated to them by a genetically given code designed for ensuring the maintenance and expansion of a particular race in the &quot;fight for the survival of the fittest&quot;, for grhastas ashrama this animalistic policy proves to be fatal. Man who already tries to serve with all what he got, should not be challenged, but should be encouraged. Little doses of gratefulness for what was given can do wonders and attract Krsna&rsquo;s mercy.</p>
+
+<p style="text-align: justify;"><strong>10)</strong>&nbsp;Don&rsquo;t expect your husband to preach like a brahmana, protect you like a ksatriya, provide good economy like a vaisya and work hard like a sudra. Such &quot;Ubermensch&quot;-entities don&rsquo;t exist. One should know what is the dominating varna and be satisfied what comes along with it. It is for this reason Vedic society took marriage institution very seriously and matches being made were done under brahminical supervision in order to avoid a raised level of conflict situations, leading possibly and finally to the destruction of the whole ashram altogether.</p>
+
+<p style="text-align: justify;"><strong>11)</strong>&nbsp;Don&rsquo;t divorce! Those women who did so never earned blessings of the Lord. Of course when the man falls in maya so badly that he is losing his identification with Krsna consciousness, life may get very difficult. But we saw chaste women exhibiting in such weakness generated situations such a power that they could bring their husbands back to a right path and vocabulary saved him. Women know the way how to surpass the brain of a man and get into his heart. This power can be used either selfishly for one&rsquo;s own sense gratification or for the benefit of the other.</p>
+
+<p style="text-align: justify;">One gets immense blessings for such an achievement. First because chastity is highly valued by the Lord and secondly because another conditioned soul was saved from gliding to hell.</p>
+
+<p style="text-align: justify;">Besides that: how do you know you can stay without male association? And if married again, who said that the next one is better? (Usually they are worse!)</p>
+
+<p style="text-align: justify;"><strong>12)</strong>&nbsp;Don&rsquo;t slander your husband publically. Sharing ones problems with selected friends, women amongst women and men amongst men, is part of Vedic life style. Finally spiritual authority should prevail. But discretion is needed as much as a possibility to share ones problems with friends, possible able mentors who can translate the situation to the husband in an acceptable way. There are situations where one &quot;cannot see the forest because of so many trees&quot;. And so well-wishing mentor&rsquo;s visions can bring one out of the momentarily tensed up situation, and make one see that conflicts are created often by mediocrities. As devotees we should be able to raise above the level of mediocrity being dictated to us by three modes of nature and see the bigger picture, the long term purification of our material desires grhasta ashrama offers. Separation may be in most extreme scenarios facilitated, for a while, but never a divorce.</p>
+
+<p style="text-align: justify;"><strong>13)</strong>&nbsp;Don&rsquo;t exploit, even unconsciously, the devotional qualities of your husband. For mundane women humility is interpreted as weakness. For devotees it is a virtue. The humility of the husband who may overlook the pride of his wife may be encouraging for using him as a place for disposing ones anger, greed and frustrated emotions. This will finally be seen by the Supreme Lord as offensive. Even women hold far bigger credit regarding offences as men, it is not endless. I had to witness several women becoming literary insane due to their offences towards their husbands, gurus and finally the Supreme Lord.</p>
+
+<p style="text-align: justify;"><strong>14)</strong>&nbsp;Don&rsquo;t try to identify your husband according to his social position or financial status. Mundane women do that. Behind every big man there is a big woman. This is an understanding of a kanistha adhikari who will with the same attitude seek a spiritual master, believing that behind every &quot;big&quot; spiritual master there is a &quot;big&quot; disciple. Women are extremely socially sensitive beings, but mundane social mingling has no value in spiritual life.</p>
+
+<h2 style="text-align: justify;">For men</h2>
+
+<p style="text-align: justify;">(some points are identical to the women&rsquo;s side in reverse)</p>
+
+<p style="text-align: justify;"><strong>1)</strong>&nbsp;&hellip; as for women. What can be added is that &quot;one should not use ones wife as sex-machine&quot;, Srila Prabhupada said. Sex, outside for creation of children is a corrupt way to satisfy ones senses for the price of losing the respect of a devotee women. A high price indeed. Even the relationship between women and a man is ALWAYS sexually corrupted, even at its most subtle levels; one doesn&rsquo;t have to make it to priority in Krsna consciousness. Once one surrenders to the call of the genital, women become stronger and men weaker. Women in the material world use sex as means of control. In Krsna consciousness this is not necessary as chastity is expected to start with. That women are always more lusty as men is a fact, but that doesn&rsquo;t include necessarily gross sexuality. Their sexuality is far more refined as men&rsquo;s. As matter of fact it is so multi-leveled and so multi-colored that it can never be satisfied or understood. By simply using ones wife for sexual purpose, one invites her inherent vulgarity and familiarity. Unrestricted sexuality destroys all respect for each other.</p>
+
+<p style="text-align: justify;"><strong>2)</strong>&nbsp;&hellip; as for women.</p>
+
+<p style="text-align: justify;"><strong>3)</strong>&nbsp;&hellip; as for women. Unfortunately especially in this age men act often as women and women can exhibit almost manly qualities. We are not only &quot;members of unknown cast&quot; as Srila Prabhupada used to call us, but occasionally also &quot;members of unknown sex&quot;. There are instances where even some devotees changed their sex already in this life time, not being able to wait for the next one. What could be more bizarre?</p>
+
+<p style="text-align: justify;"><strong>4)</strong>&nbsp;Don&rsquo;t try satisfy the spouse in ALL regards. It is not possible. Even painful, sometimes a clear line has to be drawn what is possible and what is not possible. As women tend to come to premature conclusions, they cannot be accepted as the &quot;ultimate judge of things&quot;. It is expected from a grhasta to be sufficiently versed in the sastra to be able to back up his occasional unwillingness to comply with the wife by quoting sastra, the final guarantor for rationality and sanity. More intelligent women will be finally grateful to be restricted; the more foolish ones will revolt and ruin their lives.</p>
+
+<p style="text-align: justify;"><strong>5)</strong>&nbsp;&hellip; as for women.&nbsp;</p>
+
+<p style="text-align: justify;"><strong>6)</strong>&nbsp;&hellip; as for women.&nbsp;</p>
+
+<p style="text-align: justify;"><strong>7)</strong>&nbsp;&hellip; as for women.</p>
+
+<p style="text-align: justify;"><strong>8)</strong>&nbsp;Personally I never met a man who wouldn&rsquo;t agree on this point. They all know the taste despair of failing to read the mind of their wives. The happy ones are happy because they simply gave up trying. As it is sometimes said, women always expect you to understand what they cannot understand themselves and do some &quot;magic&quot;. They will put you to a task to discover the unidentified object, obtain it for them and then they will sit down in a chair of the supreme judge and evaluate if your achievements or your sacrifice was appropriate. There are men who turned vocabulary into lunatics while trying to make the ultimate sacrifice for their beloved females.</p>
+
+<p style="text-align: justify;"><strong>9)</strong>&nbsp;&hellip; as already described under 8/.</p>
+
+<p style="text-align: justify;"><strong>10)</strong>&nbsp;Don&rsquo;t expect your wife to be the synthesis of Goddess Sarasvati and the latest Miss Universe. Especially for women, as for material men, it can be said that when one is young the mind is broad and the waist is thin. When one turns to be older, the opposite become reality. Specially for women growing old is an extremely traumatizing experience, as they were in the younger days so much used to communicate their needs through their physical body. When the body becomes a broken tool, in absence of Krsna consciousness, bitterness arrives.</p>
+
+<p style="text-align: justify;">This is one of the reasons the man should retreat to a more peaceful situation when he reaches the age of fifty. Finally he should retreat entirely. A situation not easy to achieve in this chaotic non-vedic society as women have no shelter of a larger family, children don&rsquo;t care and the husbands have no other choice as to try to do the best out of the worst as long they can. Srila Prabhupada cherished the hope that few generations down the line we could at least to some degree come close to the ideals of Vedic society.</p>
+
+<p style="text-align: justify;"><strong>11)</strong>&nbsp;&hellip; same as for women. Divorce is instantly bringing the man into danger as in most cases sannyas is not an option. The ghastly effects of divorce, especially when it involves children, cannot be accounted for. A lusty man betraying his wife with another woman is most punishable by laws of nature, especially when she is a devotee. As for the women: next one can be worse as it usually is confirmed by the &quot;divorcees&quot; known to me. At best the story repeats itself, at worse it leads to further degradation. But a lusty man will act as he never heard about the law of karma. He will justify his actions, following his lusty mind, and his perverted intelligence as these two will always find an explanation for his sinful acts.</p>
+
+<p style="text-align: justify;">Of course a question may be raised: What about a couple joining Krsna consciousness, soon finding out that they are not serious about the process in the same way, or simply incompatible? Devotee will never encourage divorce, but as in this instance their marriage was not certified by any Krsna conscious sacrifice and the couple met simply on account of their karma, it can be understood why the more serious one of them wants to proceed in more Krsna conscious fashion. Still, preachers should not involve themselves as the final decision and the consequent reaction is up to the couple itself.</p>
+
+<p style="text-align: justify;">There are examples where the chastity of the wife and her determination to proceed with Krsna consciousness reformed the husband so much that due to his attachment to her he also became Krsna conscious and there are examples where the couple was confronted with the &quot;no divorce&quot; policy and divorced later on anyway under far more painful circumstances. This is a very personal matter and a devotee better simply presents the sastric standards and leaves it up to the new couple to decide.</p>
+
+<p style="text-align: justify;"><strong>12)</strong>&nbsp;&hellip; as for women.</p>
+
+<p style="text-align: justify;"><strong>13)</strong>&nbsp;Any form of physical violence towards the wife will automatically lead to loss of her respect. Only weak men attack women physically. Physical violence cannot be tolerated in grhasta communities.</p>
+
+<p style="text-align: justify;"><strong>14)</strong>&nbsp;Consider that you are NOT everything for your wife. Even men like to be seen this way; it is childish as trying to be a little god in this way is rather comical. Women need much more as one husband; they need a whole society to mingle with. Vedic society provided for them anything they needed. Unfortunately, being a devotee results in a materialistic society to great degree to be ostracized by mundane people. Srila Prabhupada envisioned a replacement of mundane society with a spiritual one, a task which may take many generations. Nevertheless, to live with a woman in isolation of any kind is for grhasta ashrama most damaging. Therefore sangas, devotional meetings, spiritual festivals and association with other devotee women is absolutely necessary for women to function in Krsna consciousness.</p>
+
+<h2 style="text-align: justify;">For both</h2>
+
+<p style="text-align: justify;"><strong>1)</strong>&nbsp;What further damages the grhasta ashrama is too close association. Apart from the &quot;honey moon faze&quot;, too close association creates unwanted familiarity. Separation and reunion is making life more interesting, both spiritually and materially. After all, we are living in a perverted reflection of the spiritual world and all the original rasas we taste on spiritual platform find their perverted versions while we are living in this material world. Intense engagement in devotional service automatically eliminates this problem, grhasta ashrama when practiced sincerely, provides certainly enough opportunities to follow a rigid working schedule, both materially and spiritually.</p>
+
+<p style="text-align: justify;">Those grhastas who pretend to live like sannyasis are hypocrites and their pseudo-renunciation will be rewarded by raised level of sexuality. Grhasta ashrama is designed for GRADUAL purification and not for &quot;premature escape&quot;.</p>
+
+<p style="text-align: justify;"><strong>2)</strong>&nbsp;The constant awareness of spiritual authority is required. In Vedic society the husband was automatically considered as one of the gurus. In the West such understanding is for women most difficult, as they were not trained this way. Even more so the presence of a spiritual master is required, above all presence of Srila Prabhupada&rsquo;s vani.</p>
+
+<p style="text-align: justify;">It was Srila Prabhupada who opened for His grhastas a new field of preaching, something which was never done before. It was Him who allowed mathajis to move into the temples and engaged them in preaching work as well. It was Him who earned criticism even from His Godbrothers as He arranged marriages in order to raise His disciples the human form of life. Every grhasta identifying him with Srila Prabhupada&rsquo;s movement should be aware of the debt we owe to Srila Prabhupada and try not to disgrace His mission by illegal conduct. If this understanding prevails, so many difficulties can be tolerated and overcome.<br />
+&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/50" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="151">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=5"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

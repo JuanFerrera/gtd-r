@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Where did my guru go?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=8">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Where did my guru go?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">09 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">This text might by surely considered by some daringly open-minded, as if questioning the parampara system in place we see in ISKCON today.</p>
+
+<p style="text-align: justify;">As deranged and arrogant the ritvik dogma may be, &quot;forbidding&quot; the Supreme Personality of Godhead to empower anybody who comes after Srila Prabhupada, as sad the fact is that the points raised by this deviant group are often true. They shouldn&rsquo;t be true.</p>
+
+<p style="text-align: justify;">As there are those amongst my godbrothers who advocate that the return of a disciple back home back to Godhead depends on a collective endeavor of all his or hers assistants, there are also those who entirely ignore this fact.</p>
+
+<p style="text-align: justify;">Srila Prabhupada, the Founder of ISKCON, the center and the maintainer of the mission of Lord Caitanya, stresses repeatedly that His disciples depend on a system of siksa gurus. I personally grew up in ISKCON exclusively under the daily guidance of my godbrothers who without exception gave me the best they could according to the level of their Krsna Consciousness. Even some of &quot;the best&quot; was retrospectively proven to be wrong, still none of them tried to harm me in any way and supported me to preach and distribute Srila Prabhupada&rsquo;s books only. The mission statement in the days I joined was clear, even occasionally poorly executed.</p>
+
+<p style="text-align: justify;">Again and again Srila Prabhupada urged the new initiates to take shelter under the older ones. Of course he also stressed that the older ones should be aware of the responsibility they carry in form of giving good or bad advice.</p>
+
+<p style="text-align: justify;">That system was strongly established and it brought about great results in the preaching field. The word disciple was automatically connected to the word discipline and so naturally the chain of command was maintained, resulting in an largely united preaching carried by boldness unknown today.</p>
+
+<p style="text-align: justify;">Srila Prabhupada stressed the need of cooperation between the sannyasis and temple presidents, the GBCs and the rest. His vision was that of a constantly traveling GBCs who assisted those in need spiritually, free from personal agenda and worry for personal maintenance. Personal presence was absolutely required; nobody could manage from a desk far away from the preaching field. Leader meant the one who was present and not absent as if always busy &quot;with something else elsewhere&quot;.</p>
+
+<p style="text-align: justify;">What to speak of a leader who obviously follows his agenda only, predominantly engaged with self maintenance, never accepting any sort of responsibility for the actions he initiated by his preaching. A leader entirely freed from conscience and introspection, a leader of a &quot;Teflon-quality&quot; as we see occasionally today. (Teflon is a material nothing sticks to. )Such leaders deriving their financial security from service of innocent souls are very common, especially in religious institutions. Srila Prabhupada warned us not to become like them.</p>
+
+<p style="text-align: justify;">Even being the absolute leader, Srila Prabhupada refused more and more to initiate without the recommendation of the local authority, which is After all a common sense approach, a system which protects both, the initiate and the initiator.</p>
+
+<p style="text-align: justify;">Even today this system is partially still in place its also largely violated by voraciously initiating gurus who seem to follow the so wrong proven doctrine that they are the single agents for &quot;channeling the mercy&quot; as one of them said. The autocratic &quot;channeling of mercy&quot; results in something one of my godbrothers defined as &quot;fragmented zonal acharyaism&quot;, meaning that except having a large domain to play with , as the dismissed zonal acharya used to have, today such mini-zonal-acharya is satisfied to have a little one, sufficient to cover his personal needs.</p>
+
+<p style="text-align: justify;">The result is that the locally active preachers and managers are openly or discretely turning into GBC-cynics or worse , uncontrolled local autocrats as they have no feedback or protection or assistance or correction regarding their actions. Indeed, the word &quot;GBC&quot; means in most areas of this world&hellip; nothing.</p>
+
+<p style="text-align: justify;">Srila Prabhupada had other expectations, viewing the GBC body as the most sacred body of purely brahminical advisers and supervisors free of monetary considerations, ready to correct any deviant kind of management and deviant preaching to be found on the way. Envisioning such brahminical guides to be by no means managerially involved, Srila Prabhupada empowered this body to stay purely in brahminical field, ready to declare any deviant to be non-ISKCON representative if the culprit was obstinately refusing to be corrected by dint of guru-sastra-sadhu evidence.</p>
+
+<p style="text-align: justify;">Unfortunately the reality of today is very different.</p>
+
+<p style="text-align: justify;">Even basic morality seems to be at present by various GBC members to be disputable, declared to be relative. Words like &quot;circumstantial divorce&quot; and other humanistic inventions are rampant. In name of &quot;mercy&quot; all kinds of deviant forms of behavior go uncorrected and ignored. In collaboration the &quot;mercy channeling&quot; initiators, who distribute spiritual names to their superficial worshipers as if distributing some &quot;nicknames&quot;, invited the most deranged class of individuals to enter the ranks of ISKCON devotees persons who do embarrass by their absurd type of actions not only the initiator, but their godbrothers and the movement at large.</p>
+
+<p style="text-align: justify;">Srila Prabhupada warned His followers not to turn His mission into a &quot;lunatic asylum&quot;. Starting ISKCON from scratch, He had to pay His price as well for the lunacy of some of His followers. But the results easily compensated this price. Gigantic book distribution and the Holy Name being broadcasted all over the planet, Srila Prabhupada took the risk that some may &quot;not to be up to the standard&quot;. Today the non-standard is the standard and more and more largely unqualified initiates are in a more and more uncontrolled way creating a profile of a &quot;lunatic asylum&quot; movement.</p>
+
+<p style="text-align: justify;">Even the warnings of the local managers go often unheard and their issues unattended by those who actually should vigilantly watch over the standards Srila Prabhupada established. Repeatedly He warned us not to allow this &quot;cheapening&quot; of His mission to happen. Even the history of ISKCON demonstrates how easily the &quot;fragmented zonal acharya&quot; can vanish along his followership; again and again hardly any stress is given to the cooperation of the local preachers and managers along the initiating gurus.</p>
+
+<p style="text-align: justify;">Everybody is being locked up so to say in his &quot;individual club&quot;, the &quot;GBC-club&quot;, the &quot;temple-president-club&quot;, the &quot;struggling-grhasta-club&quot; and finally the largest community, &quot;the ever-complaining sudra-club&quot;, the speeches advocating unification sound rather cynical in view of the reality of an entirely fragmented movement.</p>
+
+<p style="text-align: justify;">The disunities propagators of unification often forget to offer a practical formula for unification: action in Krsna Consciousness. Those who are truly united see no need of such unification declaration as they are working hard every day in form of:</p>
+
+<ul>
+	<li style="text-align: justify;">Hare Nama</li>
+	<li style="text-align: justify;">Book Distribution</li>
+	<li style="text-align: justify;">Prasadam Distribution</li>
+</ul>
+
+<p style="text-align: justify;">Such preaching heroes, often entirely ignored and unrecognized by the official ISKCON dignitaries, need no blessings of the &quot;visionaries&quot; as they already are fulfilling the vision of Srila Prabhupada of an united effort of hard working chanters of the Holy Name. As demonstrated directly by the Supreme Lord, after Bhagavad Gita was spoken on the Kurukukshetra Battlefield, Arjuna didn&rsquo;t &quot;set back in his chariot and smoke ganja&quot;, as Srila Prabhupada pointed out, but he actually started to put the words of Bhagavad Gita into action.</p>
+
+<p style="text-align: justify;">And so the question is still relevant:</p>
+
+<table class="leaders-list">
+	<tbody>
+		<tr>
+			<td><span>If a disciple gets initiated</span></td>
+			<td>what will he do?</td>
+		</tr>
+		<tr>
+			<td><span>If a guru initiates</span></td>
+			<td>what will it do?</td>
+		</tr>
+		<tr>
+			<td><span>And if ISKCON is united</span></td>
+			<td>what will it do?</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: justify;"><br />
+As they say, action speaks stronger as words. Less paperwork, more personal presence and more personal assistance would protect the &quot;leaders&quot; from their isolation. Most devotees are very simple people and so they can be very simply inspired by personal presence, personal assistance and personal concern. As Srila Prabhupada vocabulary destroyed His body by traveling constantly, &quot;giving His personal association&quot;, those who want to follow in His footsteps have no other means to achieve something substantial as to do the same.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/where-did-my-guru-go" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="174">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=8"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

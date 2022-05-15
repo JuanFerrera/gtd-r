@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            The Last Darshan
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=4">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-memories">Remembering Śrīla&nbsp;Prabhupāda</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>The Last Darshan</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/50_DSCN1837.JPG" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">16 Jan 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">When I&nbsp;returned to the Schloss Rettershof Temple, Germany&nbsp;on Saturday night with my sankirtan van, I wondered where the others are.</p>
+
+<p style="text-align: justify;">The parking lot was empty and I thought nobody could distribute Srila Prabhupada&acute;s books for that long.</p>
+
+<p style="text-align: justify;">In&nbsp;those days&nbsp;our meditation about Srila Prabhupada intensified in form of endless book distribution marathons, as we heard about His Divine Grace laying down in Vrndavana, fasting for months. Once few crumbles of prasadam arrived in the mail, the Maha Maha of the only kachori He ate, and these precious remnants were carefully distributed in microscopic size from one devotee to another.</p>
+
+<p style="text-align: justify;">Srila Prabhupada repeatedly said that the only thing keeping Him alive is the distribution of His books.</p>
+
+<p style="text-align: justify;">Nobody could imagine Srila Prabhupada leaving us behind at this stage, and His statement &ldquo;whenever I read the sankirtan results I feel like a young boy&rdquo; drove us to higher and higher book distribution results.</p>
+
+<p style="text-align: justify;">Whenever we presented new results to&nbsp;Srila Prabhupada, He commented: &ldquo;Double it!&rdquo; Some devotee even printed buttons to be carried on our chest with one single slogan: &rdquo;Double it!&rdquo; And so we doubled it again. One marathon followed the other&nbsp;in a desperate attempt to keep Srila Prabhupada with us.</p>
+
+<p style="text-align: justify;">German yatra was at this time on the &quot;top of the world&quot;.</p>
+
+<p style="text-align: justify;">Looking for somebody, parking my car, finally the last remaining devotee run out of the temple door and&nbsp;revealed the news: &rdquo;Srila Prabhupada is in London!&rdquo;</p>
+
+<p style="text-align: justify;">I couldn&acute;t believe it! How did He got there, raised from his bed, fasting?</p>
+
+<p style="text-align: justify;">In few minutes I unloaded the remaining books out of my car in order to avoid the possible custom problems on the way (there was no European Union at that time), and in a moment I was turning&nbsp;car around&nbsp;with last remaining devotees&nbsp;jumping in it. What did it matter I just returned from a week of book distribution, ready to take rest. I drove the whole night through Germany, Belgium and France, arriving finally in England.</p>
+
+<p style="text-align: justify;">Never before I drove on left side, and so I tried to find my way through the traffic in desperate search for &ldquo;London-Watford&rdquo;, knowing only very vaguely where the Bhaktivedanta Manor is located. Driving around Piccadilly Circus round and round I&nbsp;managed to find my way out of the London City, somehow arriving at the Manor around 11 o&acute;clock a.m. with the car full of sleepy devotees.</p>
+
+<p style="text-align: justify;">We jumped out of the car full of joy, ready to scream out our &ldquo;Srila Prabhupada ki jaya!&rdquo;</p>
+
+<p style="text-align: justify;">But we got silenced instantly. The silence and intensity surrounding the place got&nbsp;to us.</p>
+
+<p style="text-align: justify;">Although&nbsp;many devotees were present, everybody was very cautious about not to produce any disturbing sound, moving swiftly and quietly around, talking in low key.</p>
+
+<p style="text-align: justify;">Caught by intensity of that Manor atmosphere, I retreated to the temple room which was filled with praying devotees. Srila Prabhupada was upstairs in His rooms, obviously in criticial condition. Servants were moving swiftly around, asking for various ingredients. The rest of devotees was intensely chanting japa.</p>
+
+<p style="text-align: justify;">While sitting in the temple, finally chanting my Gayatri at noon, suddenly I saw my GBC Harikesha, peaking his head into&nbsp;temple room door. He pointed to me, quietly hissin &rdquo;hey, come, quickly, quickly!&rdquo; I tried to finish my Gayatri, but he was very persistent: &rdquo;Come! Come! Now!!!&rdquo;</p>
+
+<p style="text-align: justify;">And so I got up and followed him as he speeded up the stairs through the corridor, opened the door, and there I was, falling at Srila Prabhupada&acute;s lotus feet in His bedroom. As&nbsp;like paralysed I could only move few inches away, remaining seated maybe half a meter from these swallen&nbsp;wonderful soft&nbsp;lotus feet of His Divine Grace. Crying instantly I washed my tears from my eyes to be able to see.</p>
+
+<p style="text-align: justify;">The intensity in the room hardly allowed one to breathe in that small room. Few devotees were present, maybe four of us altogether. Harikesha introduced me as &ldquo;one of the leading book distributors in Germany&rdquo;.</p>
+
+<p style="text-align: justify;">Srila Prabhupada responded with closed eyes with a &ldquo;Hmmm&rdquo;, slightly knocking His head in agreement. His swallen hands folded in front of His face, His eyes constantly moist with tears of ecstasy, this wasn&acute;t the Srila Prabhupada I meditated upon all these years, our marching general, walking with great speed at His morning walks, declaring to all scientists the missing link to be His foot in their faces.</p>
+
+<p style="text-align: justify;">Our commander who declared war to illusion by publishing one book after another, killing the ignorance in our hearts and hearts of all those who dared to listen.</p>
+
+<p style="text-align: justify;">This was Srila Prabhupada as we also believed Him to be, not always manifested to unqualified human eye, the resident of Goloka Dham, the participant in Krsna&acute;s most intimate pastimes, the Paramahamsa of highest order, the Prabhu at whose lotus feet all the Prabhus sit. Rocked from one devotional ecstasy to another, Srila Prabhupada gave up the role of a madhyama adhikari, the one who is preaching, and He manifested His full glory as the&nbsp;Maha Bhagavata, the living representative of Srila Vyasadeva on this planet Earth. Even for us the dynamics of His ecstasies were impossible to understand, at least it was easy for everyone present to see and feel, that indeed there is a spiritual world and Srila Prabhupada is in it. The dynamic exchanges between Him and the Supreme Lord were visible even for the darkened eye of the conditioned soul, for all those who were present. The intensity and silence was tremendeous, even one&acute;s own breathing felt like offensive and disturbing towards His Divine Grace.</p>
+
+<p style="text-align: justify;">Suddenly a bird&nbsp;chirped outside of the window, braking the silence, and it could be heard as if amplified. Srila Prabhupada immediately broke into another ecstasy, for Him this was already Vaikuntha, a sound from the spiritual world. To watch all of this was breath taking, to be present felt offensive on one side, on the other to leave was no an option. And so I remained kneeing on the floor, starring at these wonderful soft lotus feet of His Divine Grace.</p>
+
+<p style="text-align: justify;">Tamal Krsna maharaja, Srila Prabhupada&acute;s secretary, opened&nbsp;a mail. The system was that whatever mail arrived was to be&nbsp;read out to Him, and whatever Srila Prabhupada commented upon, Tamal wrote down His remarks, answering consequently on His behalf.</p>
+
+<p style="text-align: justify;">Out&nbsp;of one&nbsp;envelopes Tamal pulled a big colour picture of the L.A. Ratha Yatra festival. Srila Prabhupada&acute;s eyes opened widely and looking at the picture He said: &rdquo;I always wanted to have such a big Ratha for Lord Jagannath, even when I was a small boy!&rdquo;</p>
+
+<p style="text-align: justify;">Next envelope Tamal opened contained a newly published book, the title I couldn&acute;t see. It was soft bound and as soon Srila Prabhupada saw it, His eyes opened even more and His swallen hands reached instantly for the book. Holding it in His hands, He did something surprising. He turned it upside down and tested the binding by bending it backwards. It was ok. Then with an amazing display of transcedental pride, His chin raised, He placed the book lovingly&nbsp;on His lap. At that moment&nbsp;I recalled what He used to say: &rdquo;Whenever one of my books&nbsp;is published, I feel like I conquered&nbsp;the universe.&rdquo;</p>
+
+<p style="text-align: justify;">At that moment it was clear how to please Srila Prabhupada instantly and eternally: by publishing and distributing His books.</p>
+
+<p style="text-align: justify;">The moment of leaving arrived and I followed Harikesha back to the temple room where everybody chanted and prayed for any minute more to have Srila Prabhupada staying with us.</p>
+
+<p style="text-align: justify;">Crisis arrived. Suddenly there was an&nbsp;intense movement of devotees around Srila Prabhupada&acute;s rooms, I heard calls for more warm water. A devotee rushed into the temple room with a mrdanga and started to pray to Lord Nrsimhadeva. We all joined in, not knowing what is happening. Behind&nbsp;coloured glass windows of the temple room an ambulance was seen arriving and we heard that Srila Prabhupada is rushed to the hospital. The chanting of the Nrsimha prayers grew more and more intense.</p>
+
+<p style="text-align: justify;">Chanting for an hour or so, suddenly&nbsp;the ambulance quietly arrived again and Srila Prabhupada was transported to His rooms again. Some devotees cried, some simply chanted.</p>
+
+<p style="text-align: justify;">Next morning Srila Prabhupada was carried down and placed in front of the altar, sitting with His big dark glases in His improvised palanquin. The curtain was closed and the temple room filled with excited devotees to see Sri Sri Radha Gokulananda and Their most pure devotee. When curtain&nbsp;began to open and Govindam Adi Purusam song started, a big sound of surprise went through the crowd.</p>
+
+<p style="text-align: justify;">I couldn&acute;t believe what I just saw! I am by no means an &ldquo;Oh, I saw Krsna&acute;s flute moving&rdquo; sahajiya-man, but what I saw was so clear and so distinctively perceivable that I was simply shocked.</p>
+
+<p style="text-align: justify;">Srimati Radharani opened Her lotus eyes widely and slightly bent forward, entierly focused on Srila Prabhupada. Her glance upon Him was so vivid that everybody present discussed it later on in excited tone: &rdquo;Did you see it? Did you see it? Radharani moved and looked at Srila Prabhupada!&rdquo; This was not just what I saw, this was what everybody could see.</p>
+
+<p style="text-align: justify;">Then Srila Prabhupada was moved to the Vyasasana area and Guru Puja started. In very grave and intense mood, kirtan leader chanted the prayers in low key, his voice filled with intensity and despair. Srila Prabhupada didn&acute;t like it. His bushy eyebrows raised, He opened His eyes more and slowly raised His swallen hands to encourage us to chant and dance more happily. As His hands were raising, the mrdanga beats speeded up instantly, first devotees started to dance, soon followed by those who started to jump. The kirtan became ferocious, devotees chanting in full volume, jumping high, dancing, all to please Srila Prabhupada.</p>
+
+<p style="text-align: justify;">Seeing them following exactly even the slightest movement of Srila Prabhupada&acute;s lotus hand, I remembered Maha Visnu glancing over the mahat-tattva, bringing forth all entities, so Creation can take a place. At this moment&nbsp;was clear who was empowered to create the Hare Krsna Movement. We are all dependant on the movements of Srila Prabhupada&acute;s lotus hands, in seeking perfection of life to become self-conscious individual puppets in His hands, making us dance, making us dance.</p>
+
+<p style="text-align: justify;">Standing somewhat close to Srila Prabhupada on the left side of His palanquine, I took a closer&nbsp;look&nbsp;of the Manor temple room which was packed with devotees dancing and chanting. The kirtan became so ecstatic that amongst mathajis, as usually dancing&nbsp;at the back, an elderly lady way back there in the left corner of the temple room jumped suddenly high, her face beaming, holding a huge&nbsp;bouquet of&nbsp;white lilies she was hoping to offer to Srila Prabhupada. Realizing that she will never be able to reach His Vyasasana, she simply threw the lilies while jumping high with great force across the heads of all the devotees present, in direction to Srila Prabhupada. Instantly devotees started to catch these flowers&nbsp;flying in the air, throwing them further and further, and so some indeed landed at Srila Prabhupada&acute;s lotus feet.</p>
+
+<p style="text-align: justify;">I vaguely remember a man standing on the right side of the room, his camera mounted on a stand, probably some sort of&nbsp;a reporter. Obviously first time in the temple, he ended up being so overpowered by ecstatic emotions of the devotees and Srila Prabhupada&acute;s presence, that neglecting his photography he simply stood there, crying intensely.</p>
+
+<p style="text-align: justify;">Suddenly in the midst of&nbsp;dancing devotees I saw emerging our GERMAN sankirtan leader.</p>
+
+<p style="text-align: justify;">An eccentric person indeed, whose sankirtan results matched his aggressive way to distribute Srila Prabhupada&acute;s books.&nbsp;Later on he even had to leave Germany due to his repeated contact with german police (that&acute;s another story). At this moment, forgeting that he joined ISKCON because he believed it is the only way to survive the Third World War :-), he danced his way through the devotees, pushing them aside so he could simply see Srila Prabhupada face to face. I watched Srila Prabhupada taking notice of him. Srila Prabhupada&acute;s face hardened,&nbsp;His chin raised&nbsp;and with a great deal of appreciation of this display of a &ldquo;good german quality&rdquo; Srila Prabhupada&acute;s and&nbsp;our sankirtan leader&acute;s&nbsp;eyes met. Maharama das, so was his name, burst into ecstasy. He jumped even more high, as if touching the temple ceiling. Tears of joy poured from his eyes.</p>
+
+<p style="text-align: justify;">At that moment I wondered how Srila Prabhupada was able to extract from us the best, well aware of our conditioning, still&nbsp;bringing forth most wonderfuly our spiritual nature, allowing us to be what we always were -&nbsp;the beautiful spiritual souls, part of Krsna&acute;s family, entirely in bliss, by His grace remembering our constitutional position. That was so visible when seeing the &ldquo;german&rdquo; Maharama das melting in ecstasy in front of His Divine Grace. It was impossible to remain in our bodily encagement as Srila Prabhupada was lifting us up one after another to taste&nbsp;a glimpse of a&nbsp;transcendental reality.</p>
+
+<p style="text-align: justify;">In the afternoon suddenly everybody was heading&nbsp;to the parking lot. &rdquo;Srila Prabhupada goes to the Burry Place Temple to see London Isvara!&quot;</p>
+
+<p style="text-align: justify;">A white Rolls Royce from the Beatles arrived at the door and Tamal Krsna maharaja carried Srila Prabhupada out into the car. Like a child Srila Prabhupada was holding on Tamal&acute;s neck, He was so light and so amazingly dependant on the Supreme Lord.</p>
+
+<p style="text-align: justify;">I&nbsp;found quickly my sankirtan van and lined up behind other cars, all ready to follow the white Rolls.</p>
+
+<p style="text-align: justify;">The car left swiftly, and not knowing where to go we keenly followed. Drive to the Burry Place Temple became a race. The white Rolls Royce drove rather fast, followed closely by large number of cars.</p>
+
+<p style="text-align: justify;">My only thought was not to loose that car. After all I didn&acute;t know where we are, neither I knew how to get back to the temple.&nbsp;Police men, certainly surprised by this unexpected&nbsp;surface of car racing in the midst of London traffic, acted in the english way. They assumed that something important goes on, maybe they recognized the Beatles car and so they started to close down the crossings prior to our arrival.&nbsp;We rushed hastily through one crossing after another&nbsp;until finally arrived&nbsp;at&nbsp;small street where the temple was located. Parking here and there we jumped out of our van, early enough to see Tamal Krsna maharaja to carry Srila Prabhupada into the temple. Seated, He had a Darshan while arotika was going on in that very small temple room, which resembled an inner space of a ship.</p>
+
+<p style="text-align: justify;">During the Darshan devotees took turns&nbsp;in fanning Srila Prabhupada with the peacock fan, since the room became very quickly steaming hot due to a&nbsp;large number of devotees pushing inside. The fanning had a peculiar system. There was actually no system at all, and soon I realized that whoever is closest and whoever is most bold can grab the fan and keep on fanning His Divine Grace, using the momentum&nbsp;I took my chance taking over it from one who fanned before me. Once myself fanning Srila Prabhupada for few seconds, I earned a most disapproving look from Tamal Krsna maharaja, pointing out to me that I am getting too much in front of Srila Prabhupada&nbsp;and possibly blocking His vision. Being pushed by the devotees standing behind me I had no other choice&nbsp;than to give up my fan and&nbsp;hand it to somebody who was standing&nbsp;in the right angle. After all, one should fan with peacock fan sidewards and not from the front.</p>
+
+<p style="text-align: justify;">As soon the Darshan was over, the same race&nbsp;took place back to the temple.</p>
+
+<p style="text-align: justify;">Days and nights started to blend into&nbsp;each other, it seemed like nobody slept those days. There was continuous soft kirtan going on in the temple. S uddenly I was told by a devotee from my sankirtan party: &ldquo;Srila Prabhupada wants to see all the german sankirtan devotees in His room!&rdquo;</p>
+
+<p style="text-align: justify;">Yes! The Germans&nbsp;made it again! Feeling to be the most privileged all the present german sankirtan maharathis&nbsp;rushed towards Srila Prabhupada&acute;s room, filling it up completely.</p>
+
+<p style="text-align: justify;">His Divine Grace was sitting in His improvised Vyasasana,&nbsp;His hands folded in front of His face again. Complete silence spread through the room and everybody awaited&nbsp;Srila Prabhupada to ask how many books were distributed. Then Srila Prabhupada dropped the bomb. Into the complete silence He said: &ldquo;Do you know the philosophy?&quot;</p>
+
+<p style="text-align: justify;">Shocked, nobody answered at first. Philosophy? Why to speak about philosophy? After all, the numbers of books being distributed are speaking for themselves!</p>
+
+<p style="text-align: justify;">Finally after some moments of silence my godbrother Haraka das squeaked out in despair: &rdquo;Sarva dharma parityajya mam ekam saranam vraja!&rdquo;</p>
+
+<p style="text-align: justify;">Srila Prabhupada said gravely: &rdquo;Yes, what does this mean?&rdquo; Prthu Prabhu gave a short explanation and Srila Prabhhupada approved it. Then it was silence again and we&nbsp;began to understand that the darshan&nbsp;is over. Quietly, one after another, we paid our obeisances and exited the room. Outside&nbsp;in the corridor&nbsp;still amazed we&nbsp;remembered: &rdquo;What did He said? Philosophy! Yes, there is also philosophy in these books!&rdquo;</p>
+
+<p style="text-align: justify;">Srila Prabhupada knew well the german fruitive ways of thinking, and cought us right away there where it was needed. As He said prior to this meeting many times: &rdquo;Enthusiasm is good, but some brain is also required.&rdquo; And so Srila Prabhupada&acute;s books are to be&nbsp;read too, not just distributed. That was the lesson I&nbsp;hold from that darshan, the last one I had, seeing His Divine Grace.</p>
+
+<p style="text-align: justify;">The last monumental&nbsp;recall I have from our brief visit in the Manor was the theatre performance of the Vaikuntha Players, an amazingly professional group of devotees actors. The Bhaktivedanta Manor has a small but beautiful theatre room with nice stage, where the story of Bilvamangala Thakura was so wonderfully performed.&nbsp;Even though&nbsp;Srila Prabhupada was not directly present&nbsp;during this &nbsp;performance, the actors beamed with ecstasy, giving their best. Between two plays one devotee thought&nbsp;as appropriate to fill the pause with a small bhajan.</p>
+
+<p style="text-align: justify;">Nobody knew when and how it happened, but the &ldquo;bhajan&rdquo; soon grew into a ferocious kirtan, a kirtan to be remembered by all those who took part in it, recalling&nbsp;it as &ldquo;the kirtan of their lives&rdquo;.</p>
+
+<p style="text-align: justify;">As if Srila Prabhupada&acute;s presence&nbsp;elevated us all&nbsp;from our conditioned bodies, the chanting became so ecstatic that everybody in that theatre room lost the concept of time and space. I vaguely remember devotees standing on the&nbsp;windowsill jumping into the kirtan like into a large swimming pool. Nobody got hurt, everything was perfectly orcherstrated by the internal energy of the Lord, devotees crying in tremendous joy, jumping all the way up to the ceiling. The sound coming out of that theatre room&nbsp;was tremendous and soon the temple president appeared at the door, fearing that we may demolish the amplification system standing in the back. Dozens of hands reached out for him and he as well disappeared in the whirpool of devotees chanting and dancing for indefinite time.</p>
+
+<p style="text-align: justify;">As if electricity is suddenly cut off, in a moment everything stopped, and coming to our bodies back again, without knowing where we realy are, we were sitting on the floor breathing heavily. Then somebody recited prayers and somebody started to laugh, realizing how amazing it was what just happened. Soft bhajan followed and the next play started. But THAT kirtan was never forgotten by those who took part in it. How wonderful it was not to be the body for a while, lifted out from our encagement by Srila Prabhupada&acute;s mercy, being submerged in the service to the Holy Name.</p>
+
+<p style="text-align: justify;">Soon after Srila Prabhupada left for India, and we returned to our sankirtan battle fields in order to give out the most precious gifts of Srila Prabhupada, His transcendental books.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">One who can stil remember,</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Manidhara das,</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Prague, Ekadasi 12th of January, 2018</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/sp-memories/the-last-darshan" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="50">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-memories"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

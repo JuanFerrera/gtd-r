@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Life Comes From Life; But Where Do Gurus Come From?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=11">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Life Comes From Life; But Where Do Gurus Come From?</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/211_chess-2.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">29 Mar 2020</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">History always provides important lessons which we can learn from. We cannot live backwards or in the past. Too strong is the force of time, always moving forward, destroying the past and ushering in the future.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">ISKCON has an especially poor fund of memory, both (1) in remembering what Srila Prabhupada gave us during His presence in His vapu form, and (2) in terms of what was clearly done wrong after His departure. This article was written in view of the again-and-again repeated deviations, so as to review what proved to be destructive. Forgetfulness is the privilege of those who never learn anything.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Once in Srila Prabhupada&#39;s presence, a devotee remembered nostalgically the &ldquo;good old days&rdquo; when he and others enjoyed the intimacy of Srila Prabhupada&rsquo;s personal association. Srila Prabhupada responded firmly: &ldquo;There are no &lsquo;good old days&rsquo; in Krsna Consciousness. Krsna Consciousness is eternal.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">And so, in view of the eternity of Srila Prabhupada&rsquo;s instructions and His teachings, the things which came to pass and proved to be of destructive nature, such things should be avoided, while the eternal essence of Srila Prabhupada&rsquo;s heritage should be kept intact.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Even mistakes are always done by individuals, who then claim in collective manner&nbsp;that, &ldquo;It was them, not me.&rdquo; This essay will not mention any individual names.&nbsp;It has no intention to embarras<span lang="cs-CZ">s</span> anybody. It is rather addressing the very essential question: &ldquo;Where do the gurus come from?&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Once upon the time: I lived in a country far in the North under the shelter of a very dedicated GBC. H<span lang="cs-CZ">e</span> proved to be the last GBC I saw who personally accepting absolute responsibility while having absolute authority. He took the blame, he took the weight of management, and so for me&mdash;one of his executive officers&mdash;management was easy, as I received from his side both protection and correction, the basic ingredients needed for a servant of the servant of the guru parampara. Things went right and things went wrong, as this GBC was during of his 22 years of management gradually subdued by his growing manic-depressive disease, finally doubting himself, doubting ISKCON and above all doubting his spiritual master Srila Prabhupada.&nbsp; And so he came to abandon his post, diving into a frenzy and lunacy of most bizarre kind.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">But that&rsquo;s another story. The story that I tell today goes as follows: It was the summer of 1986 and our GBC suddenly called for a meeting of godbrothers whom he knew from the first day he arrived in Europe. Godbrothers who preached together in a close team spirit, and even some being extreme individuals in their own eccentric class, they traveled around &ldquo;his&rdquo; zone, preaching along a united policy in order to please Srila Prabhupada and spread His mission.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">I joined ISKCON in 1972 and met him, our GBC&nbsp;for the first time in 1976 (when he arrived from the U. S.). I was also one of those who was invited to this meeting in 1986 somewhere far in the North. None of us knew why the meeting was called or what would be the important topic of discussion, but the spirit of emergency was intriguing and we quickly arrived one after another at this remote spot in the North.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Our GBC had prepared for everything. We were seated in a room at a large table. He welcomed us and spoke clearly and firmly to the point: &ldquo;An investigation committee from the United States is coming to our zone, inspired by reports which were sent to them about my supposedly autocratic way of management. Their arrival is clearly for removing me from my position and installing an agenda unknown to us. As we know, in the U. S., most of the GBCs have fallen down, and so their idea is that I may also fall down soon as well, and so management in our zone has to be changed. Do we want such change? We don&rsquo;t know what is coming.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Then he shocked us all by saying, &ldquo;I want you all to become gurus. At least we know each other and we know what are our preaching policies. In this way, our zone and what we preach may be preserved, and we will continue in our preaching efforts without me being accused to be the &lsquo;autocratic leader.&rsquo;&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">His speech was followed by long silence. The shock was simply too great. We sat dumfounded. None of us expected this; we were entirely unprepared for this order to become gurus. Finally, one of godbrothers sitting next to him responded, &ldquo;Why should I become guru?&rdquo; Knowing him to be envious, our GBC turned to him with a sarcastic smile and said, &ldquo;So you may get some taste too.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Then our GBC said something which sounded to me like a voice of reliefe from the heavens, &ldquo;Those who are grhasthas here may consider what they want to do. Those wearing saffron have no choice.&rdquo; Indeed his authority was absolute.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Instantly, all grhastas including myself rose from our seats and left the room. Sitting outside on the grassy lawn, one of my godbrothers looked at me, still in state of shock and asked, &ldquo;Do you know what&rsquo;s going on inside there?&rdquo; I replied, &ldquo;No.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">All my dreams about the natural continuation of the guru parampara in ISKCON were shattered on that day 34 years ago. I have always admired my preaching godbrothers, even those who did not distribute Srila Prabhupada&rsquo;s books, but proved themselves in other preaching fields. I was only a simple sankirtan man who knew that book distribution was the essence of Srila Prabhupada&#39;s preaching. At that meeting I had witnessed the creation of an entire generation of gurus by the local GBC within one hour. All this was done for the sake to avoid an invasion of his critics and for preserving the continuation of his management along the preaching policies his godbrothers cherished.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Was it good or bad? For one, it kept his zone safe from the bitterness of those who had their lofty ideals demolished in a far-away land called the U. S. A. His plan proved to be successful; the investigators never arrived. It appears they accepted that he had &ldquo;delegated&rdquo; his power to his godbrothers. The godbrother who had conspired to inspire the potential arrival of the reformers, was not present in this meeting, must have been satisfied as well.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">But was this the way guru parampara should continue? I always dreamt that senior godbrothers who had proved themselves in the preaching field, would attract many sincere souls to Krsna Consciousness naturally and become their diksa gurus. In this way they would bless new generations of similarly empowered preachers, and place the new recruits in the care of the local temple presidents. This was the system which Srila Prabhupada had envisioned, with sannyasis out in the world, scouting the terrain, free of financial considerations, naturally commanding by their pure preaching and humility, and not demanding authority. Indeed, all my dreams were shattered on this day.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">On that day in 1986, simply because of political pressure, suddenly an entire generation of new gurus was created within one hour. Life would never be the same. Those godbrothers of mine who took the bait and became gurus changed as well. Our relationship changed. I haven&rsquo;t spoken to most of them for the last 30 years. Some succeeded in their newly-gained positions as appointed ISKCON gurus, some fell down, some got badly compromised, and some were embarrassed by the constant flow of entirely unqualified disciples, still being kept alive by dint of their institutional status and the policy that, &ldquo;The king is never wrong.&rdquo; Some very few remained what they always were: the preachers. Most of them however, changed into unrecognizable forms, as if changing their bodies already.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">One of them met me recently and spontaneously asked, &ldquo;Do you remember that meeting in North in 1986?&rdquo; I responded, &ldquo;Of course, I do remember it very clearly.&rdquo; He said, &ldquo;I was never cheated like that in my entire life.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">I felt great love for him at that moment because of his introspective honesty. Indeed, those who accepted the bait on that fateful day got cheated in some sort of politically inspired coup where they, the new gurus, provided an alibi for the remaining GBC man, who then could go on for many years to come.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Until now, I never published this recollection of mine; I shared it only with some very few godbrothers. From today&rsquo;s point of view, I still have the same question on my mind: Life comes from life, but where do gurus come from?</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Ironically, after the catastrophic events which followed the falldown of the one who called this ground breaking meeting, most of the gurus who were installed in 1986 would say today that &ldquo;he was always mad.&rdquo;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Would it be wrong to regard his decision to install them as initiating gurus to be the action of a madman? And why was such an important decision by such a &ldquo;madman&rdquo; accepted with the blessings of the rest of GBC?</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">But I ask: Should gurus come into power because of political necessities or by dint of their preaching achievements? This is the question I pose to those who witnessed events such as I did in 1986.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">The members of the Ritvik Movement may have a feast on such essays like this one, but I&rsquo;m afraid I have to disappoint them. The preachers of the ritvik doctrine are rascals who follow the Fox and Sour-Grape story, which Srila Prabhupada explained: A fox jumped high in a vineyard, trying to reach the juicy and tasty grapes high on the vines. When the fox finally realized he was unable to reach the grapes, he concluded, &ldquo;They are sour anyway.&rdquo; And so our sour-grape ritvik rascals dare to forbid the Supreme Personality of Godhead to empower anyone besides Srila Prabhupada to continue to carry on the message of guru parampara? How can they dare?!</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Instead of dwelling on the past and the considerably large number of fallen gurus in ISKCON, wouldn&rsquo;t it be more productive to discuss what the quality of a real guru is and what his symptoms and <i>actions</i> should be? Sastra and Srila Prabhupada&rsquo;s teachings are full of such descriptions. And so, by learning important lessons from history, future mistakes can be avoided, loss of faith can be avoided, and massive foolishness leading to further massive disasters can also be avoided.</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">Let us learn and let us pray, while embracing tightly Srila Prabhupada&#39;s lotus feet, to not becoming part of Duryodhana&rsquo;s army, but to become part of Yudhisthira Maharajas&rsquo; army. As Srila Prabhupada comments, the Kuruksetra battlefield is the field of our activities as we daily face the challenges provided by Maya&rsquo;s invading forces. As followers of Lord Caitanya Mahaprabhu, we don&rsquo;t hold weapons in our hands. We hold our bead bags and sankirtan bags while heading out for Hare Nama, book distribution, prasadam distribution, or any of the other wonderful devotional activities as given to us by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada and His authorized representatives.</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/life-comes-from-life-but-where-do-gurus-come-from" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="211">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=11"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

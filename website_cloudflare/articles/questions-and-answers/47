@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            What should one consider when one intends to open a restaurant?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=5">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>What should one consider when one intends to open a restaurant?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">24 Apr 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p>Seeking Srila Prabhupada&rsquo;s instructions in this regard, one will not find many.</p>
+
+<p>But following can be stated from His side:</p>
+
+<h3 style="text-align: center;">-1-</h3>
+
+<p style="text-align: justify;">Restaurants, originally named by Him as &quot;Hare Krsna Restaurants&quot;, but soon renamed as &quot;Govindas&quot; by the devotees due to fear that they might be perceived by the public as to be too &quot;sectarian&quot;, were by Srila Prabhupada envisioned as extensions of &quot;our farms&quot; where the surplus of the farm products would be used for cooking. Of course, historically spoken hardly any of the Govindas restaurants came close to this vision as farms as such, due to lack of real farmers, turned out to be most demanding projects themselves. Needless to say, Srila Prabhupada didn&rsquo;t encourage the propagation of vegetarianism, but the propagation of Krsna&rsquo;s prasadam.</p>
+
+<h3 style="text-align: center;">-2-</h3>
+
+<p style="text-align: justify;">Restaurants were clearly defined by Srila Prabhupada as &quot;grhasta business&quot;. As he did instruct one of his sannyasis to strictly abstain from any involvement with a restaurant, it becomes clear that this distribution of prasadam in form of a restaurant is next to book distribution a wonderful way not only to maintain a family or larger group of grhastas, but also to distribute prasadam and ideally provide the funds for other types of preaching. I had the opportunity to manage a restaurant in Stockholm for fifteen years and be at the birth of two other ones in Czech Republic and I saw these restaurants providing a wonderful platform for bringing general public closer to Krsna consciousness.</p>
+
+<h3 style="text-align: center;">-3-</h3>
+
+<p style="text-align: center;">Further instructions from Srila Prabhupada in this regard:</p>
+
+<h3 style="text-align: center;">-3A-</h3>
+
+<p style="text-align: justify;">A restaurant is not a direct preaching place, guests should be nicely welcomed so they can peacefully accept prasadam. Discrete sound of bhajans should be the background and the customers should have the possibility to have a look at Srila Prabhupada&rsquo;s books displayed at a shelf conveniently located in the restaurant area.</p>
+
+<h3 style="text-align: center;">-3B-</h3>
+
+<p style="text-align: justify;">Prasadam should be served at fixed price with the option to &quot;eat as much as you want&quot;. But asking for seconds, stashing prasadam away and transporting it home is not allowed unless the guest doesn&rsquo;t purchase a &quot;take away&quot; portion&quot;. Sweets, ice cream, drinks and other extras can be sold for special price, as they may not belong to the main menu.</p>
+
+<p style="text-align: justify;">At this point Srila Prabhupada&rsquo;s input into the restaurants so far documented basically ends.</p>
+
+<p style="text-align: justify;">Here are practical points illustrating what can go wrong once one tries to open a restaurant:</p>
+
+<h3 style="text-align: center;">-1C-</h3>
+
+<p>As one of my experienced godbrothers once explained: there are only three conditions for opening a restaurant:</p>
+
+<p style="text-align: center;"><strong>THE LOCATION<br />
+THE LOCATION<br />
+THE LOCATION</strong></p>
+
+<p>&hellip; and he was right.</p>
+
+<p style="text-align: justify;">There is no use to invest neither money nor manpower into a remote location outside of the reach of the conditioned souls. Especially today people expect to eat fast, instantly and in a reasonably reachable place. Even one overcomes the initial difficulties and one creates a steady circle of customers, (as matter of fact people tend to get addicted to prasadam:-) , still the location is the first requirement to be met. Subway, train or bus connection has to be at least close by. Of course, the best locations in town are always the most expensive ones. A compromise is ideal in order no to burden the new operation with huge expense in form of a rent.</p>
+
+<h3 style="text-align: center;">-2C-</h3>
+
+<p style="text-align: justify;">The biggest mistake probably made in the history of restaurants is to start with a huge loan. Many restaurants went bankrupt soon by starting in this way. The worst case known to me is the one where ISKCON-authorities mortgaged a temple, Deities property, in order to start or help a financially troubled restaurant. This is criminal.</p>
+
+<p>Ideally an investor or supporter from the congregation is the best help to give such an enthusiastic grhasta good start. One cannot expect to be profitable right away, most of the time it takes at least one year before some financial result can be reported. The initial expenses besides the rent are:</p>
+
+<ul>
+	<li>kitchen equipment</li>
+	<li>ventilation installation</li>
+	<li>sanitary installations</li>
+	<li>legal permits</li>
+	<li>gas and electrical installations</li>
+	<li>if not in place already, a construction of an approved kitchen (Approved by hygienic department and fire department)</li>
+	<li>restaurant decoration, equipment</li>
+	<li>suitable vehicle for transport of bhoga.</li>
+	<li>ADVERTISEMENT!</li>
+</ul>
+
+<h3 style="text-align: center;">-3C-</h3>
+
+<p style="text-align: justify;">Another traditional mistake is the vain attempt to be &quot;first class&quot; in terms of offering to the public complicated menu-ala-card with minimum manpower involved.<br />
+That instantly compromises the quality of prasadam as canned food and reheated food will be used. Gas stoves give space to micro-ovens and the healthy bhoga gives space to partially rotten pre-cooked food. Better one stays with one good simple menu of best quality for fixed price, selling smaller and bigger portions, and offers it with love to Krsna. Once Krsna has tasted&hellip; people will get to feel it!</p>
+
+<h3 style="text-align: center;">-4C-</h3>
+
+<p style="text-align: justify;">There is no need to compromise the standards. Needles to say, the prasadam should be indeed prasadam, meaning that the first fixed menu is offered in the morning and whatever is cooked in the same fashion thereafter is considered offered for the day. (This guideline also comes from Srila Prabhupada). This indicates that there is no need to be too complicated and change things on the way.</p>
+
+<h3 style="text-align: center;">-5C-</h3>
+
+<p style="text-align: justify;">There are hilarious examples of disastrous attempts to raise the number of customers by introducing alcohol and karmi-made foodstuffs to the prasadam menu which totally defeat the whole purpose of the prasadam distribution: to purify the conditioned soul. Such &quot;vaisya&quot; ideas are absolutely destructive. Such restaurants go bankrupt soon, After all when it comes to intoxication karmis are champions while operating restaurants and bars we couldn&rsquo;t even dream about.</p>
+
+<h3 style="text-align: center;">-6C-</h3>
+
+<p style="text-align: justify;">Better to start on small scale and increase gradually. This also doesn&rsquo;t put such an immense demand on the devotees being involved. As it is in these days almost impossible to employ workers due to the severe taxation, a devotee family based restaurant is the best. It will create a very cozy atmosphere and people learn quickly to like it. It is not just the prasadam in itself which makes them to come back, but also the way it is served and the personal attitude of devotees serving it.</p>
+
+<p style="text-align: justify;">Better one is prepared: A restaurant includes immense work for minimum profit. It can be only done on long term basis with a preaching spirit of prasadam distribution and facilitation of conditioned souls in Krsna consciousness. If it is done in this spirit, it will get only better. (We started in Stockholm with 24 guests a day and reached levels of 500 a day during the years. Due to decline of book distribution in general the restaurant in itself maintained ten full scale preaching programs.)</p>
+
+<p style="text-align: justify;">As business oriented a restaurant may be, unless being placed in most luxurious location and equipped with the best (paid!) cooks, one cannot expect to become rich in two years.:-) Still, it is most rewarding to see people becoming addicted to prasadam and feeling at home with the devotees.</p>
+
+<h3 style="text-align: center;">-7C-</h3>
+
+<p style="text-align: justify;">Too often the Govindas restaurants are due to state of emergency populated by persons of lowest character seeking instant means of income. Atmosphere created in this way is repulsive and invites bankruptcy. To get a small efficient team, a good cook(s), a dedicated devotional person who enjoys when people become Krsna-conscious is great challenge. Better to work hard on small and devotional scale as to have a restaurant which is populated by pseudo-cooks who smoke in the back yard of the kitchen. Operations of such a quality can be hardly perceived as part of Srila Prabhupada&rsquo;s movement and often disintegrate due to the chaotic and non-devotional attitude of its workers. A small restaurant with 4-5 dedicated souls who follow the four regulative principles and chant he Holy Name is far better as a filthy establishment with 120 seats available, operating in place soon to be closed down by the hygienic department authorities.</p>
+
+<h3 style="text-align: center;">-8C-</h3>
+
+<p style="text-align: justify;">The myth that &quot;we cannot look too much like devotees, otherwise no guest will come&quot; is wrong. (Not only in relationship to restaurants). People will come BECAUSE we are devotees. Of course, if the restaurant is located in a country which openly prosecutes devotees, that commands more discrete approach. But that is indeed exceptional.</p>
+
+<p style="text-align: justify;">Generally people find it exiting to go to a restaurant where the staff is specially dressed. After all, even a Thai-restaurant serving their national dishes will have the employees dressed in exotic dress in order to attract customers to their special kind of cousin. So why should devotees &quot;hide&quot;?</p>
+
+<p style="text-align: justify;">We had the best experiences with mathajis dressed in wonderful silk saris, tilak and bindi. People were enchanted to such a degree that we had hard time to keep the visiting men away from them:-)</p>
+
+<p style="text-align: justify;">True, dhotis are more difficult, also from practical point of view. They are potentially a dangerous dress to wear in the kitchen, especially when cooks operate close to the floor based gas cookers. Even saris in the kitchen can be under these circumstances dangerous, specially the synthetic ones. Nylon is most dangerous material in connection with fire. It burn immensely fast and turns into blue flamed plastic liquid which causes deep burns. All devotees working in the kitchen should therefore wear tight dress in order to avoid loose cloth coming close to the fire. (Covering any kind of hair is of course the rule). Good rubber-based and closed shoes are also most important, not just because they are prescribed by the law, but also due to the fact that kitchen floors are often slippery. Falling knifes can also be dangerous, hence the closed tip of the shoe. There is even bigger danger, a falling over ghee-wok with ghee being spilled over the feet of the devotee. Ghee burns are most dangerous and leave permanent marks.</p>
+
+<p style="text-align: justify;">When the serving devotees are already by their appearance inviting guests to remember Krsna, this is wonderful preaching on its own. Some Govindas-restaurants in Europe known to me, operational for many years, create such a close circle of customers that those who serve and deal with guests become almost their counselors in some instances. People may not come just for the meal, but also to share their lives with devotees as well. Once such an atmosphere is created, one needs no worry about ones steady income.</p>
+
+<p style="text-align: justify;">Specially when there is a harmonious relationship created between the restaurant devotees and the local temple management, if there is any temple close by with any management:-) , restaurants become living invitation to higher levels of Krsna consciousness&hellip; in ideal case.</p>
+
+<p style="text-align: justify;">As much controversial this remark may be: a temple operated restaurant is not a good idea. Temple is supposed to provide brahminical atmosphere in first place. As we know from the sastra: brahmanas don&rsquo;t open restaurants:-) But the cooperation between these two places where Krsna consciousness is advertised can be most productive. A well-to-do restaurant owner will surely not mind to support the temple and a temple supported in this way will not mind to advertise such a restaurant. If everybody involved thinks how to spread Krsna consciousness, there should be no problem. Once other motivations start to prevail, only problems and frictions arise.</p>
+
+<p style="text-align: justify;">A restaurant is finally not a training field for a brahmacary aspiring bhakta, but can wonderfully engage friends and congregational members while serving them prasadam in return. If the temple becomes entirely mixed up with the restaurant, both facilities start to suffer, up to the point that their relationship becomes mutually exploitative. A bad start and bad end indeed.</p>
+
+<p style="text-align: justify;">There are more challenges to be met on the way while trying to establish a Hare Krsna Restaurant. Possibly more questions can be raised and their answers can be shared. But better one is rightly informed before one embarks on such a demanding project. Only then it has a chance to survive and prosper.</p>
+
+<p style="text-align: center;">... possibly to be continued&nbsp;...</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/47" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="148">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=5"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

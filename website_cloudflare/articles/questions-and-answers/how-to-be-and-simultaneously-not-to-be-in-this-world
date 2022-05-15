@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            How to be and simultaneously not to be in this world?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=5">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/questions-and-answers?page=8">Questions and Answers</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>How to be and simultaneously not to be in this world?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">11 Oct 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">This is an essential question for every devotee who is serious about ending his existence in this miserable world.</p>
+
+<p style="text-align: justify;">But alas, our life is too short to gain substantial spiritual strength and to develop attachment to and finally love for Krsna of such a depth that it will allow us to associate with Him in next life time directly. Simultaneously life is long enough so we can be overcome by maya&rsquo;s various temptations from within and from without easily. As demonstrated by many, there is never late to grow foolish and senile.</p>
+
+<p style="text-align: justify;">Those who are truly wise, a result of many many life times leading us to Srila Prabhupada&rsquo;s lotus feet, never get involved with the electrifying mechanism of the synthesis of male and female energy.</p>
+
+<p style="text-align: justify;">But those are very few. Those who imitate their path and superficially suppress their material desires end up in a compressed situation, finally reaching a highly explosive state of mind which terminates their focus on the essential meaning of human life, love of Godhead.</p>
+
+<p style="text-align: justify;">And so grhasta ashrama provides a hybrid type of compromise where, if executed properly, a temporary blend of regulated material desires and increasingly cultivated spiritual desires is achieved. It is a complicated ashrama, dealing with elements of both, the material and spiritual energy. But indeed, any ashrama which is conducted sincerely is &quot;complicated&quot;. To swim against the stream, to establish spiritual base in midst of a material battlefield is a demanding task. Srila Prabhupada was confident that as long His instructions are followed, this war can be won.</p>
+
+<p style="text-align: justify;">The first mistake many grhastas commit is that by dint of spiritual information, they assume that they can reach almost instantly the level of desired spiritual advancement. It would not be difficult to demonstrate how many times Srila Prabhupada used the word &quot;gradually&quot;. Gradual development demands patience and tolerance towards once acquired conditioning along the determination and enthusiasm to regulate it on more long term basis.</p>
+
+<p style="text-align: justify;">Kanistha adhikaris by dint of their missing intelligence never know the speed and the measure required for their progress and so they assume easily a position of mental value only, a position where they don&rsquo;t belong.</p>
+
+<p style="text-align: justify;">This can have devastating effect on grhasta ashrama as being mentally situated only, operating with only academically assimilated information at best, and such &quot;prematurely ripened transcendentalist&quot; causes only harm to him and to others. In the family circles, especially when children are present, this is devastating. This grave misunderstanding of one&rsquo;s position can result even to a situation where the child may be felt by such kanistha adhikari parents as an obstacle on the spiritual path.</p>
+
+<p style="text-align: justify;">Such child may then consequently conclude that it was Krsna who &quot;occupied&quot; its parents and herewith &quot;life without Him&quot; would have been more peaceful and stable. So any parent is better advised to be aware of his conditioning and extend to the child maximum care, even at the momentarily diminishment of his spiritual practice. On the other side, neglecting the basic sadhana needs is destructive as well as serving the senses of one&rsquo;s family members is in ultimate sense not satisfying anybody. To find the balance is not easy and examples for such balanced grhasta life are very few.</p>
+
+<p style="text-align: justify;">At the cost to sound chauvinistic&hellip; women are the champions to learn what is not to be learned, or better to say &quot;not yet&quot; to be learned, and by dint of their theoretic learning they assume an artificially arrogant &quot;superior&quot; position, mutilating their husbands to the point of fall downs or passive retreat.</p>
+
+<p style="text-align: justify;">Grhastas are better informed that this not the way to oppose material energy as any artificially assimilated knowledge, misused to raise our self above others and dominate them proudly leads only to disaster and fall downs.</p>
+
+<p style="text-align: justify;">The demonic feminism, administered by lusty men to less intelligent women, can find its pseudo spiritual form. Too easily women forget that they are dealing with a devotee and when familiarity takes over; the orgies of mutual offences are unleashed into the grhasta battlefields. Unfulfilled raging material desires can turn any man and women into abusive monster. Women, operating the most sophisticated sexual weaponry, can mutilate almost any man, becoming herewith great tools in Kali&rsquo;s hands.</p>
+
+<p style="text-align: justify;">(To pacify any of those who may scream out their defensive feministic manifestos, just because there are so many stupid men, doesn&rsquo;t make women more intelligent:-)</p>
+
+<p style="text-align: justify;">And so too easily devotees believe that by practicing Krsna Consciousness for short time, they are already eligible to act and speak on a level of an fully realized transcendentalists.</p>
+
+<p style="text-align: justify;">It is truly amazing how few understand even the meaning of the word &quot;transcendental&quot;. Srila Prabhupada demonstrated by His own example that to transcend means to engage in Krsna&rsquo;s service. This was indeed revolutionary as prior to appearance of Bhaktivinoda Thakura, Bhaktisiddhanta maharaja and finally Srila Prabhupada, many imagined the state of renunciation as being a state of entirely asocial and withdrawn type of existence, dominated by negation of anything &quot;material&quot;.</p>
+
+<p style="text-align: justify;">Srila Prabhupada showed us that finally nothing is material once used in Krsna&rsquo;s service. He dedicated many purports in His books to this theme.</p>
+
+<p style="text-align: justify;">What follows is a wonderful illustration given in Srimad Bhagavatam how one can transcend this world while simultaneously living in it. Even the personalities involved, Narada Muni, Lord Brahma and Maharaja Priyavrata, are far beyond any scope of our understanding and our actions; still their examples are valid and meant to be followed in principle.</p>
+
+<p style="text-align: justify;">As we know from Srimad Bhagavatam, maharaja Priyavrata appeared already in a state of develop relationship to the Supreme Lord and due to the fact that his Krsna Consciousness was already so highly developed, Narada Muni, his spiritual master, naturally encouraged him to follow this path and avoid any further possibility to be entangled with the material energy.</p>
+
+<p style="text-align: justify;">But there was a problem. Maharaja Priyavrata was born into a royal environment and as a son of Svyambhuva Manu, he was expected to perform the task to manage this planet Earth. Unwilling to do so, thanks to the mercy of his spiritual master Narada Muni, Priyavrata was naturally hesitant to assume such mode of action. He saw the dangers involved. To get attached in this world is easy. Attachment is an invisible enemy, entering the heart, intensely engaging the mind, its creating a bond often almost impossible to cut, defeating even the so called &quot;rational&quot; understanding. Maharaja Priyavrata was alarmed and he resisted.</p>
+
+<p style="text-align: justify;">A very unusual situation occurred on the highest level of universal management. Lord Brahma entered the scene, seeing his service to the Lord, to organize the universal affairs, being hampered by Priyavratas hesitance.</p>
+
+<p style="text-align: justify;">How could Lord Brahma obstruct the mercy of Narada Muni being delivered upon Priyavrata, the son of Svayambhuva Manu? And how could Priyavrata disobey his spiritual master in order to please Brahma? A truly delicate situation.</p>
+
+<p style="text-align: justify;">And so Lord Brahma, being most respectfully received by Priyavrata and his spiritual master Narada Muni, started to explain:</p>
+
+<p style="text-align: justify;">&quot;One cannot avoid the order of the Supreme Personality of Godhead, not by strength of severe austerities, an exalted Vedic education, or the power of mystic yoga, physical prowess or intellectual activities. Nor can one use his power of religion, his material opulence or any other means, either by himself or with the help of others, to defy the orders of the Supreme Lord. That&rsquo;s not possible for any living being, from Brahma down to the ant.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.12</span></p>
+
+<p style="text-align: justify;">Srila Prabhupada explains, clearly describing the present dilemma and the solution lying ahead:</p>
+
+<p style="text-align: justify;">&quot;The word manisaya is of special significance. Priavrata might argue that Lord Brahma was requesting him to accept family life and the responsibility for ruling the kingdom, although Narada Muni had advised him not to enter household life and be entangled in material affairs. Who to accept would be a puzzle for Priyavrata because both Lord Brahma and Narada Muni are authorities. Under the circumstances the word manisaya is very appropriate, for it indicates that since both Narada Muni and Lord Brahma are authorized to give instructions, Priyavrata should neglect neither of them but should use his intelligence to follow the advice of both. To solve such dilemmas Srila Rupa Goswami has given a very clear conception of intelligence. He says:</p>
+
+<p style="text-align: center;"><em>anasaktasya visayan<br />
+yatharham upayunjatah<br />
+nirbandhah krsna-sambandhe<br />
+yuktam vairagyam ucyate</em></p>
+
+<p style="text-align: justify;">Visayan, material affairs, should be accepted without attachment, and everything should be devotailed with the service of the Lord. That is real intelligence (manisa)&hellip;&hellip;&hellip;&hellip;</p>
+
+<p style="text-align: justify;">(end of the quotation from the purport)</p>
+
+<p style="text-align: justify;">Anybody who may argue that he hasn&rsquo;t such an intelligence enabling him to extract the essence from the instruction of his spiritual master, can only pray to Krsna as He is promising that according to the sincerity of the seeker He will guide such soul to those who give him the right hint and point into the right direction where he can finally find the way to fulfill the instruction of his spiritual master perfectly. Sincerity is the key word and the formula allowing us to follow the passage from ignorance to true realized knowledge.</p>
+
+<p style="text-align: justify;">And so Lord Brahma continues:</p>
+
+<p style="text-align: justify;">&quot;My dear Priyavrata, by the order of the Supreme Personality of Godhead, all living entities accept different types of bodies for birth and death, activity, lamentation, illusion, fear of future dangers and happiness and distress.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.13</span></p>
+
+<p style="text-align: justify;">&quot;My dear boy, all of us are bound by the Vedic injunctions to the divisions of varnashrama according to our qualities and work. These divisions are difficult to avoid because they are scientifically arranged. We must carry out our duties of varnashrama dharma, like bulls obliged to move according to the directions of a driver pulling the ropes knotted to their noses.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.14</span></p>
+
+<p style="text-align: justify;">&quot;My dear Priyavrata, according to our association with different modes of material nature, the Supreme Personality of Godhead gives us our specific bodies and the happiness and distress we achieve. One must therefore remain situated as he is and be conducted by the Supreme Personality of Godhead, exactly as a blind man is led by a person who has eyes with which to see.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.15</span></p>
+
+<p style="text-align: justify;">And here Lord Brahma describes even the position of a truly liberated person in a way any tyagi, the one who negates this world per se, would be amazed to hear:</p>
+
+<p style="text-align: justify;">&quot;Even if one is liberated, he nevertheless accepts the body he has received according to his past karma. Without misconceptions, however, he regards his enjoyment and suffering due to that karma the way an awakened person regards a dream he had while sleeping. He thus remains steadfast and never works to achieve another material body under the influence of the three modes of material nature.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.16</span></p>
+
+<p style="text-align: justify;">Lord Brahma is realistic. Without a material body one cannot live in the material world. However, matter can be &quot;Krsnaized&ldquo;, as Srila Prabhupada used to call it, when engaged under the direction of the spiritual master. As many devotees may try to improve their well being by changing locations, Lord Brahma disagrees. There is finally no escape regarding ones bodily conditioning, there is only the path of purification of one&rsquo;s bodily conditioning. How many devotees I witnessed in my life time deceiving themselves on basis of improper understanding of their varna and ashrama, living miserable lives. How many wonderful godbrothers I lost on basis of this mistaken idea!</p>
+
+<p style="text-align: justify;">Lord Brahma is sure of the need to be properly situated, as much Krsna Himself was assuring Arjuna on the Battlefield of Kuruksetra that there is no way to escape ones given nature by retreating to forest and renounce ones duties:</p>
+
+<p style="text-align: justify;">&quot;Even when one goes from forest to forest, one who is not self-controlled must always fear the material bondage because he is living with his co-wives-the mind and the knowledge-acquiring senses. Even householder life, however, cannot harm a self-satisfied learned man who has conquered his senses.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.17</span></p>
+
+<p style="text-align: justify;">Surely, whoever maintains the idea that householder life is a facility to allow his senses to rage around is greatly mistaken, even when it comes to makes his wife to the object of one&rsquo;s sense gratification. Srila Prabhupada was issuing very firm warning to all husbands not to make their wives to &quot;sex machines&quot;, as He used to call it. Sex, if not motivated by progeny, is simply another version of mutual exploitation and exploitation, whoever mutually agreed upon, cannot be a base for co-existence even from material point of view. Rather opposite, it&rsquo;s the best way to destroy any relationship as it is breading familiarity and vulgarity. (Did somebody ever notice how different women attitude towards a man is prior and after having sex with him?)</p>
+
+<p style="text-align: justify;">Women grow stronger on sexual impulse, the men, even initially experiencing some sort of adrenalin rush, grow weaker. And so the whole purpose, to gain strength by protecting each other from the onslaught of material energy, is defeated once sex life becomes the priority. Even a person who never chanted the Holy Name once can experience this as visible from the collection of quotes following bellow.</p>
+
+<p style="text-align: justify;">And so Lord Brahma finally concludes his appeal to Priyavrata:</p>
+
+<p style="text-align: justify;">&quot;One who is situated in household life and who systematically conquers his mind and five sense organs is like a king in his fortress who conquers his powerful enemies. After one has been trained in household life and his lusty desires have decreased, he can move anywhere without danger.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.18</span></p>
+
+<p style="text-align: justify;">This is a truly inspiring statement, One can notice that Lord Brahma doesn&rsquo;t take even into consideration a total annihilation of one&rsquo;s material desires, but the fact that one is properly situated and herewith his lusty desires &quot;decreased&quot; to that degree that they cannot take over his life in uncontrolled way, movement without any danger is already ensured.</p>
+
+<p style="text-align: justify;">Even maya can strike any time without consideration of one&rsquo;s age, if one is properly trained, she will find little field to act as the aging body of a regulated grhasta along his aging wife may do the rest to help him to finally realize the true meaning of life. How mad must be the one who tries to &quot;rejuvenate&quot; his body by material means. The wonderful feature of all this &quot;training camp&quot; called grhasta ashrama is that it will one way or another perishes, taken away by time. Those who will not take the full lesson this time have to return to continue next life. What a price to be paid for those who insist to be somebody they are not.</p>
+
+<p style="text-align: justify;">And so devotees, often perplexed by the denial of their material propensities on one side and helpless on the other, feeling weak to strive for higher spiritual standards, can be only enthused by this unique situation created by the presence of Svayambhuva Manu, his son Priyavrata, Narada Muni and Lord Brahma. It clearly establishes that in Krsna Consciousness there is no place for either artificial bhoga, enjoyment of the senses, or artificial tyaga, artificial renunciation, the other side of the very same coin.</p>
+
+<p style="text-align: justify;">It is not that the psychological genetically given mechanism of our bodies will change, we only learn gradually to tolerate it and regulate it, and occasionally even ignore its workings by striving for elevation our consciousness to Krsna Consciousness.</p>
+
+<p style="text-align: justify;">Grhastas imitating sannyasis are in the same disastrous position as sannyasis imitating grhastas. (Better not to ge into updated details of that anomaly demonstrated to us today).</p>
+
+<p style="text-align: justify;">To be properly situated according the momentarily status of one&rsquo;s material desires is the principle established here. Even seeing his disciple entering grhasta ashrama, disobeying his order, Narada Muni was pleased by Priyavratas following the instruction of Lord Brahma as in essence it was not contradictory to his instruction to make one&rsquo;s life to a starting base for the return back home back to Godhead. The direction was the same and so in ultimate sense the instruction was the same.</p>
+
+<p style="text-align: justify;">To illustrate how wonderful it is to be guarded by spiritual authorities, the story of maharaja Priyavrata doesn&rsquo;t end here. After assuming his duties, acting in most amazing way in terms of managing the universal affairs, establishing even another sun while placing it into its orbit so Mother Earth can be illuminated day and night, organizing that the citizens of the Earth can co-exist with each other peacefully along their different levels of material desires by dividing them materially and uniting them spiritually, a &quot;peace formula&quot; entirely unknown to the maddened humanists of today, Maharaja Priyavratas fulfilled the meaning of that particular period of his life.</p>
+
+<p style="text-align: justify;">Acting as if he was attached but simultaneously unattached, (Srila Prabhupada stated at this point that &ldquo;every grhasta must be paramahamsa&rdquo;: -(?, finally Maharaja Priyavrata arrived NATURALY at the stage where he in exemplary fashion exhibited great regret once again that he had to contact material field so strongly and so by dint of the mercy of Narada Muni he assumed the final stage of his being in this material world, the stage of absolute dedication to the purpose of this human life, the final return back home back to Godhead. This was not done artificially, out of momentarily frustration as many devotees may do, but after going through a process of purification via grhasta ashrama.</p>
+
+<p style="text-align: justify;">Nevertheless, as any true devotee, Maharaja Priyavrata regrets any moment he spent in any way as being directly engaged in the service of the Lord:</p>
+
+<p style="text-align: justify;">&quot;While enjoying his material opulence with full strength and influence, Maharaja Priyavrata once began to consider that although he had fully surrendered to the great saint Narada and was actually on the path of Krsna Consciousness, he had somehow become again entangled in material activities. Thus his mind became restless and he began to speak in a spirit of renunciation.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.36</span></p>
+
+<p style="text-align: justify;">&quot;The King thus began criticizing himself: Alas, how condemned I have become because of my sense gratification! I have now fallen into material enjoyment, which is exactly like covered well. I have had enough! I am not going to enjoy anymore. Just see how I have become like a dancing monkey in the hand of my wife. Because of this I am condemned.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.37</span></p>
+
+<p style="text-align: justify;">One should not make the deadly mistake to consider on basis of his exemplary humble statement Maharaja Priyavrata to be an ordinary soul. Before doing so one should also restructure the cosmic design around the planet Earth and create another sun.</p>
+
+<p style="text-align: justify;">&quot;By the grace of the Supreme Personality of Godhead, Maharaja Priyavrata reawakened to his senses. He divided all his earthly possessions among his obedient sons. He gave up everything, including his wife, with whom he had enjoyed so much sense gratification, and his great and opulent kingdom, and he completely renounced all attachment. His heart, having being cleansed, became a place of pastimes for the Supreme Personality of Godhead. Thus he was able to return to the path of Krsna Consciousness, spiritual life, and resume the position he had attained by the grace of the great saint Narada.&quot;<br />
+<span class="letter-note">SB&nbsp;5.1.38</span></p>
+
+<p style="text-align: justify;">And so the question if grhastas should follow their material nature or renounce it instantly doesn&rsquo;t arise. The process is given here.</p>
+
+<p style="text-align: justify;">For those who think that by dint of chanting of the Holy Name, (with offences I dare to mention), their condition will &quot;vanish&quot;, they should remember that the process is designed differently. &quot;Transcending&quot; means using it, not &quot;vanishing it&quot;. Such mayavada infected fellows better read the translation of the Maha Mantra before chanting it.</p>
+
+<p style="text-align: justify;">And so, just to illustrate what kind of material challenges are ahead of a new grhasta, here a collection of quotes from those who by no means achieved Krsna Consciousness, but who learned by being in the school of hard knocks and were blessed to get to see what many devotees may not have seen yet.</p>
+
+<p style="text-align: justify;">Personally I don&rsquo;t quote non-devotees often, but even Srila Prabhupada, as mentioned in a previous text of this conference, did extract useful from the useless ones when it came to illustrate a point. The persons quoted bellow are not ordinary in that sense as they were allowed to see what many couldn&rsquo;t. However hardly any one of them was determined enough to come to the state of sincerely renouncing what he described as being harmful. Such is the fate of those who don&rsquo;t enjoy the mercy of a pure devotee.</p>
+
+<p style="text-align: justify;">It is not that devotees will not face what materialist may face. Often they face even worse. But it&rsquo;s the way they understand their faith and its origin which makes them different from those who don&rsquo;t understand the higher cause, the ultimate cause of everything existing, the past and consequently also the future.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: center;"><strong>ABOUT WOMEN AND MEN</strong></p>
+
+<p style="text-align: justify;">&ldquo;A good woman inspires a man, a witty one intrigues him, a beautiful one enchants him, but the assisting and merciful one gets him.&rdquo;<br />
+<span class="letter-note">Victor Hugo 1802-1885</span></p>
+
+<p style="text-align: justify;">&ldquo;In ideal marriage the man must be deaf and the women blind.&rdquo;<br />
+<span class="letter-note">Socrates</span></p>
+
+<p style="text-align: justify;">&ldquo;A women married to an archeologist may consider herself truly lucky. The older she gets the more interesting she may be for her husband.&rdquo;<br />
+<span class="letter-note">Agatha Christie</span></p>
+
+<p style="text-align: justify;">&ldquo;Women and cats do always what they want to do and men and dogs should keep calm and get used to it.&rdquo;<br />
+<span class="letter-note">Robert Anson Heinlein</span></p>
+
+<p style="text-align: justify;">&ldquo;Men do after every sentence a point. Women do a double point.&rdquo;<br />
+<span class="letter-note">Vlasta Burian czech comedian</span></p>
+
+<p style="text-align: justify;">&ldquo;If man retreats then he really retreats. When a women retreats then its only to get greater distance to gain speed for another attack.&rdquo;<br />
+<span class="letter-note">Zsa Zsa Gabor actress</span></p>
+
+<p style="text-align: justify;">&ldquo;Man has his will and women has her strategy.&rdquo;<br />
+<span class="letter-note">Oliver Wendell Holmes 1809-1894</span></p>
+
+<p style="text-align: justify;">&ldquo;A women can make a man to a millionaire&hellip; a man who used to be multi-millionaire.&rdquo;<br />
+<span class="letter-note">Charlie Chaplin</span></p>
+
+<p style="text-align: justify;">&ldquo;Decent women can be recognized as she would rather suffer as imposing herself upon anybody.&rdquo;<br />
+<span class="letter-note">Richard Dehmel 1863-1920</span></p>
+
+<p style="text-align: justify;">&ldquo;It is very difficult to love a women and simultaneously do something worthwhile.&rdquo;<br />
+<span class="letter-note">Lev Nikolajevic Tolstoj</span></p>
+
+<p style="text-align: justify;">&ldquo;High heel shoes were invented by women who was annoyed that men kissed her always on her forehead.&rdquo;<br />
+<span class="letter-note">Christopher Morley</span></p>
+
+<p style="text-align: justify;">&ldquo;In the life of women there are seven phases: infant, girl, young lady, young women, young women, young women, and young women.&rdquo;<br />
+<span class="letter-note">George Bernard Shaw</span></p>
+
+<p style="text-align: justify;">&ldquo;There is only one way how to deal with women. Unfortunately nobody knows it.&rdquo;<br />
+<span class="letter-note">Charlie Chaplin</span></p>
+
+<p style="text-align: justify;">&ldquo;Who has seen an ocean at rage and a women at rage, always has more completion for the husband as for the sea man.&rdquo;</p>
+
+<p style="text-align: justify;">&ldquo;A wise girl should marry a man who just graduated from the military academy. Such man knows how clean up, saw dress, fix lost buttons, wash dishes and make bed nicely. He needs little money, is satisfied only with little rest and follows orders precisely.&rdquo;<br />
+<span class="letter-note">Peter Sellers</span></p>
+
+<p style="text-align: justify;">&ldquo;Some women really don&rsquo;t like each other. But when they slander a third one, a mysterious bond is created amongst them instantly.&rdquo;<br />
+<span class="letter-note">George Bernard Shaw</span></p>
+
+<p style="text-align: justify;">&ldquo;A character of a women can be recognized by observing what she does permit and what not.&rdquo;</p>
+
+<p style="text-align: justify;">&ldquo;In the beginning a women resists mans attack, then she restricts his retreat.&rdquo;<br />
+<span class="letter-note">Oscar Wilde</span></p>
+
+<p style="text-align: justify;">&ldquo;However bad men may think about women, there is not one single women existing who couldn&rsquo;t think about men worse.&rdquo;<br />
+<span class="letter-note">Nicolas Chamfort 1741-1794</span></p>
+
+<p style="text-align: justify;">&ldquo;A man is for a women a mere tool to achieve a child.&rdquo;<br />
+<span class="letter-note">Friedrich Nietzsche</span></p>
+
+<p style="text-align: justify;">&ldquo;If a man wants to request something from somebody, he thinks what to say. Women think in that case what kind of dress she may choose.&rdquo;<br />
+<span class="letter-note">Mark Twain</span></p>
+
+<p style="text-align: justify;">&ldquo;No man has more enemies in this world as the one who is honest and sensitive and who understands persons and things around him as they really are.&rdquo;<br />
+<span class="letter-note">Nicolas Chamfort</span></p>
+
+<p style="text-align: justify;">&ldquo;If a woman makes a man to a donkey, she tells him that he is a lion with an iron will.&rdquo;<br />
+<span class="letter-note">Honore de Balzac</span></p>
+
+<p style="text-align: justify;">&ldquo;A woman will always do what the man wants her to do, provided the man wants what she desires.&rdquo;<br />
+<span class="letter-note">Liz Taylor</span></p>
+
+<p style="text-align: justify;">&ldquo;Compromise is understood by a women as a situation when the man retreats when she is wrong.&rdquo;<br />
+<span class="letter-note">Marcel Pagnol 1895-1974</span></p>
+
+<p style="text-align: justify;">&ldquo;The future worries a woman until she gets married, but the future worries no man until he gets married.&rdquo;<br />
+<span class="letter-note">Mark Twain</span></p>
+
+<p style="text-align: justify;">&ldquo;Women have a great passion for mathematics. They divide their age by two, they multiply the value of their dress, they triple the income of their husbands and they add five years to the age of their friends.&rdquo;<br />
+<span class="letter-note">Marcel Achard</span></p>
+
+<p style="text-align: justify;">&ldquo;Man is lyrical, women is epical and marriage is dramatically.&rdquo;<br />
+<span class="letter-note">Novalis 1772-1801</span></p>
+
+<p style="text-align: justify;">&ldquo;Do you want to know if intelligent men are good husbands? That&rsquo;s not possible. Intelligent men never marry.&rdquo;<br />
+<span class="letter-note">Henry de Montherlant 1895-1972</span></p>
+
+<p style="text-align: justify;">&ldquo;Honorable men do marry fast, wise men never.&rdquo;<br />
+<span class="letter-note">Miquel de Cervantes 1574-1616</span></p>
+
+<p style="text-align: justify;">&ldquo;The most beautiful quality of a woman is silence.&rdquo;<br />
+<span class="letter-note">Seneca</span></p>
+
+<p style="text-align: justify;">&ldquo;If charity of a women is endless so is her anger.&rdquo;<br />
+<span class="letter-note">Talmud</span></p>
+
+<p style="text-align: justify;">&ldquo;A women can forgive anything but the fact that you don&rsquo;t want her.&rdquo;<br />
+<span class="letter-note">Alfred de Musset</span></p>
+
+<p style="text-align: justify;">&ldquo;Even the most honest women is hiding at the bottom of her heart some secret.&rdquo;<br />
+<span class="letter-note">Immanuel Kant</span></p>
+
+<p style="text-align: justify;">&ldquo;Do you want to take revenge on the one who took your wife? Give her to him!&rdquo;<br />
+<span class="letter-note">Sacha Guitry</span></p>
+
+<p style="text-align: justify;">&ldquo;Robbers want from you money or life. Women want both.&rdquo;<br />
+<span class="letter-note">Samuell Butler</span></p>
+
+<p style="text-align: justify;">&ldquo;What you did for a women that she can forget. But she will never forget what you didn&rsquo;t do for her.&rdquo;<br />
+<span class="letter-note">Andre Maurdis</span></p>
+
+<p style="text-align: justify;">&ldquo;Women is like your shadow. Run after her, she will escape. Run from her, she will follow you.&rdquo;</p>
+
+<p style="text-align: justify;">&ldquo;Man wants to be the first love of a woman and women want to be the last love of a man.&rdquo;<br />
+<span class="letter-note">Victor Hugo</span></p>
+
+<p style="text-align: justify;">&ldquo;If you want to be happy with a man you must have for him lots of understanding and little love. If you want to be happy with a woman, you must have for her lots of love and give up the hope to understand her.&rdquo;<br />
+<span class="letter-note">Andre Maurois</span></p>
+
+<p style="text-align: justify;">&ldquo;The tragedy of women is that at the end they all look like their mothers.&rdquo;<br />
+<span class="letter-note">Oscar Wilde</span></p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/questions-and-answers/how-to-be-and-simultaneously-not-to-be-in-this-world" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="181">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/questions-and-answers?page=8"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

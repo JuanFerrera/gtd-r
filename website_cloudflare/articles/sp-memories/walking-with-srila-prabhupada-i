@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Walking with Srila Prabhupada I
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=4">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/sp-memories?page=13">Remembering Śrīla&nbsp;Prabhupāda</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Walking with Srila Prabhupada I</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/234_Walking-with-SP-I.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">18 Apr 2021</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="margin-bottom: 0cm; text-align: center;"><span style="font-size:11px;">Morning walk with Srila Prabhupada, Manidhara das in the back.</span></p>
+
+<p style="margin-bottom: 0cm; text-align: center;">&nbsp;</p>
+
+<p style="text-align: justify;">In 1974, the year I got initiated by Srila Prabhupada during His visit in Germany, Srila Prabhupada followed His daily routines, which included daily morning walks.<br />
+Every day a small band of selected devotees followed Srila Prabhupada at early morning hours, trying to keep pace with His swift step, eagerly listening to His spontaneous comments filled with wit, never ending wisdom and His amazing observations.</p>
+
+<p style="text-align: justify;">Being just two years on sankirtan, becoming one of Srila Prabhupada&#39;s leading book distributors, I felt unqualified to push myself into the front ranks of the walking devotees, and so I remained mostly in the back, feeling amazingly blessed to be so close to Srila Prabhupada. Most of my life I spent serving His Divine Grace in the form of vani, service in the form of His instructions, and so this vapu form, service in direct personal association, was so precious.</p>
+
+<p style="text-align: justify;">Every second being spent with Srila Prabhupada, remained engraved in my mind and heart in awareness how easily things can change and how Krsna in the form of Time continuously removes whatever we consider permanent. It was only one morning walk I was allowed to be part of, and it became inseparable part of my eternal identity.</p>
+
+<p style="text-align: justify;">It was a sunny morning as Srila Prabhupada walked through the field surrounding Schloss Rettershof, a small castle devotees rented, proudly making their stand in midst of&nbsp; rather surprised Germany. Country, which was at that time far from welcoming spirit towards immigrants of any sort, especially those like us who came to point the illusions out their leaders and followers were covered by. At this time, to see a devotee walking in dhoti or sari on German street caused heavy commotion amongst the public and a possible visit at the local police station. The level of prosecution we faced as Srila Prabhupada&#39;s preaching warriors in those days is hard to imagine by the German devotees today.</p>
+
+<p style="text-align: justify;">Walking down the path through the fields Srila Prabhupada commented, that we should attempt to buy as much land as possible, grow our own grains and protect cows.</p>
+
+<p style="text-align: justify;">In those days, to get a castle was somewhat a must for any European ISKCON leader, and so following the example of castles being acquired&nbsp; in France, Spain, Belgium and UK, our leaders in Germany also concentrated all the preaching to this rather remote estate by closing down most of the small preaching centers in the cities. That has proven to be a big mistake later on, as the presence of such castle and its maintenance not only diminished our preaching potential, but also provoked even greater fury and envy on the side of German authorities. The castle became a symbol of the illegally enriched sect who indulges constantly in criminal activities.</p>
+
+<p style="text-align: justify;">Srila Prabhupada liked&nbsp; castles, but only when they didn&#39;t hamper the preaching spirit and being at the heart of FARMING COMMUNITIES served as assets to accommodate preachers and Deities of the Lord. Otherwise He urged us to be cautious about the danger ending&nbsp; to be bogged down by maintenance of such large and often impractical buildings.</p>
+
+<p style="text-align: justify;">But all this was forgotten on this sunny morning, where Srila Prabhupada finally entered a small neighboring village where most of its inhabitants were still sleeping soundly. To our surprise He suddenly stopped and went into somebody&#39;s private garden. He went just a few meters into the property and turned off a dripping water tub, which was installed there. &ldquo;They are wasting water&ldquo; was His comment. Always &bdquo;thinking big&ldquo; but never forgetting to pay attention to the smallest detail, especially for the devotees who served Him so selflessly. Srila Prabhupada always stunned us with His awareness and carefulness based on the realization that EVERYTHING is Krsna&#39;s property.</p>
+
+<p style="text-align: justify;"><br />
+Finally, before entering the temple again, Srila Prabhupada stopped on dirt road and pointed with His cane towards a small dead mouse lying there. &ldquo;This is mrtyuloka, planet of death,&ldquo; He commented and walked then into the temple room where He gave most wonderful lecture.<br />
+&nbsp;</p>
+
+<p style="text-align: justify;">It was the only walk in my life I could walk so close to a pure devotee, our Srila Prabhupada, who changed the lives of so many and whose lotus feet left behind footprints so large, that we still try to understand today the never ending dimensions of the legacy He entrusted to us.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">In the last fifty years I got the opportunity to listen over and over to Srila Prabhupada&#39;s lectures, discussions and His recorded morning walks. In my mind I thanked over and over again those devotees who were holding the microphone as close they could to Srila Prabhupada&#39;s lotus mouth, herewith enabling us to walk with Srila Prabhupada as well. There were periods in my life I had only Srila Prabhupada&#39;s voice as a source of my survival, nobody else was there, just Srila Prabhupada and Krsna in the heart as anumanta and upadrastha, the observer and permission giver. Listening intensely in such times filled with loneliness and grief, I felt very intimate to be with His Divine Grace in terms of being able not only to listen WHAT He said, but also HOW He said it. I traveled with Him virtually, chronologically following His path, marveling how perfectly He could present Krsna Consciousness according to time, place and circumstances.</p>
+
+<p style="text-align: justify;">As if being directly&nbsp; present, Srila Prabhupada&#39;s comments suddenly addressed my momentarily situation. Listening constantly to His voice, suddenly He said what I needed to hear at a given moment, and I sometimes couldn&#39;t restrain my tears when tasting the solitude enforced upon me by occasionally imploding ISKCON world. Srila Prabhupada was sometimes so close by dint of His voice, that I didn&#39;t have to dream about Him, I didn&#39;t have to remember Him, He was simply HERE.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Other periods arrived, demanding my attention being also divided to other duties, which the living in this world commands, but having Srila Prabhupada&#39;s voice following me always in the back of my mind enabled me to go on.</p>
+
+<p style="text-align: justify;">It is not a long time ago while working temporarily in order to keep my body and soul together (something I could only recommend to some of our leaders :-), while driving in the car with my &bdquo;boss&ldquo;, the chief manager of a prominent&nbsp; car rental company in Czech Republic. Man who somehow always showed great deal of respect for me, not knowing my identity as devotee, he suddenly said, &bdquo;What do you think, shall I call you now Manidhara das instead the name you have in the passport?&ldquo;<br />
+I&nbsp; smiled and said, &bdquo;Manidhara sounds better.&ldquo; Then he told me how he googled words in my e-mail, which includes my spiritual name and ended&hellip; reading my web page.<br />
+Indeed, there was nothing to hide, I am the Manidhara das, disciple of Srila Prabhupada. The man said: &bdquo;I always knew that there is another one than the one who lives with us here, and I always admired how discretely and patiently you waited if there is some opportunity to share with us the incredible wisdom which was given to you. I guess people have to ripen to the stage when they can really understand what is said to them, don&#39;t they?&ldquo; I was rather surprised about the level of understanding this simple man demonstrated, and so I repeated to him the old Czech proverb &ldquo;where there is no way to give advice, there is no way to offer a help&ldquo;.</p>
+
+<p style="text-align: justify;">We didn&#39;t go much beyond this introductory discussion, but seeing how this man&#39;s life is filled with challenges and how he carries with him a growing distaste towards any attempt to enjoy what others try to enjoy, I would go that far to give him a chance to become one day a devotee.</p>
+
+<p style="text-align: justify;">Whatever I have to give comes from Srila Prabhupada. I remember every day what kind of dreaming (very artistic:-) introvert I would become without being blessed by His Divine Grace and my godbrothers, who exposed me to uncompromised preaching and years of book distribution being spent on the street of the Kali Yuga cities.</p>
+
+<p style="text-align: justify;">Walking through the hell while listening to Srila Prabhupada&#39;s voice made me convinced that indeed, one can survive in this world of cheaters and cheated in decent fashion, keeping one&#39;s dignity and conscience protected by dint of Srila Prabhupada&#39;s instructions.</p>
+
+<p style="text-align: justify;">I never forgot the day when we, the young brahmacaries, were sitting in our sankirtan van&nbsp;in the morning sometime in 1975, pulled on the side of the street in some small German town, eating our muesli oats, and finally packing our sankirtan bags with books in order to dive again into the ocean of conditioned souls.</p>
+
+<p style="text-align: justify;">That morning we heard Srila Prabhupada lecturing from Seventh Canto of Srimad Bhagavatam, describing how Lord Nrsimhadeva finally blessed Prahlad. Putting His paw on Prahlada&#39;s head the Lord said, &bdquo;My dear Prahlad, don&#39;t worry, the demon is dead, everything will be all right.&ldquo; Everybody sitting in the van stopped and we listened intensely to Srila Prabhupada&#39;s voice. His voice flowed like dark honey of the forest bees, smoothening our hearts, reassuring us of the Lord&#39;s protection. We were all crying and while tears flowed down our cheeks we packed the last books and went out on the street. Still with tears in my face I turned to the first karmi passing by, offered him a book and he bought it immediately without even asking what it was.</p>
+
+<p style="text-align: justify;">So powerful is Srila Prabhupada&#39;s voice and so powerful is sravanam, kirtanam, SRILA PRABHUPADA smaranam process of Krsna Consciousness.</p>
+
+<p style="text-align: justify;">Here is a short glimpse of Srila Prabhupada as I listened to His walks in the last weeks, repeatedly amazed about the detailed comments He made. I keep a small hand written dictionary in terms of the&nbsp; issues He comments on, including the timings.</p>
+
+<p style="text-align: justify;">I can only recommend this to any devotee. There is an ocean of wisdom flowing from Srila Prabhupada&#39;s lotus mouth when one listens carefully. He said everything we need to know and He showed us everything in terms how we can follow.<br />
+Nothing else is needed.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/sp-memories/walking-with-srila-prabhupada-i" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="234">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/sp-memories?page=13"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

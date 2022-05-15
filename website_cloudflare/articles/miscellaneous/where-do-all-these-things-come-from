@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            WHERE DO ALL THESE THINGS COME FROM?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=9">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>WHERE DO ALL THESE THINGS COME FROM?</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">03 Apr 2019</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">To understand the origin of everything is the real purpose of intelligence</font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">.. provided it is given and properly used.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">One of the most amazing symptoms of Krsna&rsquo;s illusion, imposed upon those who sincerely want to forget Him, is that the conditioned souls never develop this very essential desire to investigate regarding the origin of everything surrounding us.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Where does life come from?</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Who are we and where we are going? </font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Where does the pain come from and what is its purpose?</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">These and so many other truly essential questions don&rsquo;t concern the conditioned souls, which seem to be fascinated by the ever repetitive mechanism to eat and evacuate, to search out the objects of sense gratification and get frustrated by the fact that they cannot be enjoyed to the extend we planned. Ending being angry and confused by so many varieties of illusions which are appearing in response to our desire to enjoy independently by the Supreme Lord, just to test our sincerity to turn to Him.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Only due to the appearance of Srila Prabhupada on the scene of Maya&#39;s illusory theatre, some at least woke up and started to ask questions to be asked, searching for knowledge to be known.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Again and again is truly amazing how we tend to accept things without asking about their origin. When ignorant about the cause, one will be naturally confused about the effect. Like a small kitten fascinated about a piece of paper tied to the end of the string, moving, dangling in front of its nose, the little creature will be jumping up and down, responding to the movement of the paper, never asking who is holding the string.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Finally, angry and frustrated, the conditioned soul will declare that there </font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">is no origin and everything is coming about by &ldquo;chance&rdquo;. This very same word brought instant fury into Srila Prabhupada&rsquo;s eyes, as it is not only demonstrating the stupidity of such a &ldquo;preacher&rdquo;, but also his arrogance to establish it as the final fact.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">It was exactly here where Srila Prabhupada opposed and clearly proved that life comes from life; everything has its either primary or secondary creator and it is caused by the Supreme Lord, who is the Owner, the Cause, the Maintainer, and the Final Enjoyer of everything. Envy is a terrible quality and the cause of our covering, which prohibits us to see things as they are, and to see where they do come from.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Every day we are confronted with issues needed to be clarified and every day we are attempting to bring some knowledge into our lives. But failing to draw from the right source, we fall repeatedly prey to illusion as there is finally no material remedy for material cause. As matter of fact, one &ldquo;solution&rdquo; is often a cause of multiple problems to follow.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Even some are, materially spoken gifted, from spiritual point of view we are surrounded by profound ignorance.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">History of mankind is filled with charismatic leaders who finally proved to be a cause of destruction of so many. Greatest crimes and atrocities were done in name of&nbsp;&ldquo;serving the nation&rdquo;. Greatest disasters occurred, when those initiating them acted </font></font></font></font><font color="#000000"><font face="Helvetica, serif">&ldquo;</font></font><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">in sense of duty&rdquo;. The nation, being extended concept of our selfishness, and the duty, being established by exploitative ruthless dictators, proved to be ungrateful masters, finally covering and defeating the real purpose of life.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">And so: Where do our leaders come from? (Both materially and spiritually spoken?)</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Not many care to know. The principles of guru parampara are easily covered by those who are shameless and bold enough, powered by their arrogance. That &quot;the small man will follow the big one&rdquo; is a principle; simple people, most of us, do follow automatically.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">We will never be one and the same; one will always dominate the other by dint of his crooked intelligence, or by dint of his authorized leadership.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Growing up in ISKCON and growing older in terms of the age of our body, more questions may appear, questions we never asked while being passionate, euphoric and young.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Where do the gurus come from? Hardly any initiate asks or bothers to know.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Papers with questions may be filled in as if making some theoretical driving school test.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">But can the candidate drive already? That requires practice. Therefore, Srila Prabhupada defined initiation as being the beginning, not the end.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">What are the principles a guru must follow?</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Covered by a charisma of a particular leader many will forget to ask what is to be asked, simply accepting initiation for social and emotionally stimulating purposes.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">What is the function of the GBC? Most accept the fact that it exists without knowing its real purpose or function, simply accepting &ldquo;that Srila Prabhupada wanted it&rdquo;.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">One of the poor minded fellows told me even once that &ldquo;better to have a bad general than no general&rdquo;. Srila Prabhupada would never accept such foolishness. After all, so many wars were lost by a &ldquo;bad general&rdquo; being in command. He preached about leaders and mis-leaders.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Things are &ldquo;suddenly here&rdquo;, established in front of our eyes and we seem to be </font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">taught to follow blindly, threatened by strong sastric statements regarding the offences, which can be committed. But what is an offence? Hardly anybody is asking this question either.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Srila Prabhupada defined serious concern formulated as a question being freed from any offence. He Himself demonstrated how strong objection can be formulated in this way. However it can be easily demonstrated how in the ISKCON world a question addressing the origin of things, being presented in decent way, is already formulated as an offence.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">The one pointing in concerned way to an evident problem is designated as being the problem himself. This is the proof that occasionally we have the wrong men installed as leaders. A fool becomes angry when challenged with questions he has no answer for.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">A real brahmana will get excited and investigate. Inspired, he will finally bring forth relevant sastric solutions to the problem, thanking the one who instigated such productive discussion.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Only dogmatic ruthless dictators act in a threatening way attempting to intimidate the one who dares to ask what they don&rsquo;t want to answer. Growing up in a totally abusive communistic system, my memories are still fresh enough to remember the fear and the passivity such arrogant demons can spread. Fascists aim their threatening glances on the ones who dare to question their identity, accusing them to undermine &ldquo;their democracy&rdquo;. Great propagators of love and peace accuse angrily those who ask about the real nature of love and peace, calling them to be &ldquo;anarchistic elements&rdquo;. Those who are hungry preach only about food, and those who are filled with hatred preach only about love. A well-fed man or a man filled with real love doesn&rsquo;t need to speak much about it, he simply acts in this way.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">A man will be finally recognized by his actions and not by his words.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">History of mankind provides plenty of examples of such &ldquo;we are the final holders of the truth&rdquo; dictators. They have easy time as the majority, the &ldquo;democratically voting&rdquo; flock of &ldquo;fools and rascals&rdquo;, as Srila Prabhupada used to designate these greatest of all political parties, helps them to win the elections.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Bereft of any real intelligence, the mass of bodies marching on the streets will follow, ready to lynch anybody who dares to swim against the stream. Such a mass of &ldquo;liberal fanatics&rdquo; is the greatest &ldquo;weapon of mass destruction&rdquo; for any dictator to control.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Whoever dares to ask an undesirable question, such &ldquo;opponent&rdquo; will be instantly ostracized from the loyal mass of fools, which is simply afraid or simply lazy to investigate into truth.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Most prefer to be &ldquo;comfortably situated&rdquo; with the seemingly easily digestible lie.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Such mentality comprises the majority, and the minority, those voicing some sort of intelligent concern, are driven into exile. When one is proceeding through the different sections of varnasrama society, the higher one goes, the smaller number of a particular varna members will be there to meet. Brahmanas are few, and even ksatriya mentalities are rare to encounter. Some crooked vaisya type of demons freed from any brahminical surveillance are dominating the majority of voting sudras, such is the situation of these Kali Yuga days. Indeed, stupidity is the dominating voting power and those </font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">encharged know it. </font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">For them humans are just numbers and a mass of bodies to be packed daily into some transportation vehicles, so they can work for the benefit of their often unseen masters. Their arrogance is camouflaged by fancy pseudo-humanistic vocabulary. Truth is for them &ldquo;something which can be defined according to the need of particular time&rdquo;, so said Mr. Goebbels. They have no problem to authorize massive killing of embryos, what to speak </font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">of killing of billions of innocent animals, as they are taking their daily bath in an ocean of hypocrisy, boasting in the public media about their social and altruistic concerns.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Srila Prabhupada challenged us to ask questions we didn&rsquo;t know. And so He asked the relevant questions and gave the relevant answers Himself, until we woke up to ask ourselves about the essential issues at hand. How can one answer questions, which were never asked? This is the prevailing dilemma of every preacher. And so Srila Prabhupada chanted and distributed prasadam until some were finally able to ask some relevant questions. His books are filled with questions and answers, as matter of fact they are based on this exchange of the one who asks, and the one who answers. Therefore, Srila Prabhupada&rsquo;s books are so &ldquo;brain and devotion stimulating&rdquo;, while material literature is brain deafening, simply describing various features of temporary illusions.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Still we should ask questions and in Krsna Consciousness we find answers. Being finally established on level of perfect questions and perfect answers we stand a chance to make some tangible progress.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Charisma can be given even to a demon. As matter of fact, the charisma of demonic leaders is so fascinating that in full knowledge about their atrocities people never get tired to hear about them. And so the very same people, not taking the warning, never learning the lesson, inspired by their own stupidity, never get tired to follow another brand of demonic leadership in hope their mediocre desires for basic sense gratification will get satisfied.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Spiritual life is not meant to duplicate the same passiveness and stupidity installed into us from the very childhood. We are supposed to grow up and ask relevant questions.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Personally, on basis of the knowledge I received from Srila Prabhupada, I proudly declare my obstinacy to accept blindly what is given to me. I am coming from a generation of potential anarchists. Anarchy is another cheating devise of the illusory energy of the Lord, as the conditioned soul will&nbsp;accept leadership anyway </font></font></font></font></font></font></span></span><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font face="Times New Roman, serif"><font size="3"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">and follow the given line finally.</font></font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Whatever great anarchist does, small anarchist will follow.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font size="3"><font style="font-size: 13pt;">The only question and the only minute freedom we have is to ask who the real big man is, what should be his qualifications and what is to be followed.</font></font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">Krsna gave us all informations we need. The only thing He will never impose upon us is the final question -&nbsp;if we want to take the knowledge He offers, or not. When choosing to remain in profound illusion, simply mesmerized by the effect, never asking about the cause, our reward will be eternal misery. In ignorance, there is no happiness and there is no satisfaction.</font></font></font></font></span></span></p>
+
+<p style="text-align: justify; margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">When asking finally the real questions and receiving real answers, our life will be symptomized by happiness and satisfaction.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm;"><span style="background: rgb(255, 255, 255);"><span style="line-height: 100%;"><font color="#000000"><font face="Helvetica, serif"><font size="3"><font style="font-size: 13pt;">The choice is ours.</font></font></font></font></span></span></p>
+
+<p style="margin-bottom: 0cm;">&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/where-do-all-these-things-come-from" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="192">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=9"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

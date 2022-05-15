@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Be What You Are
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=11">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Be What You Are</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">08 Mar 2020</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">SB. 8.2.30</p>
+
+<div class="Verse-Text" style="text-align: justify;">tato gajendrasya mano-balaujasāṁ</div>
+
+<div class="Verse-Text" style="text-align: justify;">kālena dīrgheṇa mahān abhūd vyayaḥ</div>
+
+<div class="Verse-Text" style="text-align: justify;">vikṛṣyamāṇasya jale &rsquo;vasīdato</div>
+
+<div class="Verse-Text" style="text-align: justify;">viparyayo &rsquo;bhūt sakalaṁ jalaukasaḥ</div>
+
+<div class="Verse-Text" style="text-align: justify;">&nbsp;</div>
+
+<div class="Verse-Text" style="text-align: justify;">TRANSLATION by HDG Srila Prabhupada:</div>
+
+<div class="Verse-Text" style="text-align: justify;">&nbsp;</div>
+
+<div class="Verse-Text">
+<div class="Translation" style="text-align: justify;">Thereafter, because of being pulled into the water and fighting for many long years, the elephant became diminished in his mental, physical and sensual strength. The crocodile, on the contrary, being an animal of the water, increased in enthusiasm, physical strength and sensual power.</div>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<div class="Verse-Section" style="text-align: justify;">PURPORT by HDG Srila Prabhupada:</div>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<div class="First" style="text-align: justify;">In the fighting between the elephant and the crocodile, the difference was that although the elephant was extremely powerful, he was in a foreign place, in the water. During one thousand years of fighting, he could not get any food, and under the circumstances his bodily strength diminished, and because his bodily strength diminished, his mind also became weak and his senses less powerful. The crocodile, however, being an animal of the water, had no difficulties. He was getting food and was therefore getting mental strength and sensual encouragement. Thus while the elephant became reduced in strength, the crocodile became more and more powerful. Now, from this we may take the lesson that in our fight with maya we should not be in a position in which our strength, enthusiasm and senses will be unable to fight vigorously. Our Krsna consciousness movement has actually declared war against the illusory energy, in which all the living entities are rotting in a false understanding of civilization. The soldiers in this Krsna consciousness movement must always possess physical strength, enthusiasm and sensual power. To keep themselves fit, they must therefore place themselves in a normal condition of life. What constitutes a normal condition will not be the same for everyone, and therefore there are divisions of varnasrama - brahmana, ksatriya, vaisya, sudra, brahmacarya, grhastha, vānaprastha and sannyasa. Especially in this age Kali-yuga it is advised that no one take sannyasa.</div>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<div style="margin-top: 0.125in;">
+<div class="Verse-in-purp" style="text-align: justify;">asvamedham gavālambhaṁ<br />
+sannyasam pala-paitrkam<br />
+devarena sutotpattiṁ<br />
+kalau panca vivarjayet&nbsp;&nbsp;</div>
+</div>
+
+<div class="VerseRef" style="text-align: justify;">(Brahma-vaivarta Purana)</div>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<div class="After-Verse" style="text-align: justify;">From this we can understand that in this age the sannyasa-asrama is forbidden because people are not strong. Śrī Caitanya Mahaprabhu showed us an example in taking sannyasa at the age of twenty-four years, but even Sarvabhauma Bhattacarya advised Śrī Caitanya Mahaprabhu to be extremely careful because He had taken sannyasa at an early age. For preaching we give young boys sannyasa,, but actually it is being experienced that they are not fit for sannyasa. There is no harm, however, if one thinks that he is unfit for sannyasa; if he is very much agitated sexually, he should go to the asrama where sex is allowed, namely the grhastha-asrama. That one has been found to be very weak in one place does not mean that he should stop fighting the crocodile of maya. One should take shelter of the lotus feet of Krsna, as we shall see Gajendra do, and at the same time one can be a grhastha if he is satisfied with sexual indulgence. There is no need to give up the fight. Śrī Caitanya Mahaprabhu therefore recommended, sthane sthitah sruti-gatam tanu-van-manobhih. One may stay in whichever asrama is suitable for him; it is not essential that one take sannyasa. If one is sexually agitated, he can enter the grhastha-asrama. But one must continue fighting. For one who is not in a transcendental position, to take sannyasa artificially is not a very great credit. If sannyasa&nbsp;is not suitable, one may enter the grhastha-asrama and fight maya with great strength. But one should not give up the fighting and go away.</div>
+
+<div class="After-Verse" style="text-align: justify;">&nbsp;</div>
+
+<div class="After-Verse" style="text-align: justify;">End of Srila Prabhupada&#39;s purport.</div>
+</div>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<div style="text-align: justify;">Those who visit and revisit this web page may soon find out&nbsp;that in various forms I often return to a theme dominating my life,&nbsp;a theme I found absolutely essential for upkeep of one&#39;s own&nbsp;sanity.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">All lunatics of this world have one thing in common: they believe&nbsp;to be somebody they are not. Strictly from spiritual point of view, from Krsna&#39;s point of view, we are all lunatics while identifying&nbsp;ourselves in different forms with false designations.These designations are all part of one big misunderstanding -&nbsp;our firm believe that we are this body.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">The fact that we are not this body can be found&nbsp;repeatedly described in great detail&nbsp;in the pages of Srila Prabhupada&#39;s books, and can be heard directly from Him in so many lectures.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">There are those rare souls who instinctively seek a way out of the maze of illusory designations,&nbsp;looking for&nbsp;their real identity.</div>
+
+<div style="text-align: justify;">Amongst thousands of those some may even come to understand that we are not this body, however they may be allured to identify themselves with something they are not again. Maya is a pure devotee of the Lord, she can join even&nbsp;Srila Prabhupada&#39;s movement just to test our sincerity, and take out those who want to have an &bdquo;innovated&ldquo; version of what was given by the Founder Acharya. Such shadow like movements and relligions are plenty in Kali Yuga and they come and go, demolished by time.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">How come that after years of spiritual practice&nbsp;still we see&nbsp;some &bdquo;senior vaisnavas&ldquo; being dominated by mentality they seek to renounce?</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">The reason is always the same: they are not properly situated.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">So many rounds of japa being chanted, so many lectures heard, Srila Prabhupada&#39;s books being read several times...and still even an old man can become a full time fool. How come?</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Once again, it is easy to come to theoretical understanding, jnana, repeating like a parrot, but the ultimate test comes when temptation arrises. Then vijnana, realized knowledge will be revealed...or not revealed.</div>
+
+<div style="text-align: justify;">This life is very short to cultivate Krsna consciousness properly, but it is long enough to fall in maya or illusion at any point.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">And so being rightly situated is an immediate and absolute need.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">How many leaders, friends and those I admired I have lost! They were all very special souls, being&nbsp; dedicated to Srila Prabhupada, but after His departure they came to understand they were something they were not. Sometimes in name of duty, sometimes in name of &bdquo;mercy&ldquo; they learned to accept the unacceptable, and their lives became polluted by dint of cheap flattery of their followers, some&nbsp;fame arriving at their doors, or simply by reawakening of their dormant unpurified material desires.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">I knew those who cried for help, perfectly understading that they are in a situation where in name of institution they came to doubt, had to cheat the public day by day while being somebody they were not. But under social pressure they were forced to continue to watch their lives to become a farce, a daily theatrical perfomance, playing a role they came to despise so much.</div>
+
+<div style="text-align: justify;">Finally Krsna Himself had to take action to remove them from this&nbsp;cinematic display of falsity, and the real nature of their conditioning became evident.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">They were heroes loosing&nbsp;a battle they joined, initially opposing the enemy they finally came to embrase. How could this happen? Once again, without exception, they were wrongly situated. What is food for one may be a poison for&nbsp;another. And so even they headed for the skies, the higher they were placed, the harder they had to fall.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Srila Prabhupada, writing His purports to the Eight Canto of Srimad Bhagavatam with His movement flourishing already for some years, saw the troubles His disciples were facing. Naturally His commentaries reflect the situation at hand.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">The readers of this text are strongly advised to read Srila Prabhupada&#39;s purport to the text 30 in Second Chapter of Eight Canto of Srimad Bhagavatam, a text which became deeply engraved in my heart .To minor degree I also faced situations where I was offered posts and designations within&nbsp;Srila Prabhupada&#39;s movement, which might have proven to be simply disastrous for myself. Some of my godbrothers took&nbsp;those offers and somehow survived (even most of them don&#39;t look truly happy :-), some in front of my eyes got&nbsp;destorted to such a degree that association with them became almost impossible.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">And so again I tried to keep my head down and stay within varna and consequent asrama boundaries pertaining to the nature of my body. By Srila Prabhupada&#39;s inconceivable mercy&nbsp;I can still write this text today, and I can look back seeing the mistakes I have done, and say, &bdquo;well at least I didn&#39;t made this one and didn&#39;t became somebody I am not&ldquo;.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">To be false consumes immense amount of energy. First one has to concoct one&#39;s identity, and then protect it from those who may possibly expose oneself as a cheater. Consequently one surrounds oneself only with those who one can dominate, meaning those who are less intelligent. But fools act foolishly, lacking any discrimination, and so one becomes attacked by the foolishness of one&#39;s own followers while fearing the constructive criticism of those of higher intelligence.&nbsp;And so the pain visible in faces of some celebrated chanters of the Holy Name indicates only one thing: despite all the chanting, they are still not properly situated.</div>
+
+<div style="text-align: justify;">Tormented by their own chanting they defy the effects of vibrating the Holy Name, which brings us to the point of heighten introspection. Such fools who try to stay dry while pouring water over them are only to be pitied.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Even worse, such tormented preachers of misery urge their followers to follow the same painful path, reconfirming their falsity by teaching others to be false as well. The result is collective misery, so obvious to the public eye. Who wants to join a movement of self tormented individuals who may speak highly but live miserably in their own world of self designated illusions?</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Therefore Srila Prabhupada issues firm warning in the sloka mentioned above. By the time writing this particular purport,&nbsp;He already saw some of His newly initiated sannyasis falling down, confused devotees leaving, and even some of His leaders being compromised by maya.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Although&nbsp;desiring to display all the varnas of the Vedic society, He had to face His defeat by seeing His sannyas disciples falling down, followed occasionally by a crew of divorcing grhastas.</div>
+
+<div style="text-align: justify;">And so He urged us&nbsp;repeatedly not to aim for what we are not fit for, but work towards the goal more gradually and progressively.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">In absence of true brahminical leadership only lunacy prevails, and so it is an urgent need to be solidly situated, regardless of one&#39;s&nbsp;economical and social situation. As we saw demonstrated many times, a simple devotee, earnestly surviving and working for his livelihood in best manner possible, has more long term chance for spiritual survival&nbsp;than corrupted leader consuming whatever was given to him in good faith by innocent followers.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Those who seek dignity, and freedom&nbsp;from hypocrisy may not be many, but they are the true recipients of Lord&#39;s mercy and the blessings of the guru parampara. Srila Prabhupada&#39;s movement may be in its essence small, but Srila Prabhupada stressed&nbsp;its quality, not quantity. Quality starts by being rightly situated, as much the correctness of a mathematical calculation starts by understanding that one&nbsp;plus one&nbsp;equals two. When mistakes are made in primary mathematics, whatever one may add or calculate additionally, is naturally wrong.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">And so to be rightly situated, both in spiritual and material terms is the art to be equipped to oppose maya&#39;s trickery. Those who are sincere at heart will understand this type of logic. Those who incline to lie and cheat the public will become fearful and aggitated when hearing such words. But those dedicated to Truth will never be discouraged to follow the righteous path, even those in garbs of vaisnavas may threaten them by misplaced sastric quotes, calling them offenders.</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">Many come and many may leave, but those who are truly&nbsp;sincere will stay.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="" src="/domains/manidharadas.com/www/images/kcfinder/articles/images/Be%20what%20you%20are.jpg" style="width: 303px; height: 181px;" /></div>
+
+<div>&nbsp;</div>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/be-what-you-are" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="208">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=11"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

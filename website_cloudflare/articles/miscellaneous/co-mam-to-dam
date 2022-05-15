@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Co mám, to dám...
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=12">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Co mám, to dám...</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/221_Co-mam-to-dam.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">21 Dec 2020</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="margin-bottom: 0cm; text-align: justify;">Proč by tato webov&aacute; str&aacute;nka měla m&iacute;t tak&eacute; česk&eacute; př&iacute;spěvky?</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Důvody jsou různ&eacute;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">V Čech&aacute;ch se je&scaron;tě poř&aacute;d nach&aacute;zi velk&yacute; počet lid&iacute;, kteř&iacute; neovl&aacute;daj&iacute; angličtinu tak, jako v jin&yacute;ch zem&iacute;ch. Proč jim nevyhovět... Internetov&eacute; automatick&eacute; překl&aacute;dac&iacute; programy mohou opravdu překvapit, zvl&aacute;&scaron;tě co se t&yacute;če v&yacute;razů, kter&eacute; použ&iacute;vaj&iacute; oddan&iacute; - nejsou na ně připraveny. (Třeba &bdquo;swami&ldquo;, muž ve stavu konečn&eacute;ho odř&iacute;k&aacute;n&iacute;, může b&yacute;t překladačem přeloženo jako &bdquo;swamp&ldquo;, což v če&scaron;tině znamen&aacute; &bdquo;bažina&ldquo; :-)</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">A pak je zde je&scaron;tě <span style="background: transparent">jeden p&aacute;dn&yacute; důvod,</span> a to je n&aacute;zor &Scaron;r&iacute;ly Prabhup&aacute;dy k &bdquo;importov&aacute;n&iacute; oddan&yacute;ch&ldquo;. Jistě, v&scaron;ichni v&iacute;me, že nejsme toto tělo. Ano, v&scaron;ichni v&iacute;me, že hnut&iacute; &Scaron;rily Prabhup&aacute;dy je mezin&aacute;rodni hnuti, a tak&eacute; v&scaron;ichni v&iacute;me, že &Scaron;rila Prabhup&aacute;da založil toto hnut&iacute; v Americe a odtamtud posl&eacute;ze rozes&iacute;lal kazatele do cel&eacute;ho světa. S&aacute;m neust&aacute;le cestoval, a to do t&eacute; m&iacute;ry, že neust&aacute;l&yacute;m stř&iacute;d&aacute;n&iacute;m časov&yacute;ch z&oacute;n a podneb&iacute; jistě urychlil z&aacute;nik sv&eacute;ho již st&aacute;rnouc&iacute;ho těla.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Udělal to pro n&aacute;s, obětoval se pro n&aacute;s a oček&aacute;val, že uděl&aacute;me pro druh&eacute; to sam&eacute;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Osobn&iacute; př&iacute;tomnost kazatele nikdy nemůže b&yacute;t zcela nahrazena webov&yacute;mi str&aacute;nkami, e-maily a jinou digit&aacute;ln&iacute; komunikac&iacute;. Jak v&iacute;me, ve světě internetu nejsou nastaveny mor&aacute;lni hranice. V osobn&iacute;m kontaktu vypad&aacute; soci&aacute;ln&iacute; interakce zcela jinak. Co se nap&iacute;&scaron;e na internetu, by se v př&iacute;m&eacute;m osobn&iacute;m kontaktu sp&iacute;&scaron;e nikdy neřeklo.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Nicm&eacute;ně, jak je to zde na t&eacute;to str&aacute;nce, lep&scaron;&iacute; je něco než nic a tak i zde je dal&scaron;&iacute; pokus b&yacute;t n&aacute;pomocn&yacute; těm, kteř&iacute; maj&iacute; z&aacute;jem sly&scaron;et od &Scaron;rily Prabhup&aacute;dy možn&aacute; něco, co si na ofici&aacute;ln&iacute;ch institučn&iacute;ch str&aacute;nk&aacute;ch nepřečtou.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Ve &Scaron;r&iacute;mad Bh&aacute;gavatamu je jasně ustanoveno, že ten, kdo se považuje za člena komunity, kter&aacute; se zakl&aacute;d&aacute; jen na uspokojen&iacute; tělesn&yacute;ch potřeb, kdo se považuje za občana jak&eacute;hokoliv st&aacute;tu nebo n&aacute;rodnosti, kter&yacute; sleduje stejn&yacute; c&iacute;l, prostě uspokojen&iacute; tělesn&yacute;ch potřeb, ten neoperuje lep&scaron;&iacute; inteligenc&iacute; než kr&aacute;va a nebo osel. Jak často &Scaron;rila Prabhup&aacute;da srovn&aacute;val služby celn&iacute;ků a pohraničn&iacute; str&aacute;že se službami hl&iacute;dac&iacute;ch psů, kteř&iacute; na každ&eacute;ho &bdquo;vetřelce&ldquo; jen &scaron;těkaj&iacute;!</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Na&scaron;e tělesn&aacute; n&aacute;rodn&iacute; identita se může již v tomto, natožto v př&iacute;&scaron;t&iacute;m životě změnit.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Z Američana se stane Rus, z Rusa se stane Američan, ze Žida fa&scaron;ista, z fa&scaron;isty Žid, z černocha běloch a z bělocha černoch. Stač&iacute; jen v okamžiku smrti o na&scaron;em nepř&iacute;teli usilovně meditovat a na&scaron;e př&iacute;&scaron;t&iacute; tělo bude důkazem na&scaron;&iacute; jak z&aacute;porn&eacute;, tak pozitivn&iacute; meditace. Vědom&iacute;, se kter&yacute;m opou&scaron;t&iacute;me toto tělo, určuje na&scaron;e dal&scaron;&iacute; tělo.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Jak jednou řekl &Scaron;r&iacute;la Prabhup&aacute;da: &bdquo;Američan bojuje proti Rusovi, Rus proti Američanovi. V př&iacute;&scaron;t&iacute;m životě se narod&iacute; na opačn&eacute; straně a budou bojovat dal. To je maya, neboli iluze.&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Vědom&iacute; Kr&scaron;ny nem&aacute; materi&aacute;ln&iacute; původ. Aniž bych si to uvědomoval, tak když jsem v roce 1972 do tohoto hnuti vstoupil, automaticky jsem se stal souč&aacute;st&iacute; jak&eacute;si nejenom Evropsk&eacute; unie, ale i celosvětov&eacute; unie, kter&aacute; se naz&yacute;vala ISKCON. Oddan&yacute;ch různ&yacute;ch n&aacute;rodnost&iacute;, kter&eacute; jsem posl&eacute;ze potkal a za kter&eacute; jsem tak&eacute; jako manažer musel převz&iacute;t odpovědnost, bylo bezpočet. V dob&aacute;ch, kdy je&scaron;tě v Bruselu s velkou sl&aacute;vou vznikala tak pokryteck&aacute; Evropsk&aacute; unie (jedin&eacute;, co ji sdružuje, je ekonomick&yacute; z&aacute;jem několika jedinců :-), jsem již byl souč&aacute;st&iacute; projektu, kde zcela nezi&scaron;tně sloužili oddan&iacute; třeba i ze &scaron;estn&aacute;cti n&aacute;rodnost&iacute; na jednom m&iacute;stě.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">V roce 1986, ve &Scaron;v&eacute;dsku, jsem byl souč&aacute;st&iacute; takov&yacute;chto komunit a již tam jsem vn&iacute;mal, že i když nejsme toto tělo a v&scaron;ichni jsme měli v&yacute;hodu siln&eacute;ho a jasně čiteln&eacute;ho duchovn&iacute;ho veden&iacute;, což se o dne&scaron;n&iacute; době ned&aacute; ř&iacute;ci, přesto jsme d&iacute;ky sv&eacute; n&aacute;rodn&iacute; různorodosti čelili určit&yacute;m probl&eacute;mům. Ale kde je siln&eacute; veden&iacute; a oddan&iacute; n&aacute;sleduj&iacute; principy, kter&eacute; dal &Scaron;r&iacute;la Prabhup&aacute;da, tam se nach&aacute;z&iacute; s&iacute;la, prosperita, mravnost, a nakonec i &uacute;spěch. Kde nen&iacute; mravnost a siln&eacute; veden&iacute;, tam převl&aacute;d&aacute; při nejlep&scaron;&iacute;m průměrnost, a pak už jen podprůměrnost, korupce, stagnace, a nakonec rozpad a z&aacute;nik.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">I &Scaron;r&iacute;la Prabhup&aacute;da si byl dobře vědom toho, že pot&eacute;, co Jeho průkopn&iacute;ci &ndash; oddan&iacute;, kteř&iacute; udělali z dne&scaron;n&iacute;ho hlediska těžko uvěřitelnou službu, oddan&iacute;, kteř&iacute; vstupovali do zem&iacute;, kde je&scaron;tě nikdo nikdy nezp&iacute;val Svat&eacute; jm&eacute;no a nečetl ž&aacute;dnou z knih &Scaron;r&iacute;ly Prabhup&aacute;dy, nakonec museli svoji kazatelskou s&iacute;lu prok&aacute;zat t&iacute;m, do jak&eacute; m&iacute;ry inspirovali M&Iacute;STN&Iacute; oddan&eacute;, i když se třeba tito oddan&iacute; nemanifestovali okamžitě.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Jak &Scaron;r&iacute;la Prabhup&aacute;da p&iacute;&scaron;e Brahm&aacute;nandovi dne 2.12. 1969 z Lond&yacute;na:</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&bdquo;...The principle is that they should recruit men locally. Forty years ago when Bon maharaja, my Godbrother, came here, he complained of getting some manpower from India. That is not a good policy that for preaching work one has to get men from another country. One has to create manpower from the local environment. That is success of preaching...&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Překlad:</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&bdquo;...Na&scaron;&iacute;m principem je, že oddan&iacute; by měli b&yacute;t rekrutov&aacute;ni lok&aacute;lně. Před čtyřiceti lety, když sem (do Lond&yacute;na) přicestoval Bon mahar&aacute;dža, ž&aacute;dal (od Bhaktisiddh&aacute;nty mahar&aacute;dže), aby mu byli posl&aacute;ni na pomoc oddan&iacute; (z Indie).</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">To nen&iacute; dobr&yacute; způsob jedn&aacute;n&iacute;, vyžadovat pro kazatelskou činnost pomoc oddan&yacute;ch z jin&eacute; země. Je nutn&eacute; vytvořit podporu z m&iacute;stn&iacute;ho prostřed&iacute;. To je &uacute;spěchem na&scaron;eho k&aacute;z&aacute;n&iacute;...&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">V průběhu pades&aacute;ti let existence ISKCONu bylo znovu a znovu prok&aacute;zano, že těla oddan&yacute;ch a země, ve kter&yacute;ch se narodili, přece jen hraj&iacute; svoji roli. Oddan&iacute; jsou schopni na z&aacute;kladě p&iacute;sem, kter&eacute; ř&iacute;kaj&iacute;, že duchovn&iacute; mistr může přij&iacute;mat ž&aacute;ky z jak&eacute;koliv n&aacute;rodnostn&iacute; komunity, prokazovat sv&yacute;m duchovn&iacute;m vůdcům loajalitu, ale ve sv&eacute;m denn&iacute;m životě přece jenom budou spont&aacute;nně inklinovat ke společnosti těch, kteř&iacute; jsou jim co se t&yacute;če n&aacute;rodnosti bliž&scaron;&iacute;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Že je to jen domněnka? Ale ne, ty země, kde v kazatelsk&eacute;m režimu převl&aacute;daj&iacute; m&iacute;stn&iacute; oddan&iacute;, jako př&iacute;klad může sloužit Rusko nebo Maďarsko, se dodnes prokazuj&iacute; jako nejstabilněj&scaron;&iacute;, co se t&yacute;če &uacute;držby dan&eacute; yatry, neboli m&iacute;stn&iacute;ho ISKCONu.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">S&aacute;m jsem byl ve &Scaron;v&eacute;dsku svědkem, jak se během jednoho t&yacute;dne po p&aacute;du m&iacute;stniho duchovn&iacute;ho vedouc&iacute;ho cel&aacute; přev&aacute;žně importovan&aacute; yatra zhroutila a v&scaron;ichni tito oddan&iacute;, kteř&iacute; nebyli m&iacute;stn&iacute;, se vr&aacute;tili do sv&eacute; rodn&eacute; země a nebo do lokality, kde se c&iacute;tili zabezpečeni. Během jednoho t&yacute;dne jsem st&aacute;l před pr&aacute;zdn&yacute;m chr&aacute;mem. Kdo zbyl, tam dnes přež&iacute;v&aacute; ve stagnuj&iacute;c&iacute;m duchovnim stavu a paběrkuje z toho, co bylo vytvořeno importovan&yacute;mi oddan&yacute;mi.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Oheň vědom&iacute; Kr&scaron;ny může b&yacute;t zažehnut k&yacute;mkoliv, kdo se odd&aacute; misi sv&eacute;ho duchovn&iacute;ho učitele, ale &uacute;držba a dal&scaron;&iacute; v&yacute;voj tohoto ohně, tvorba komunit a zachov&aacute;n&iacute; st&aacute;l&eacute;ho kazatelsk&eacute;ho režimu, to už je v ide&aacute;ln&iacute;m ponět&iacute; &uacute;kol m&iacute;stn&iacute;ch oddan&yacute;ch.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Bohužel oddan&iacute; jsou někdy vychov&aacute;v&aacute;ni k tomu, aby hledali duchovn&iacute; &uacute;toči&scaron;tě v&yacute;jimečně na svat&yacute;ch m&iacute;stech, v Indii, aniž by si uvědomovali, ze P&aacute;n Čaitanya s&aacute;m ř&iacute;k&aacute;, že TAM, KDE JSI, tam by ses měl st&aacute;t duchovn&iacute;m vůdcem m&iacute;stn&iacute;ch obyvatel. Prahl&aacute;da mah&aacute;r&aacute;dža je takov&yacute;m př&iacute;kladem. Narozen v d&eacute;monick&eacute; rodině, syn kr&aacute;le Hiranyakashipua, se nakonec stal duchovn&iacute;m vůdcem d&eacute;monů a jejich jedinou duchovn&iacute; z&aacute;chranou. I když k&aacute;zat k &bdquo;vlastnim lidem&ldquo; m&aacute; sv&aacute; &uacute;skal&iacute;, jak zn&iacute; světsk&eacute; př&iacute;slov&iacute;, že &bdquo;nikdo nen&iacute; doma papežem&ldquo;, stač&iacute; jen cestovat po světe a rychle uskutečn&iacute;me, že ať už se nach&aacute;zej&iacute; kdekoliv, ru&scaron;t&iacute; oddan&iacute; se sdružuj&iacute; předev&scaron;&iacute;m s rusk&yacute;mi oddan&yacute;mi, indičt&iacute; oddan&iacute; s indick&yacute;mi a č&iacute;n&scaron;t&iacute; oddan&iacute; spont&aacute;nně s č&iacute;nsk&yacute;mi oddan&yacute;mi. Vr&aacute;na k vr&aacute;ně sed&aacute; a zat&iacute;m se nena&scaron;el duchovn&iacute; vedouc&iacute;, kter&yacute; by byl schopen nav&aacute;zat kontakt se sv&yacute;mi ž&aacute;ky tak univerz&aacute;ln&iacute;m způsobem jako &Scaron;r&iacute;la Prabhup&aacute;da.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Jak mi kdysi můj GBC, pod jehož veden&iacute;m byly ve &Scaron;v&eacute;dsku přeloženy a v Německu ti&scaron;těny prvn&iacute; česk&eacute; kn&iacute;žky, ř&iacute;kal: &bdquo;Jen Če&scaron;i mohou k&aacute;zat k Čechům, j&aacute; těmto lidem nikdy neporozum&iacute;m.&ldquo;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Če&scaron;i jsou v&yacute;jimečn&iacute; jak sv&yacute;m druhem humoru, tak specifick&yacute;mi soci&aacute;lnimi vztahy, kter&eacute; mohou vzniknout, když jsou du&scaron;e, kter&eacute; se rod&iacute; v určit&eacute; oblasti, vystaveny neust&aacute;l&eacute; okupaci n&aacute;jezdn&iacute;ků ať už materi&aacute;ln&iacute;ho, nebo pseudo-duchovn&iacute;ho r&aacute;zu.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Nakonec se kvůli těmto agresorům uzavřou do sv&yacute;ch komunit, a přestože cestuj&iacute; a někdy i z&aacute;vistivě obdivuj&iacute; jin&eacute;, v ponět&iacute;, že &bdquo;tr&aacute;va je zeleněj&scaron;&iacute; na druh&eacute; straně plotu&ldquo;, přesto se nakonec vracej&iacute; do končin, kde se jejich těla narodila a tam zvl&aacute;&scaron;tě v r&aacute;mci grhasta &aacute;&scaron;ramu nejl&eacute;pe prosperuj&iacute;. Samozřejmě se najdou v&yacute;jimky, vzdyť i můj tělesn&yacute; otec opustil Čechy a identifikoval se sp&iacute;&scaron;e s jinou n&aacute;rodnost&iacute;. To mu v&scaron;ak nebr&aacute;nilo je&scaron;tě poř&aacute;d jednat jako Čech.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Brahmač&aacute;r&iacute; a sannj&aacute;s&iacute; mohou cestovat kdykoliv a kamkoliv. Ale jako absolutn&iacute; men&scaron;ina jsou dnes sp&iacute;&scaron;e v&yacute;jimkou. Oddan&iacute;, kteř&iacute; čel&iacute; v&yacute;zv&aacute;m, kter&eacute; přin&aacute;&scaron;&iacute; rodinn&yacute; život, jsou již v&iacute;ce lokalizov&aacute;ni a ti, kteř&iacute; mohou ž&iacute;t se sv&yacute;mi rodinami kdekoliv, jsou tak&eacute; v&yacute;jimkou.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">S&aacute;m jsem se po p&aacute;du m&eacute;ho GBC ve &Scaron;v&eacute;dsku pokusil se svou &bdquo;&scaron;v&eacute;dskou&ldquo; manželkou ž&iacute;t v Čech&aacute;ch. Nepodařilo se, a tak jsem j&iacute; nakonec pomohl se vr&aacute;tit do &Scaron;v&eacute;dska, i když m&eacute; manželstv&iacute; to nakonec nezachr&aacute;nilo. Důvodů k rozchodu bylo v&iacute;ce než n&aacute;rodn&iacute; různorodost.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Když se mne grhastov&eacute; ptaj&iacute;, zdali je při volbě manželky a nebo manžela nutn&eacute; volit člena stejn&eacute; n&aacute;rodnosti, moje odpověď je, že nutn&eacute; to nen&iacute;. Jako oddan&iacute; bychom měli b&yacute;t vůči těmto tělesn&yacute;m rozd&iacute;lům transcendent&aacute;ln&iacute;, ale zvl&aacute;&scaron;tě v krizov&yacute;ch situac&iacute;ch se prokazuje, že zase tak transcendent&aacute;ln&iacute; ke sv&eacute;mu materi&aacute;ln&iacute;mu okol&iacute; nejsme, a tam může b&yacute;t i tělesn&aacute; &bdquo;stejnorodost&ldquo; ve vztahu n&aacute;pomocn&aacute;. Oddan&aacute; služba jako takov&aacute; nez&aacute;vis&iacute; na materi&aacute;ln&iacute;ch okolnostech, ale na&scaron;e je&scaron;tě přetrv&aacute;vaj&iacute;c&iacute; podm&iacute;něn&iacute; n&aacute;m nastavuje určit&eacute; parametry, podle kter&yacute;ch je radno se ř&iacute;dit. Cel&yacute; syst&eacute;m varn&aacute;&scaron;rama dharmy toto dosvědčuje a slouž&iacute; tomuto &uacute;čelu.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">V Indii, zvl&aacute;&scaron;tě v posledn&iacute; době, můžeme jasně sledovat, jak&eacute; probl&eacute;my mohou vzniknout, když někdo, kdo vyrůstal na Z&aacute;padě jako hippie, zvykl&yacute; na drogy a nekontrolovanou sexualitu, se snaž&iacute; autoritativně vyz&yacute;vat někoho, kdo vyrůstal v brahminick&eacute; rodině, kde už dědeček zp&iacute;val Svat&aacute; jm&eacute;na Nejvy&scaron;&scaron;&iacute;ho P&aacute;na.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Konflikt je nevyhnuteln&yacute;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">M&iacute;sto zrozen&iacute; jako takov&eacute; nen&iacute; konečnou garanc&iacute; pro status jednotliv&eacute;ho oddan&eacute;ho, ale poch&aacute;zet z kultivovan&eacute;ho z&aacute;zem&iacute; je jistě n&aacute;pomocn&eacute; duchovn&iacute;mu životu. Jak &Scaron;r&iacute;la Prabhup&aacute;da s&aacute;m p&iacute;&scaron;e, i on měl to &scaron;těst&iacute; se narodit v rodine vai&scaron;navů.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Proto tato česk&aacute; verze m&eacute; webov&eacute; str&aacute;nky a proto tak&eacute; žiji v Čech&aacute;ch, i když život pod veden&iacute;m ciz&iacute;ch duchovn&iacute;ch ofici&aacute;ln&iacute;ch autorit, kter&eacute; zde někdy prosperuj&iacute; jen na z&aacute;kladě nevědomosti m&iacute;stn&iacute;ch oddan&yacute;ch o misi &Scaron;r&iacute;ly Prabhup&aacute;dy, přin&aacute;&scaron;&iacute; sv&eacute; v&yacute;zvy.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Jako někdo, kdo se aktivně z&uacute;častňoval založen&iacute; t&eacute;to yatry jsem byl svědkem, jak se pod ciz&iacute;m vlivem jej&iacute; profil změnil, a to často ne zrovna pozitivně. V&scaron;e z&aacute;vis&iacute; na tom, jak jsou slova a přik&aacute;z&aacute;n&iacute; &Scaron;r&iacute;ly Prabhup&aacute;dy prezentov&aacute;na. Tato slova zde byla někdy veřejnosti prezentov&aacute;na demagogick&yacute;m způsobem, kter&yacute; mnoh&eacute; potenci&aacute;lni oddan&eacute; a později někter&eacute; star&scaron;&iacute; a zku&scaron;eněj&scaron;&iacute; oddan&eacute; odradil, nebo dokonce donutil k emigraci ze země, kde mohli b&yacute;t misi &Scaron;r&iacute;ly Prabhupady tak prospě&scaron;n&iacute;.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Každ&yacute; n&aacute;rod m&aacute; sv&aacute; karmicky nastaven&aacute; pozitiva a negativa. &Scaron;r&iacute;la Prabhup&aacute;da řekl, že ide&aacute;lně se ve vědom&iacute; Kr&scaron;ny manifestuj&iacute; sp&iacute;&scaron;e jen ta pozitiva. Ale i on si byl vědom i těch negativ a někdy na ně musel v r&aacute;mci veden&iacute; sv&yacute;ch ž&aacute;ků pouk&aacute;zat.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Když jeho ž&aacute;ci začali manifestovat sp&iacute;&scaron;e svou negativn&iacute; n&aacute;rodnostn&iacute; karmu, tak je na to vehementně upozornil.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">I řeč, kterou použ&iacute;v&aacute;me, svědč&iacute; o na&scaron;&iacute; n&aacute;rodn&iacute; karmě a nen&iacute; n&aacute;hodn&aacute;. Při pozorn&yacute;ch lingvistick&yacute;ch studi&iacute;ch nen&iacute; těžk&eacute; rozpoznat, že jsou řeči sp&iacute;&scaron;e technicky založen&eacute; a jsou řeči sp&iacute;&scaron;e emocion&aacute;lně založen&eacute;. Stač&iacute; se jen zaposlouchat do jejich intonace. (Jak jednou &Scaron;r&iacute;la Prabhup&aacute;da humorně poznamenal, němčina je dobr&aacute; pro psy, francouz&scaron;tina pro konverzaci se ženami a angličtina pro konverzaci s koňmi :-) Jeho postřehy byly často geni&aacute;ln&iacute;, a proto ne pro každ&eacute;ho pochopiteln&eacute;.)</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Slovansk&eacute; řeči oslovuj&iacute; prioritně emoce, germ&aacute;nsk&eacute; předev&scaron;&iacute;m technick&yacute; stav věc&iacute;. Někteř&iacute; m&iacute;stn&iacute; občan&eacute; by se určitě vůči těmto postřehům ohrazovali, že to v&scaron;e z&aacute;lež&iacute; na subjektivn&iacute;m vn&iacute;m&aacute;n&iacute;, ale v&yacute;sledek mluv&iacute; s&aacute;m za sebe.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Toto je rozpozn&aacute;no i ve světě materialistů, kteř&iacute; věd&iacute;, že &bdquo;kde je Ital kuchařem, Angličan policistou a Němec automechanikem, takov&eacute; m&iacute;sto by se dalo nazvat r&aacute;jem; a kde je Ital automechanikem, Angličan kuchařem a Němec policistou, takov&eacute; m&iacute;sto by se dalo nazvat peklem&ldquo;. :-)</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Samozřejmě dne&scaron;n&iacute; n&aacute;siln&aacute; imigračn&iacute; politika toto peklo jen navy&scaron;uje. Pod rou&scaron;kou humanit&aacute;rn&iacute; pomoci a různ&yacute;ch humanistick&yacute;ch doktr&iacute;n, jako by si zde někdo hr&aacute;l na Boha, jsou obyvatel&eacute; jednoho regionu jako potenci&aacute;ln&iacute; pracovn&iacute; s&iacute;la v&iacute;t&aacute;ni v jim zcela ciz&iacute;m regionu, kde maj&iacute; nahradit již tak v konzumn&iacute;m režimu znuděn&eacute; z&aacute;padn&iacute; hedonisty, a to i za cenu ztr&aacute;ty těch posledn&iacute;ch mor&aacute;ln&iacute;ch a etick&yacute;ch hodnot. Naopak, demolice lidsk&eacute; inteligence je pro takov&eacute;to d&eacute;monick&eacute; &bdquo;tvůrce n&aacute;rodů&ldquo; nutn&aacute;, protože vede k umožněn&iacute; je&scaron;tě důsledněj&scaron;&iacute; kontroly druh&yacute;ch, a t&iacute;mto k nav&yacute;&scaron;en&iacute; jejich osobn&iacute;ch finančn&iacute;ch prostředků. Hlup&aacute;ci se daj&iacute; sn&aacute;ze ovl&aacute;dat. Takov&aacute; je logika d&eacute;monů a čistě materialisticky založen&yacute;ch vůdců t&eacute;to společnosti.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&nbsp;</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">&Scaron;r&iacute;la Prabhup&aacute;da n&aacute;m uk&aacute;zal jak ž&iacute;t v harmonii bez ohledu na na&scaron;i tělesnou identitu.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Do jak&eacute; m&iacute;ry jeho oček&aacute;v&aacute;n&iacute; napln&iacute;me a nebo zklameme, to uk&aacute;ž&iacute; dal&scaron;&iacute; generace oddan&yacute;ch. V&eacute;dsk&aacute; kultura nezn&aacute;silňuje n&aacute;rodnostn&iacute; identity, ale oči&scaron;ťuje je.</p>
+
+<p style="margin-bottom: 0cm; text-align: justify;">Každ&yacute; člen každ&eacute; n&aacute;rodnosti se může nějak&yacute;m způsobem zaměstnat v oddan&eacute; sluzbě. Jak? To n&aacute;m uk&aacute;zal &Scaron;r&iacute;la Prabhup&aacute;da. Pod jeho veden&iacute;m můžeme b&yacute;t jednotn&yacute;mi a individu&aacute;ln&iacute;mi osobami současně, vždyť cel&aacute; vai&scaron;navsk&aacute; filozofie se zakl&aacute;d&aacute; na principu paraleln&iacute; jednoty a různorodosti. Jak tento princip uplatn&iacute;me v na&scaron;em životě, je v&yacute;zvou každ&eacute;ho, kdo se považuje za n&aacute;sledovn&iacute;ka &Scaron;r&iacute;ly Prabhupady a jeho učen&iacute;, kter&eacute; je identick&eacute; s učen&iacute;m Nejvy&scaron;&scaron;&iacute;ho P&aacute;na.</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+
+<p style="margin-bottom: 0cm">Naps&aacute;no v den v&yacute;roč&iacute; odchodu &Scaron;r&iacute;ly Prabhup&aacute;dy, 18.11.2020</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+
+<p style="margin-bottom: 0cm">&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/co-mam-to-dam" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="221">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=12"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

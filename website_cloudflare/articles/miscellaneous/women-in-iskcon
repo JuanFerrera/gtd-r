@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Women in ISKCON
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=13">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Women in ISKCON</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/237_Women-in-ISKCON.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">23 Apr 2021</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">This text is by no means written by a feminist, but thanks to the ongoing abuse of females in ISKCON, I see a need to raise my voice in protest to the ways females are used in the name of devotional service and preaching.</p>
+
+<p style="text-align: justify;"><br />
+Those mathajis, who live under the protection of husbands, who are aware of Srila Prabhupada&#39;s policies in regards to His female servants (besides the initial days, when Srila Prabhupada having no other choice He relied on female support, but as soon there was an opportunity to get such women married and accept their service more from a distance, Srila Prabhupada did so), are the lucky ones.</p>
+
+<p style="text-align: justify;">But there are enough mathajis who are either young and not married, or divorced, or married to a man who still believes that his wife is engaged in devotional service while serving a mathaji-oriented sannyasi.</p>
+
+<p style="text-align: justify;">How easy is to lure such loose roaming mathajis into the understanding, that their often intimate relationship with their guru is of a transcendental nature. The inherent motherly nature of females is easy to use for one&#39;s own personal comforts. Gurus who are mostly, if not entirely, depending on female assistance, gurus ignoring the presence of husbands while using their wives for their own purposes may be aware of Srila Prabhupada&#39;s policies, what to speak of policies of Lord Caitanya Mahaprabhu in regards to sannyas asrama. Grhasta gurus may be less endangered as their wives ensure that females keep proper etiquette when addressing their spiritual master.<br />
+As a matter of fact examples are known to me where a grhasta guru is managing his male disciples, while his wife manages the female ones, as the wife of the spiritual master is considered one of the mothers we have.</p>
+
+<p style="text-align: justify;">A sannyasi depending on the services of his females entirely is a disgrace to Srila Prabhupada&#39;s movement and a typical Kali yuga anomaly. This text should serve as a warning for all the mathajis joining this movement not to be used in this way.</p>
+
+<p style="text-align: justify;">How easy they can be cheated!</p>
+
+<p style="text-align: justify;">With their hearts so easily inspired by devotional talks, they can fall prey for those who came to believe that just by serving their bellies (hopefully not genitals) of such &bdquo;exclusively to mathajis merciful&quot; gurus - they are blessed.</p>
+
+<p style="text-align: justify;">Every grhasta, guru not excluded, surely can report how he occasionally gets heavily corrected by his wife. In case where the wife is more ruthless, she may do so publicly; if she is more&nbsp; discrete she will do so privately. This is not necessarily an abuse to Vedic principles, but especially in these Kali yuga days where women lack proper training how to act properly, this may serve as well functioning protection device for the disciple-admired husband. The female sentimentality may go that far that becoming initiated and falling in love with the guru may not be that different.</p>
+
+<p style="text-align: justify;">Even more so it is important for the guru to be on guard. Luckily the Vedic principles of spiritual guidance include guru, sastra and also sadhu, and so when executed properly they provide enough safety measures that the guru doesn&#39;t become simply worshiped in mood of personal cult by blindfolded disciples.</p>
+
+<p style="text-align: justify;">There are yet gurus who may relate to their female disciples directly only in an emergency, that is when their disciples are not married. Otherwise, they deal with them strictly via their husbands. Of course, when the husband is weak and in maya, the process may be disturbed. Still, there may be another &bdquo;mediator&ldquo;- grhasta available who may prevent that the guru ends up being served in private harem-style by many unrestricted mathajis.</p>
+
+<p style="text-align: justify;">Women have also false ego :-), and the feeling that &bdquo;behind every big man there is a big woman&ldquo; is tempting for a woman who seeks to shine socially in the midst of the spotlights on the stage her guru occupies. Even an entirely material person can easily detect this discrepancy when seeing such pampered-by-women guru being nicely taken care of by his excited female disciples. No wonder some disciples seek distance when seeing such an embarrassing display of guru-narcissism.</p>
+
+<p style="text-align: justify;"><br />
+I dare to write this text on the basis of twenty years of managing mathajis even prior to getting married, in a situation where out of necessity I was put by my GBC into this service. After all, I joined in 1972 a yatra where grhasta asrama was practically unknown. The ways I had to manage this entirely surrendered and in sankirtan mood absorbed ladies seem from today&#39;s point of view rather bizarre.<br />
+When Harikesha, my GBC for 25 years, was asked why Manidhara das brahmacary has always to manage a group of fifteen sankirtan mathajis, his answer was usually short and pragmatic. &bdquo;Because he doesn&#39;t have a sex with them.&ldquo;</p>
+
+<p style="text-align: justify;">Nevertheless, it was also for social reason he finally presented to me the option to get married, as only then such critical voices could be silenced.</p>
+
+<p style="text-align: justify;">Indeed, I never thought these girls to be anything else than Krsna&#39;s property, and so I don&#39;t have any negative memories in this regard. The service they did was simply amazing. The amount of books being distributed and money being collected cannot be imagined by anybody today. Such a great service they did! &nbsp;<br />
+However, as their book distribution-sankirtan degraded into money collection of paraphernalia sales &bdquo;sankirtan&ldquo;, I still managed these innocent women, abusing my own conscience. Even I was under orders, and one paraphernalia money collection marathon followed another one (for the purchase of the Swedish farm we collected the necessary funds in one month!), until today I seek any opportunity to apologize to these mathajis who are still alive for what I have done.</p>
+
+<p style="text-align: justify;">Surely, they followed the instructions of their guru, finding themselves occasionally in ecstasy, but to send them during dark Nordic nights with paraphernalia door to door in icy winters just to collect money was criminal. Hearing lately my departed GBC explaining why he left ISKCON as so many devotees were used for collecting simply money, makes him surely to a hypocrite, as he was initiating this type of actions over and over again to collect huge sums of money, to build projects which from today&#39;s point of view are misused by the remained previous disciples of his, who treat them like their own property.</p>
+
+<p style="text-align: justify;">Such is the result of unlawful activities based on conscious abuse of Srila Prabhupada&#39;s instruction &bdquo;never turn sankirtan into business&ldquo;.</p>
+
+<p style="text-align: justify;">Even I owe Harikesha much for many ears of his protection and advise, seeing him achieving results in terms of book production and distribution nobody can even dream about today, still I have to appologize for being part of such money collection oriented unlawfull activities. Fortunately, when addressed, not single one of still surviving heroin of those days I met later accused me for being abusive to her. Their response was,&nbsp; &bdquo;well, we did all this voluntarily and you were under instruction of our GBC&ldquo;.</p>
+
+<p style="text-align: justify;">Yet in the present views, where still some are taking advantage of female innocence and naivety, there is a need to warn any joining woman not to be victimized by some flattery-trained &bdquo;preacher&ldquo;.</p>
+
+<p style="text-align: justify;">As I was occasionally labelled to play both roles, the one of a chauvinist and the one of a feminist, my response to both bodily oriented camps was always, &ldquo;just because there are so many stupid men, that doesn&#39;t make women more intelligent&ldquo;. Only by carefully listening to Srila Prabhupada we have the chance to be raised to the spiritual platform, beyond the differences and dualities our bodies dictate to us.</p>
+
+<p style="text-align: justify;">Both men and women without any proper spiritual guidance are worthless tools in maya&#39;s hands, and so equality can be only achieved when we are united under Srila Prabhupada&#39;s guidance, and guidance of those who are not willing to compromise His instruction in whatever &bdquo;pragmatic&ldquo; way.</p>
+
+<p style="text-align: justify;">Then maybe one day, the word &bdquo;vaisnava&ldquo; or &bdquo;vaisnavi&ldquo;&lsquo; may become relevant to us.</p>
+
+<p style="text-align: justify;">When such a day may come?!</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/women-in-iskcon" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="237">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=13"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

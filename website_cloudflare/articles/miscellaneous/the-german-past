@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            The German Past
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=9">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>The German Past</h1>
+            <div class="lead-image lead-image-text-only">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">13 Nov 2018</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">1 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p style="text-align: justify;">Of course, the ultimate demonstration of the atmosphere dominating Germany in the seventies was &hellip;.the Schloss Rettershof raid.</p>
+
+<p style="text-align: justify;">Being already more&nbsp;then one year on sankirtan, traveling all the time, distributing Srila Prabhupada&rsquo;s books, our leaders decided that all small preaching centers in Germany will be closed down and everything will be centralized...in a castle. Somehow there was a fierce competition amongst ISKCON leaders worldwide who has the biggest...castle. If not a castle, at least an old church. &quot;Bigger&quot; and &quot;more opulent&quot; was the credo, and there was no price high enough to get such properties.</p>
+
+<p style="text-align: justify;">Somehow Srila Prabhupada&rsquo;s warnings, that however we may try to please Krsna by offering Him wonderful facilities, nothing should be done at the cost of preaching, were ignored. No building can match the value of one devoted bhakta.</p>
+
+<p style="text-align: justify;">And so the race was on, whose property is bigger, higher, whose temple room has chandeliers that are more opulent, and whose cash turnover is of greater volume. The typical American &ldquo;big time&rdquo; game became&nbsp;a rule of the game, and so even the German yatra had to have a &ldquo;castle&rdquo;.</p>
+
+<p style="text-align: justify;">The one our leaders had chosen, close to Frankfurt am Main -&nbsp;the &ldquo;Wall Street&rdquo; of Germany, wasn&rsquo;t for sale. But the rent was relatively cheap. One month before Srila Prabhupada&rsquo;s second visit in Germany we moved in and with no time left for substantial renovations we simply painted over whatever we could. As matter of fact devotees were painting day and night. (I painted Srila Prabhupada&rsquo;s shower, it must have been still wet when He arrived :-)</p>
+
+<p style="text-align: justify;">And so finally, the German yatra also had a &ldquo;big castle&rdquo;. A fatale decision, as it was demonstrated soon. Srila Prabhupada was never in favor of centralization of any kind, as our central point should be the chanting of the Holy Name.</p>
+
+<p style="text-align: justify;">There are two things, which activate the envy of a demon immensely. Big property and a big bank account. Devotees were reckless and the German police, along with the media, got the Hare Krsna movement into focus. Two newspaper reporters &ldquo;joined&rdquo; in disguise,&nbsp; presenting themselves as &ldquo;bhaktas&rdquo;, only to &ldquo;bloop&rdquo; one week later with lots of photographic material collected and finally published in one of the biggest German magazines, the &ldquo;Stern&rdquo;. The article they illustrated was called &ldquo;The Escape in Transcendental Underwear&rdquo;. This and some of very radical statements of Hamsadutta das, our GBC (&ldquo;we will finally take over German government&rdquo;), only created a momentum to bring out the worst in German minds.</p>
+
+<p style="text-align: justify;">And so finally, one day in&nbsp;1975, it must have been Sunday when all sankirtan devotees were assembled in prasadam hall in our big castle. I believe Akrura das opened the door only to meet a German policeman. He closed it again and entering prasadam hall,&nbsp;announced with a big laughter: &ldquo;There is some idiotic policeman at the door.&rdquo;</p>
+
+<p style="text-align: justify;">Well, that man wasn&rsquo;t alone. At least 300 policemen emerged from the park surrounding the castle, having the place entirely locked. This was not an ordinary police force, these were men heavily armed and ready to smash anything and anybody in their way.</p>
+
+<p style="text-align: justify;">Chaos broke out and devotees were forcefully lined up against wall in the main hall of the castle. The policemen went oom to room, not bothering much even to open the doors, they simply smashed them. The ID-cards of devotees were collected and a large bus drove up in front of the door, designed to transport prisoners from jail to jail. Mathaji asrama got rated as well, with a loud laughter of one policeman: &ldquo;We are going to close down this harem.&rdquo; When one of the grhastas seeing his wife being dragged down the stairs by force came to her aid, he was instantly beaten to the ground by few policemen and found a gun being pressed against his head.</p>
+
+<p style="text-align: justify;">We were all pushed into the bus and transported to the main police headquarters in Frankfurt City. During the drive, Iksvaku Prabhu started one of the most intense and blissful kirtan I heard in my life.</p>
+
+<p style="text-align: justify;">Everything was well prepared by the police and media. When bus arrived with devotees in front of the police headquarters, a wall of cameras flashed in our faces as we were lead out through the courtyard to the main building. Expecting some sect-brainwashed victims, the reporters must have been rather surprised to see devotees chanting in ecstasy, praying to Lord Nrsimhadeva while dancing into the main building. There was such ecstasy in the air that even devotees couldn&rsquo;t understand.</p>
+
+<p style="text-align: justify;">With typical German accuracy, we were sorted out and lined up, as not so long time ago the Jews were sorted and lined up in front of the gas chambers in Auschwitz and elsewhere.</p>
+
+<p style="text-align: justify;">But the Jews were silent, we were not. Chanting was going on all the time and the police was rather unprepared for this, as they never saw such singing prisoners. Even the sleepiest devotee found himself somewhat mysteriously inspired. I do remember Urangama das emerging from the identification room where our finger prints were taken, loudly laughing, looking still at his black finger: &ldquo;They think this is me! But I am not this body!&rdquo; He laughed even more.</p>
+
+<p style="text-align: justify;">The police was confused. When our leaders were lead in chains, passing us by, instantly a devotee shouted: &ldquo;Chakravarti Prabhu (our temple president), ki jaya!&rdquo; &hellip; and we all paid our obeisances. Seeing us all suddenly kneeing on the floor the police panicked. &ldquo;Get up! Get up!&rdquo; they shouted, starting pulling out their guns.</p>
+
+<p style="text-align: justify;">The biggest problem for these police man was to...identify us. Having obviously already the list of our spiritual names, they had no idea which name fits to which ID-card. And so they pushed us into a big assembly aula, piled up our confiscated ID-cards and called up each spiritual name, finally matching him with the document. Instantly the whole event turned into some sort of sankirtan meeting. Starting with A, Astaratha das, our pujari, being called, instantly some devotee screamed out: &ldquo;Astaratha Prabhu ki jaya!&rdquo; Everybody shouted in response: &ldquo;Ki jaya!&rdquo;</p>
+
+<p style="text-align: justify;">And so it went on with devotees glorifying each single vaisnava being called upon. The police officers were totally perplexed. Later on, in their reports, police wrote: &ldquo;The sect has a secret code word. It is called &lsquo;Haribol&rsquo;.&rdquo;</p>
+
+<p style="text-align: justify;">Finally, after a whole day of investigation, devotees were thrown into some sort of police trucks and driven back to the temple. Late at night we entered an entirely demolished temple. Sri Sri Madana Mohan were standing next to the altar, as the police took the altar&nbsp;for some sort&nbsp;of hiding place. With the Deities back a puja was performed, and we made a very soft wonderful kirtans&nbsp;during whole night.</p>
+
+<p style="text-align: justify;">To our surprise cars were still standing in front of the door and books were still in the book lager. Therefore, next morning we all departed on sankirtan again.</p>
+
+<p style="text-align: justify;">Our leaders were not so lucky. Astaratha Prabhu, whose only crime was that he was a pujari, so his name was on all legal papers since he was in the temple all the time, capable to pick up incoming mail. Hamsadutta,&nbsp;Chakravarti -&nbsp;the temple president, Bhakti Bhusana Swami (by that time Sucandra das brahmacari) and few others remained imprisoned for a period of three months before being released.</p>
+
+<p style="text-align: justify;">What happened on the streets was to some degree described already in the previous text. The hysteria around the Hare Krsna movement was so great that we were daily attacked in all kinds of ways.&nbsp; Media published even a photo of a large weapon storage, claiming it was ours. We were the first &ldquo;sect&rdquo; in Germany to face the wrath of the German nation, to be so daring to question their cherished values. In those days even to be vegetarian was seen as an act of lunacy.</p>
+
+<p style="text-align: justify;">The leader of the whole action,&nbsp;a chief state prosecutor, was a man who could well served as model for the illustration in Srimad Bhagavatam, depicting Hiranyaksa, the brother of Hiranyakasipu. A man in his best years, known for hunting women down town Frankfurt every night. Truly full-fledged atheist, whose rage towards devotees seemed to have no boundaries.</p>
+
+<p style="text-align: justify;">A huge court case started, one of the biggest&nbsp;after Second World War in Germany.&nbsp; Attacking first the movement as such along with&nbsp;its leaders, even an imprisonment order against Srila Prabhupada was issued. Indeed, if He would enter Germany at that time, He would be&nbsp;taken into custody instantly. Kidnapping, attempted murder and finally illicit collection of funds were few of the accusations being raised. (From that only the illicit money collection remained as a proven fact.) The court case raged for three years and much thanks to a lady, &ldquo;Frau Luh&rdquo; as we called her, devotees enjoyed the best legal protection they could get.</p>
+
+<p style="text-align: justify;">Sent by Krsna, Frau Luh most enthusiastically addressed all the accusation and was our main legal protector. She remained so, being permanently hired by ISKCON Germany even later on. Her engagement was invaluable. We carried her visit card constantly with us and whenever being dragged to the police station, which was practically every day, this card seemed to have magic powers. Whenever threatened by police, we asked officers to simply call our lawyer.</p>
+
+<p style="text-align: justify;">Frau Luh was day and night at our service. Confronted unexpectedly with a lawyer, most of policemen changed their mode of behavior instantly. Frau Luh knew the art how to make even per phone a raging policeman shrinking in size within minutes in front of our eyes.</p>
+
+<p style="text-align: justify;">Finally realizing that there was no way to erase Hare Krsna movement from Germany&acute;s map,&nbsp;a chief state prosecutor in his frenzy started to attack devotees individually, calling them to court for &ldquo;offences&rdquo; they were supposed to commit even years ago. Even I, who had minimal problems with police, had to arrive in Frankfurt, being called to answer an accusation of a woman from Hamburg, whom I was supposed to call to be of idiotic nature, two years ago.</p>
+
+<p style="text-align: justify;">Huge amounts of tax payers&acute; money were spent during these years in an attempt to call all the witnesses and have them to come to Frankfurt from all over Germany.</p>
+
+<p style="text-align: justify;">And so I arrived&nbsp;at&nbsp;court, freshly shaved head, dhoti and sikha, as we all did when facing our trial. In the room was only Frau Luh,&nbsp;a state prosecutor and&nbsp;a chief judge, along with some police guards and newspaper reporters. That woman arrived, and following a&nbsp;first step to identify the accused one, she pointed to one of the newspaper reporters sitting in the corner saying: &ldquo;It was him!&rdquo;</p>
+
+<p style="text-align: justify;">The judge smiled mildly and asked that&nbsp;lady to return to her home. However, it didn&rsquo;t stop there.</p>
+
+<p style="text-align: justify;">Suhotra Swami, our regional secretary in those days, always ready to &ldquo;tease some demon&rdquo; (his Wie Es Ist magazine was legendary), contacted me the day before, handing me an already written testimony of mine, which&nbsp;I was supposed to&nbsp;read to the judge when finally asked if I have some concluding words to say. Even it wasn&rsquo;t necessary because my court case was cancelled, standing in front of the judge and&nbsp;a chief prosecutor, I asked to be allowed to say few words. I&nbsp;pulled out the paper and started to read. Actually, I didn&rsquo;t read it before. I simply thought that if Suhotra Swami says so, then I have to do it. I couldn&rsquo;t believe what I was reading. The statement was well written, describing how I immigrated to Germany 1968 from a communistic country to seek religious freedom (not exactly true :-), and finally joined the Hare Krsna movement, an authorized branch of Vaisnavism, based purely on Bhagavad Gita, here I find myself being violently prosecuted by a man (the chief prosecutor), whose psychic behavior strongly remembers me on another chief prosecutor, certain Mr. Hitler.</p>
+
+<p style="text-align: justify;">Being half way through the paper, further describing the features of the &ldquo;Staatsanwalt&rdquo;, the prosecutor in charge, that man, losing all his composure, face beaming with rage, suddenly jumped over his table and attacked me physically. Holding up my right arm to protect myself, I kept him on distance as he tried to hit me and with my left arm, almost in a theatrical display, placed the paper on judges table as if seeking shelter.</p>
+
+<p style="text-align: justify;">Profound silence prevailed in the courtroom. The judge was in total shock. With the chief prosecutor still holding my right arm he said: &ldquo;Mr..., what are you doing? Immediately return to your seat, otherwise I will have you expelled from the room!&rdquo;</p>
+
+<p style="text-align: justify;">I looked at Mrs. Luh, our lawyer. She had huge smile on her face. It was clear what she was thinking: &ldquo;Now he is finished.&rdquo;</p>
+
+<p style="text-align: justify;">Indeed, she stopped for a while any further court procedures on grounds of possible insanity of the chief prosecutor, and he had to go through some psychological tests before being allowed to proceed in his praxis. I returned to my temple, preaching that time in the city of Berlin.</p>
+
+<p style="text-align: justify;">But the touch of that demon made me physically sick, coming down with high fever for few days.</p>
+
+<p style="text-align: justify;">I hardly ever met a human being so filled with such intense hatred.</p>
+
+<p style="text-align: justify;">All the money being confiscated, foolishly kept by our leaders in&nbsp;a bank account, with the idea to buy a farm (Srila Prabhupada said we should never do such a thing, but spend money as fast as possible, turning it into physical assets).</p>
+
+<p style="text-align: justify;">The chief prosecutor, losing his hearing already during the court case, was later on found in a rather misserable shape in some shopping center by a sankirtan devotee, who offered him a book.</p>
+
+<p style="text-align: justify;">The response is not known to me, but Mr... didn&rsquo;t call police :-)</p>
+
+<p style="text-align: justify;">Credit has to be given to the main German judge, who throughout the court case tried to uphold justice, refused to biased against us (the chief judge read many of our books during the hearings :-)&nbsp;and finally closed the whole thing down. As one of the newspapers wrote, &ldquo;a mountain has born a mouse&rdquo;. Devotees were finally called humorously &ldquo;cookie monsters&rdquo; as they distributed so much prasadam in form of cookies, even in the courtroom, that cleaning ladies were complaining having to clean so many crumbs on the floor.</p>
+
+<p style="text-align: justify;">However, the bad image collected during these events lasted for long time, and it may last to some degree until today. Krsna is teaching in many ways simultaneously. Devotees got their lesson not to act recklessly, and the demons got their karma aggravated, certainly facing dark future.</p>
+
+<p style="text-align: justify;">And Srila Prabhupada? Despite being informed about all the details, He simply urged us to pray to Lord Nrsimhadeva. (One year after the Rettershof raid German yatra became the leading force in book distribution worldwide.) Srila Prabhupada always protected His devoted preachers, however immature they were, knowing their readiness to&nbsp;lay down&nbsp;their lives for Him.</p>
+
+<p style="text-align: justify;">Those, who have some words of criticism in this regard should try to do the same what in those days devotees were doing: to give their life ENTIRELY to Srila Prabhupada&rsquo;s mission. It&acute;s simply ecstatic.</p>
+</div>
+    </article>
+
+    <aside class="comments" id="comments">
+        <hr>
+        <h2><i class="fa fa-comments"></i> 1 Comments</h2>
+        
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Srotriya das</h3>
+                    <span class="date">
+                        13 Jan 2019
+                    </span>
+                </div>
+            </header>
+             <div class="body">Pretty good, thank you.</div>
+        </article>
+    </aside>
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/the-german-past" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="186">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=9"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

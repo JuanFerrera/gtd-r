@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            Are We Really Surrendered?
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=13">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>Are We Really Surrendered?</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/238_Are-we-realy-surrendered.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">30 Apr 2021</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">0 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><p>&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Srila Prabhupada&#39;s answer in this regard was instant: &quot;Yes, we are always surrendered. The question is to whom or to what. But surrender, we must.&quot;</p>
+
+<p style="text-align: justify;">As the marginal energy of the Lord, we have the choice to be dominated by the internal or external energy of the Lord. Choice, which is a clear sign of our eternal individuality, and so we can decide to what or to whom we want to render our service. Serving, surrendering, loving, gifts receiving and gifts giving, these are eternal symptoms of the soul.</p>
+
+<p style="text-align: justify;">Unfortunately, directed to this temporary body, our eternal needs are compromised by time and circumstances, ending without exception in manifold frustrations.&nbsp;These needs are so powerful that when failing towards&nbsp;humans, they find their way to be shared with animals or even trees and plants.</p>
+
+<p style="text-align: justify;">The description of the ways we are victimized by our own foolishness and the consequent results, these were essential ingredients of Srila Prabhupada&#39;s preaching.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">Once understanding the essence of Krsna Consciousness, the pious soul makes its way to Krsna&#39;s Lotus Feet by dint of being guided by a pure devotee. Krsna states in Bhagavad Gita that regardless if such desperado approaches Him when in pain, in need of money, need to satisfy his curiosity, or in need of acquiring knowledge (surely the best intention), he is still dear to Him.</p>
+
+<p style="text-align: justify;">However, initiation into the process of surrendering, bhakti yoga, is just the beginning. What the real motivation of a candidate may be will be uncompromisingly revealed on the way. Herewith it is explained why even originally seemingly materially unmotivated devotee, even after many years of practice, manifests material symptoms, turning back to the places of misery where he came from.</p>
+
+<p style="text-align: justify;">As Srila Prabhupada experienced in His relatively short preaching period, some of His disciples were already returning to the places they came from or even lower. Even being surely highly disappointed and sad, He took it in a scientific way, describing how the results of devotional service being done will never go in vain, even the candidate has to continue his path in various material bodies again.</p>
+
+<p style="text-align: justify;">Here is a short summary of most crude manifestation of material desires, which every initiate should be aware of. Lord Caitanya clearly states His aversion to:<br />
+<br />
+money,</p>
+
+<p style="text-align: justify;">women (or men for those who have a woman&#39;s body),</p>
+
+<p style="text-align: justify;">fame, and</p>
+
+<p style="text-align: justify;">number of followers, disciples.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">While some may join simply because of distress and pain, others may join because of:</p>
+
+<p style="text-align: justify;">* Social prestige</p>
+
+<p style="text-align: justify;">Being nobody prior to joining, very quickly one becomes socially prominent. Comparatively spoken devotees were and will be always very few and the ways to practice Krsna Consciousness are simple. To learn how to chant, to learn the basic facts of Krsna conscious philosophy and repeat it in a parrot-like fashion is easy.<br />
+Karmis are many, devotees few and so some name, some fame and some glory come to a devotee quickly. If not addressed by spiritual intelligence, his progress will be blocked by pride and arrogance fast.<br />
+Amongst my godbrothers there are those who joined, two years later they found themselves carrying a danda, or still totally inexperienced managing a vast number of new devotees; and after only few years more they found themselves sitting on Vyasasanas celebrating their Vyasa Puja, being glorified as intimate associates of the gopis by their disciples.</p>
+
+<p style="text-align: justify;">What a ride! Only those who have won in the lottery huge sum of money can report such quick change in their lives :-) But Krsna Consciousness is not a lottery.</p>
+
+<p style="text-align: justify;"><br />
+I still remember some of my godbrothers vividly marveling at such a quick change of their status. Those who forgot, that all this is happening simply because of Srila Prabhupada&#39;s credit being given to them, fell down. Those who still consider themselves a striving devotee, a candidate for the most elevated post of a Vaisnava, still praying for that day to come, bathing daily in the constant flow of Srila Prabhupada&#39;s mercy, they are the inspiration for similarly motivated ones.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">* Finding a partner</p>
+
+<p style="text-align: justify;">There may be men who join Srila Prabhupada&#39;s movement in search after women.<br />
+But there are surely and naturally women joining who are drawn to this movement because they hope to find here men of character, able to provide mental stability they so desperately need. Amongst them there are those, who out of their frustration discovering that there are not many pure devotees to be found (but plenty of kama-misra bhaktas), turn back to feminist ideals, which are purely on bodily platform and by nature demoniac.</p>
+
+<p style="text-align: justify;">To gain real faith is a gradual and demanding process. To lose faith is a rather quick affair in these Kali yuga days. False hopes and expectations are followed by real frustrations which then again, if not dealt according to sastra,&nbsp;lead to deviations in the form of search of material solution for material problems. There are no material solutions to material problems.&nbsp;The solution can come only from the spiritual platform, which in a practical sense means for us hearing from Srila Prabhupada and from those who&nbsp;try to follow His instructions to the best of their abilities,&nbsp;in an introspective way.<br />
+And so finding a suitable partner may be a risky enterprise.&nbsp;One is well advised to define the word &bdquo;suitable&ldquo; in Krsna conscious terms. Srila Prabhupada&#39;s comment on suitability of man and women getting married was simple: &bdquo;If they are devotees it will be OK&ldquo;. And so the question remains: Who is a real devotee?</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">* Breaking out of one&#39;s karmically&nbsp;destined national boundaries</p>
+
+<p style="text-align: justify;">It was and it is experienced that devotees once getting a chance to leave the in their view miserable place of birth by dint of initiation take advantage of it. After all, the grass seems to be always greener on the other side of the fence.<br />
+Where else one can find such a place where one can reach so fast&nbsp; other destinations and meet so many similarly minded ones! Surely, many religious institutions can report in the same way how their members take advantage of the immense social contacts available to them once they became members and can meet other<br />
+&bdquo;sect members&ldquo; all over the world.There even those who seek greater business opportunities and interesting business partners in name of Krsna Consciousness.<br />
+And then there are those, the lowest of all, who realize a naive bhakta or bhaktin to be in name of devotional service a free laborer and source of quick income.</p>
+
+<p style="text-align: justify;">However, Srila Prabhupada approved such intense travels for preachers only, everybody else was advised to cultivate his or her&nbsp;Krsna Consciousness based on varnasrama dharma&nbsp;in their domestic areas. We can see that devotee-immigrants residing in foreign places are drawn to each other again on the basis of their nationality. But just to get a visa and change the place of residence is surely not the meaning of getting initiated into Krsna Consciousness, as there is no place on this Earth Kali doesn&#39;t welcome his victims to be allured into the same maya served out in various packaging.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">* False designation</p>
+
+<p style="text-align: justify;">How easy it is to DESIGNATE oneself once being informed about the nature and symptoms of a Vaisnava. Reading may give us some academic experience, but such jnana is far from vijnana, realized knowledge, which was defined by Srila Prabhupada as the final knowledge. As one of my godbrothers wisely commented before he was forced to give up his designated status and assume the position more appropriate to his conditioning, &bdquo;We know where we came from. We know where we have to go to. But we don&#39;t know where we are NOW!&quot; And so academic studies alone&nbsp;do not provide the ultimate realization. Practice and simultaneous hearing process from sastra does.</p>
+
+<p style="text-align: justify;">And so external symptoms in form of dress, haircut, designated institutional position, and one&#39;s ways to control others are far from what the real status of a particular devotee may be. Once exposed to the temptation in the form of money, followers and some fame, it will be revealed what kind of motivation this&nbsp;devotee&nbsp;carries in his heart.<br />
+If he ruthlessly insists to be accepted along his designation and not according to his nature or level of conditioning, material nature, the ultimate bodyguard of Krsna, will &bdquo;sort him out&ldquo; and dispose&nbsp;into her&nbsp;backyard, where all those who came to believe to be what they are not,&nbsp;reside.</p>
+
+<p style="text-align: justify;">Sincerity is the keyword for safe progress. To what extent we can be sincere will certainly be tested in times when we seek material solutions and abandon surrendering to Krsna&#39;s Lotus Feet. How many difficulties we may face due to our long term residence in this material world is not important. Srila Prabhupada wasn&#39;t even interested to discuss how we came here. Important is how we address these problems in the form of UNCONDITIONAL surrender, opening our hearts explicitly to Srila Prabhupada&#39;s words in mood of absolute chastity.</p>
+
+<p style="text-align: justify;">Then, as Srila Prabhupada once wrote to one of His disciples, &bdquo;You always write&nbsp;me how many problems you have. But with a&nbsp;kick of my left foot I can kick all these problems away.&ldquo;&nbsp;</p>
+
+<p style="text-align: justify;">What is the price to be paid? UNCONDITIONAL surrender. Those who do so may receive full benefit by getting the assistance they need.&nbsp;Those who still remain to be &bdquo;opiniated&ldquo;, as Srila Prabhupada defined such fools, may keep on struggling while living under the dictate of their minds, perverted intelligence and above all,&nbsp;false egos.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;">The choice is entirely on our side, Krsna is merely observing and waiting, ready to set the scene according to our desires and the credit we have.<br />
+The Krsna Conscious train station is open 24 hours a day.&nbsp;It is up to us to get on the right train and not to change on the way to a train which seems to be momentarily more comfortable and faster but ends in a dead end station with no way to progress further.</p>
+
+<p style="text-align: justify;">The switch button is in our hands, the possibility to rebook the train and end in the wilderness is always there, as much the mercy of the conductor who may inform us&nbsp;any time in which compartment of the train we are seated best and when we may safely arrive to&nbsp;our final destination.</p>
+
+<p style="text-align: justify;">&nbsp;</p>
+</div>
+    </article>
+
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/are-we-really-surrendered" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="238">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=13"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>

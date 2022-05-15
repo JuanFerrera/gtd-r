@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116332794-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){ dataLayer.push(arguments); }
+		gtag('js', new Date());
+		
+		gtag('config', 'UA-116332794-1');
+	</script>
+    <meta charset="utf-8">
+    <title>            The Great Virus and other man-made devices
+ | Manidhara Das</title>
+    <meta property="og:image" content="/og_image_01.jpg">
+    <meta property="og:title" content="Manidhara das">
+    <meta property="og:description" content="Offical website of Manidhara das">
+    <meta property="og:url" content="http://manidharadas.com/">
+    <meta name="description" content="offical website of Manidhara das (Manidhara prabhu)">
+    <meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#52697d">
+	<meta name="apple-mobile-web-app-title" content="Manidhara das">
+	<meta name="application-name" content="Manidhara das">
+	<meta name="msapplication-TileColor" content="#2b5797">
+	<meta name="theme-color" content="#ffffff">
+    <meta name="twitter:card" content="Offical website of Manidhara das">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+
+    <!-- Google Webfonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600%7CPT+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=12" id="theme-styles">
+
+    <!--[if lt IE 9]>      
+        <script src="/js/html5-3.6-respond-1.1.0.min.js"></script>
+    <![endif]-->
+
+    <script src="/js/jquery.min.js"></script>
+    <script defer src="/font-awesome-5.0.1/svg-with-js/js/fontawesome-all.js"></script>
+        <link href="/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+</head>
+<body>    
+    <header class="web-header">
+        <div class="widewrapper masthead">
+            <div class="container" style="position: relative">
+                <a id="logo" href="/">
+                    <span class="logo-title-text">Manidhara Das</span>
+                    <span class="logo-desciple-text">A Disciple of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada</span>
+                    <span class="logo-founder-acarya-text">Founder-Acarya of the International Society for&nbsp;Krishna Consciousness</span>
+                </a>
+
+                <div id="mobile-nav-toggle">
+                    <a href="#" data-toggle="collapse" data-target=".tales-nav .navbar-collapse">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <nav class="pull-right tales-nav">
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav nav-pills navbar-nav">
+                            <li class="active">
+                                <a href="/">Articles</a>
+                            </li>
+                            <li>
+                                <a href="/gallery">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="/video">Video</a>
+                            </li>
+                            <li>
+                                <a href="/about">About</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>        
+
+            </div>
+        </div>
+
+        <div class="widewrapper subheader">
+            <div class="container">
+                <div class="tales-breadcrumb">
+                    <a href="/?category_id=6">Articles</a>
+                    <span class="separator">/</span>
+                    <a href="/articles/miscellaneous?page=11">Miscellaneous</a>
+                    
+                </div>
+
+                <div class="tales-searchbox">
+                    <form action="/search/search" method="get" accept-charset="utf-8" onsubmit="if($('#searchbox').val() == '') return false;">
+                        <button class="searchbutton" type="submit">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        <input class="searchfield" id="searchbox" name="q" type="text" placeholder="Search">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="widewrapper main">
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 blog-main">
+    <article class="blog-post">
+        <header>
+            <h1>The Great Virus and other man-made devices</h1>
+            <div class="lead-image">
+                <img src="/images/article-details/212_Great-Virus-man-made.jpg" class="img-responsive">
+                <div class="meta clearfix">
+                    <div class="author">
+                        <i class="fa fa-user"></i>
+                        <span class="data">Manidhara Das</span>
+                    </div>
+                    <div class="date">
+                        <i class="fa fa-calendar"></i>
+                        <span class="data">18 Apr 2020</span>
+                    </div>
+                    <div class="comments">
+                        <i class="fa fa-comments"></i>
+                        <span class="data"><a href="#comments">8 Comments</a></span>
+                    </div>                                
+                </div>
+            </div>
+        </header>
+        <div class="body"><div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">That the coronavirus is man-made mutated creation, which is&nbsp;presently endangering the world is not doubted anymore. What is rather pathetic is the way it is dealt with. Srila Prabhupada also experienced in His life various pandemics, even &bdquo;taking some vaccination, regarding the Hong Kong flu&ldquo;, but His instruction &bdquo;never bring me to a hospital&ldquo; surely made some of His disciples desperate in times when His life was endangered.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">Still, as a</span><font size="3"> priority </font><span style="font-size: 14px;">Srila Prabhupada was firmly establishing&nbsp; our&nbsp;Krsna Consciousness and not the way we may try to remove one material problem by creating another one.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">He was absolutely refusing to&nbsp;accept blindly</span><font size="3"> </font><span style="font-size: 14px;">what was served to the public as being the truth, neither He was willing to indulge in speculative conspiration theories. When asked &bdquo;who is behind all this&ldquo;, His answer was firm and simple: &bdquo;Maya, maya is behind all this.&ldquo;</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">As one man may die and another survive, both being infected by the great virus, they are both entirely dependant on God&acute;s mercy. We may attempt to protect ourselves from the onslaught of material energy, but the final preventive measure is to stop acting sinfully, inviting another reaction for our God abusing deeds.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">And so one can only marvel at the worldwide hysteria and the&nbsp;desperate outcries of those who are in fear, that&nbsp;their precious material bodies may not be able to provide for them the desired sense gratification. One may even marvel more when seeing some of our ISKCON leaders joining such entirely body-oriented hysteria, some even declaring the opening of new hospitals to be &bdquo;a sing of Srila Prabhupada&acute;s mercy&ldquo;</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">How furious would be our spiritual master when being equaled with Mother Theresa and other altruistically motivated saviours of mankind, who attempted to improve bodies of others only for the sake of heighten sense gratification. How embarrassing it is that the great preaching opportunity is missed here even by those, who pose as spiritual leaders.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">What would Srila Prabhupada do in such times as these? The answer is clear to those who are familiar with His books and His teachings. He would firmly attack the constructors of this&nbsp;man-made disaster, the deviated members of the scientific community, who in service of the military games for the domination of the world temper with the original design of Mother Nature. Such demoniac people have to be exposed to the public by dint of strong preaching.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">When Srila Prabhupada&acute;s book &bdquo;Life Comes from Life&ldquo; was published many disciples thought that &bdquo;this book is for internal use only&ldquo;. Such strong language was never heard from&nbsp;Srila Prabhupada&acute;s lotus mouth before. Srila Prabhupada proudly announced in a lecture, that quite contrary this book is for the public, as the only missing link the scientists are seeking for is our kick in their faces.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">Now the very same scientific community where this man-made creation came from is posing to the public as the ultimate saviour of&nbsp; mankind, making the puppet-like politicians humbly seeking their advise. Who of the ISKCON leaders make such clear points, exposing the culprits while sincerely offering their victims a spiritual alternative?&nbsp;</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">The confusion around the coronavirus pandemic is evident and welcomed by those who are not confused at all, by its creators. This is a great opportunity for such demoniac people to control masses even more, fill peoples&acute; hearts with fear and sharpen the control of the victimised citizens to the point of absolute loss of personal identity.&nbsp;</span></div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">All&nbsp;this is done by staying anonymous while the &bdquo;big horrible virus&ldquo; is the ultimate culprit of today.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">Srila Prabhupada would be not derated by the way peoples&acute; minds are controled. Even accepting the closeness of premature death such virus can provide, He would advocate this to be even greater opportunity for devotees to preach and become more aware and make others more aware of the urgent need to become Krsna Conscious.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">Here is a prayer of a mathaji named Nandini, written in Mayapur. It&nbsp;truly presents Srila Prabhupada&acute;s spirit and it rephrases in wonderful way the ways demons attempt to &bdquo;protect us all&ldquo;.</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size: 14px;">I have no doubt Srila Prabhupada would be most pleased to read this:</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><br />
+<em><span style="font-size: 14px;">&quot;May I be quarantined in the heart of Sri Sri Radha Madhava for the rest of eternity.&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;May They have me locked down beneath Their reddish lotus feet for the rest of eternity, keeping me safe from the virus of illusion.&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;May They increase my immune system by giving me the vitamins of Their service.&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;This is an order from the government of my heart to the citizens of my mind, during the lockdown period, which will extend till the existence of the soul.&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;Let me use the hand wash called sincerity, to cleanse me of the germs of superficiality. (This should be done as many times in the day as possible, for at least 20 seconds, as per the time of Lord Brahma.)&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;Let me keep&nbsp;great distance from the people called lust, anger,&nbsp;pr</span><span style="font-size: 14px;">ide and hypocricy who have arrived from a foreign land full of virus.&quot;</span></em></div>
+
+<div style="text-align: justify;"><br />
+<em><span style="font-size: 14px;">&quot;Let me at the least keep a two meter distance of anger, from anyone who sneezes and coughs out harsh words against You or Your devotees.&quot;</span></em></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><em><span style="font-size: 14px;">&quot;Let me cover my mouth with the tissue of intellitence, whenever I cough or sneeze any&nbsp;complaints about the service of Your Lordships.&quot;</span></em></div>
+
+<div><br />
+<em><span style="font-size: 14px;">&quot;Let me always keep in my mouth the antivirus of Your holy names and pastimes.&quot;</span></em></div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><span style="font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nandini mathaji ki jaya!</span></div>
+</div>
+    </article>
+
+    <aside class="comments" id="comments">
+        <hr>
+        <h2><i class="fa fa-comments"></i> 8 Comments</h2>
+        
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Tirthakara Das</h3>
+                    <span class="date">
+                        03 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Excellent article. Srila Prabhupada spirit. Thank you Manidhara prabhu. 
+Ys
+Tkd</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Lavanga manjari dd</h3>
+                    <span class="date">
+                        04 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Finally open said... 100% truth!</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Sukadeva swami</h3>
+                    <span class="date">
+                        04 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Krishna bhakti is ultimate solution it should be on and while going through the pandemic, nature cure, natural immunity boosters and ayurvedic remedies and finally whatever works for each person. But certainly nothing to be feared with dependence on holy name</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Gopál Caitanya</h3>
+                    <span class="date">
+                        05 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Of course Prabhupáda never accept any wicked games of demons.. thanks to that fake pandemie we can see very clearly who Is still fearfull kanistha adhikari and who not. </div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Revati dd</h3>
+                    <span class="date">
+                        06 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Thank you so much for speaking out this simple truth. There is nothing to fear, because what ever we get, we deserved it, or need it for our purification. 
+The activities of society at large are reduced, in many cases to the absolute minimum. So many sinful  or at least nonsense activities are not possible anymore. 
+How great is our Lord! His Maya creates such a net of illusion, that most of the people blindly follow all these nonsensical rules. Although it would be so easy to recognize the web of lies - if they would just put aside the newspapers, switch off radio and TV and switch on their brain. The truth is not even hidden, perhaps it's too obvious?! 
+Reading Iskcon's official statements about the pandemic I tend to believe they just want to make those who created all this believe, we won't disturb them. 
+But we will, for sure, because Lord Caitanay's movement can't be stopped anymore. How could darkness ever cover the light? 
+Ys Revati dd
+</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Antardvip Das</h3>
+                    <span class="date">
+                        06 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Thank you dear Manidhara Prabhu! It's astonishing that even after more than one year the ISKCON leaders and the staggering majority of the senior devotees haven't woken up and we can't hear anything like this from them. I expected them to speak strongly against this Covid demoniac agenda and to reveal the demons immediately after it started. I couldn't believe nothing like that happened although it's all so obvious when we see the world through the optic of Srila Prabhupada's transcendental teachings. I expected them to react according to their supposed spiritual advancement especially the many allegedly pure devotees we have in ISKCON but instead they manifest pure bodily platform based behavior, the same understanding as of non devotees. Prominent sannyasis are now even getting publicly vaccinated, setting an example for thousands of the devotees and telling them these new experimental mRNA vaccines are safe. Nothing can be further from the truth if we have just basic common sense. Even many non devotees understand what's going on in this Covid operation. How is it possible the supposedly most advanced of us can't see the truth? What are the reasons for their weird behavior? GBC has pushed the same propaganda as the mainstream media since the beginning of the plandemic. Where is their discrimination between truth and lie, good and evil, spiritual and material, sastra and fake media, Vedic philosophy and misused material pseudo science? It's all very disillusioning and the situation clearly shows who is who. Sadly to say, there are only a few sincere followers of Srila Prabhupada and even less of them are not afraid to speak out the truth publicly. Thank you for being one of them! Srila Prabhupada's movement was infiltrated and hijacked and this Covid operation is a big wake up call for many of us who couldn't see it earlier.</div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Srikanta das</h3>
+                    <span class="date">
+                        06 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">Yes yes yes.. Haaarribool.. 
+Many of my devotee and even not devotee friends agree to that 
+Completely thanks for sharing, prabhu.. Very very important in this crazy time.. Jay Srila Prabhupada and all glories to book distribution.. 		=. -) </div>
+        </article>
+        <article class="comment">
+            <header class="clearfix">
+                <div class="meta">
+                    <h3>Haridas Thakur Das</h3>
+                    <span class="date">
+                        16 Mar 2021
+                    </span>
+                </div>
+            </header>
+             <div class="body">I enjoyed reading this, however, there is one paragraph/section that needs editing (at least on my copy). See below (last part):
+And so one can only marvel at the worldwide hysteria and the desperate outcries of those who are in fear, that their precious material bodies may not able to provide for them the desired sense gratification. One may even marvel more when seeing some of our ISKCON leaders joining such entirely body-oriented hysteria, some even declaring the opening of new hospitals to be „a sing of Srila Prabhupada´s mercy“</div>
+        </article>
+    </aside>
+
+    <aside class="create-comment" id="create-comment">
+        <hr>    
+        <h2><i class="fas fa-comment-alt"></i> Add Comment</h2>
+        <form action="/articles/miscellaneous/the-great-virus-and-other-man-made-devices" method="post" id="frm-commentForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="data[name]" id="frm-commentForm-data-name" required data-nette-rules='[{"op":":filled","msg":"Name is required"}]' class="form-control input-lg" placeholder="Name">
+                </div>
+                <div class="col-md-6">
+                    <input type="email" name="data[email]" id="frm-commentForm-data-email" required data-nette-rules='[{"op":":filled","msg":"Email is required"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg" placeholder="Email">
+                    <input type="email" name="email_confirm" id="frm-commentForm-email_confirm" data-nette-rules='[{"op":":blank","msg":"Confirm email"},{"op":":email","msg":"Please enter a valid email address."}]' class="form-control input-lg hidden">
+                </div>
+            </div>
+            <textarea name="data[text]" rows="10" id="frm-commentForm-data-text" required data-nette-rules='[{"op":":filled","msg":"Please write someting"}]' class="form-control input-lg" placeholder="Your thoughts..."></textarea>
+            <div class="buttons clearfix">
+                <input type="hidden" name="data[article_id]" value="212">
+                <input type="submit" name="send" value="Submit" class="btn btn-xlarge btn-tales-one">
+            </div>
+        <input type="hidden" name="_do" value="commentForm-submit"></form>
+
+    </aside>
+    <div class="paging">
+        <a class="pull-left" href="/articles/miscellaneous?page=11"><i class="fas fa-long-arrow-alt-left"></i> Back to list</a>
+    </div>
+        </div>
+        <aside class="col-md-4 blog-aside">
+            <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner">
+                <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                <span class="fbb-text">Follow me on Facebook</span>
+            </a>
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest Q<span class="small bold"><strong>&</strong></span>A</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/questions-and-answers/why-good-devotees-become-bad-devotees">Why Good Devotees Become Bad Devotees</a></li>
+                        <li><a href="/articles/questions-and-answers/is-krsna-consciousness-based-on-blind-faith">Is Krsna Consciousness Based On Blind Faith?</a></li>
+                        <li><a href="/articles/questions-and-answers/how-does-one-recognize-a-real-spiritual-master">How does one recognize a real spiritual master?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-sannyasis-preach-or-advise-grhastas">Can sannyasis preach or advise grhastas?</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aside-widget">
+                <header>
+                    <h3>Latest articles</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-said/to-see-the-world-with-eyes-of-srila-prabhupada">To See the World With Eyes of Srila Prabhupada</a></li>
+                        <li><a href="/articles/miscellaneous/iskcon-owners-and-iskcon-members">ISKCON Owners And ISKCON                    Members</a></li>
+                        <li><a href="/articles/miscellaneous/the-glories-of-motherhood">THE GLORIES OF MOTHERHOOD</a></li>
+                        <li><a href="/articles/sp-said/vaccinated-by-maya-against-krsna-consciousness">Vaccinated By Maya Against Krsna Consciousness</a></li>
+                        <li><a href="/articles/miscellaneous/krsna-conscious-management-ii">Krsna Conscious Management II</a></li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div class="aside-widget">
+                <header>
+                    <h3>Most read</h3>
+                </header>
+                <div class="body">
+                    <ul class="tales-list">
+                        <li><a href="/articles/sp-letters-meditations/further-quotes-from-srila-prabhupada-regarding-grhasta-asrama">Further Quotes From Srila Prabhupada Regarding Grhasta Asrama</a></li>
+                        <li><a href="/articles/sp-memories/question-could-you-tell-us-something-about-your-personal-association-with-srila-prabhupada">Question: Could you tell us something about your personal association with Srila Prabhupada?</a></li>
+                        <li><a href="/articles/sp-said/srila-prabhupada-s-dictionary">Srila Prabhupada's "dictionary"</a></li>
+                        <li><a href="/articles/book-distribution/their-lordships-sri-sri-radha-madana-mohana-in-germany">Their Lordships Sri Sri Radha Madana Mohana in Germany</a></li>
+                        <li><a href="/articles/questions-and-answers/can-women-give-diksa-initiation">Can women give diksa initiation?</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </aside>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="widewrapper footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fab fa-wpforms"></i>Statistics</h3>
+
+                        <span>Even we sometimes loose track of how many articles we actually have here. This one helps:</span>
+
+                        <div class="stats">
+                            <div class="line">
+                                <span class="counter">146</span>
+                                <span class="caption">Articles</span>
+                            </div>
+                            <div class="line">
+                                <span class="counter">31</span>
+                                <span class="caption">Comments</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="far fa-money-bill-alt"></i>If you wish to support my preaching</h3>
+                        <p>Bank: Fio banka<br>
+                           Account Name: Miroslav Soukup<br>
+                           Account Number: 2501913501<br>
+                           Sort code: 2010<br>
+                           IBAN: CZ12 2010 0000 0025 0191 3501<br>
+                           BIC: FIOBCZPPXXX<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4 footer-widget">
+                        <h3><i class="fa fa-envelope"></i>Contact Me</h3>
+
+                        <span>Serious readers are welcomed to send their questions, comments and thoughts to my e-mail:</span>
+                        
+                        <span class="email">
+                            <a href="mailto: manidhara.acbsp@pamho.net">Manidhara.Das.ACBSP@email.cz</a>
+                        </span>
+
+                        <a href="https://www.facebook.com/Manidharadascom-100376585561952" class="fb-banner-footer">
+                            <svg viewBox="0 0 36 36" class="a8c37x1j ms05siws hwsy1cff b7h9ocf4" fill="url(#jsc_c_3)" height="40" width="40"><defs><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="jsc_c_3"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient></defs><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path><path style="fill: #FFFFFF" d="M25 23l.8-5H21v-3.5c0-1.4.5-2.5 2.7-2.5H26V7.4c-1.3-.2-2.7-.4-4-.4-4.1 0-7 2.5-7 7v4h-4.5v5H15v12.7c1 .2 2 .3 3 .3s2-.1 3-.3V23h4z"></path></svg>
+                            <span class="fbb-text">Follow me on Facebook</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="widewrapper copyright">
+            <div class="container">
+                <!--Note: Feel free to remove or change this link as you please. A link to HackerThemes is not required by any means-->
+                Created by <span>Muktakéša dás</span>
+            </div>
+        </div>
+    </footer>    
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/modernizr-custom.js"></script>
+        <script src="/js/plugins/sweetalert/sweetalert.min.js"></script>
+
+    <script>
+        $("#frm-commentForm").submit(function() {
+            var submit_button = $(this).find('input[name=send]');
+            $(submit_button).removeClass('btn-tales-one').addClass('disabled').attr('disabled', 'disabled');
+
+            $(this).find('input, textarea').attr('readonly', 'readonly');
+            $(this).addClass('sending-progress');
+        });
+
+        $(".audio-table tr[data-audio-source]").on('click', function() {
+            window.open($(this).data('audio-source'), '_blank');
+        });
+    </script>
+</body>
+</html>
